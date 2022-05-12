@@ -1,14 +1,17 @@
 ---
 permalink: /
-title: "About Me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+![an artistic image that contains blocks of colored squares vaguely resembling and overhead view of rural landscape](../images/personal-art.jpg)
 
 _This page is **heavily** under construction, so stick with me while I work on it. Until then, visit my current homepage at [http://www.eg.bucknell.edu/~emp017/](http://www.eg.bucknell.edu/~emp017/)_
+
+# About Me
 
 I am an Associate Professor of [Computer Science at Bucknell University](https://www.bucknell.edu/academics/college-engineering/majors-departments/computer-science). I am currently on sabbatical until August 2022, working as a Visiting Scientist at [MIT's Visualization Group](http://vis.csail.mit.edu/) with [Arvind Satyanarayan](https://arvindsatya.com/). My research draws on the fields of [Human-Computer Interaction](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/human-computer-interaction-brief-intro) and [Information Visualization](https://www.interaction-design.org/literature/topics/information-visualization). I believe in _student-centered everything_
 
