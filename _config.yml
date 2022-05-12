@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Evan M. Peck, Ph.D."
   avatar           : "me.png"
-  bio              : "Associate Professor of Computer Science at Bucknell University"
+  bio              : "Associate Professor of Computer Science"
   location         : "Lewisburg, PA"
-  employer         :
+  employer         : "Bucknell University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=H4TdGyYAAAAJ&hl=en"
   email            : "evan.peck@bucknell.edu"
