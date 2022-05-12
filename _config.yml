@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Evan M Peck"
+title                    : "Evan M Peck"
 title_separator          : "-"
 name                     : &name "Evan Peck"
 description              : &description "testing where this personal description goes"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Evan M. Peck"
+  name             : "Evan M. Peck, Ph.D."
   avatar           : "me.png"
   bio              : "Associate Professor of Computer Science at Bucknell University"
   location         : "Lewisburg, PA"
