@@ -42,3 +42,10 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+.page__content {
+
+  p, li, dl {
+    font-size: 0.5em; /* was 1em - testing */
+  }
+}

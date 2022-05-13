@@ -9,7 +9,7 @@ redirect_from:
 ---
 ![an artistic image that contains blocks of colored squares vaguely resembling and overhead view of rural landscape](../images/personal-art.jpg)
 
-**!!!** This page is **heavily** under construction, so stick with me while I work on it. Until then, visit my current homepage at [http://www.eg.bucknell.edu/~emp017/](http://www.eg.bucknell.edu/~emp017/)
+**!!!** Note: This page is **heavily** under construction, so stick with me while I work on it. Until then, visit my current homepage at [http://www.eg.bucknell.edu/~emp017/](http://www.eg.bucknell.edu/~emp017/)
 {: .notice}
 
 ## About Me
