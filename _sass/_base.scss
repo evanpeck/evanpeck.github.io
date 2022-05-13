@@ -8,7 +8,6 @@ html {
 }
 
 body {
-  font-size: $type-size-7;
   margin: 0;
   padding: 0;
   padding-bottom: 9em;
@@ -59,6 +58,7 @@ small, .small {
 }
 
 p {
+  font-size: $type-size-8; /* test*/
   margin-bottom: 1.3em;
 }
 
