@@ -14,6 +14,4 @@ author_profile: true
 <script src="{{ base_path }}/assets/js/listpubs.js"></script>
 <div id="publications"></div>
 
-<!-- {% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
+
