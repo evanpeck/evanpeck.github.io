@@ -34,6 +34,7 @@ function addPub(pub_data) {
 
     let pub = makeDiv('pub')
     pubs_section.appendChild(pub);
+    
 
     let thumbnail = document.createElement('img')
     thumbnail.classList.add('thumbnail')
@@ -49,16 +50,17 @@ function addPub(pub_data) {
     let venue = makeDiv('venue')
     venue.textContent = pub_data.venue + ', ' + pub_data.year
 
+
+    // add thumbnail
     pub.appendChild(thumbnail)
-    pub.appendChild(title)
-    pub.appendChild(authors)
-    pub.appendChild(venue)
 
-    // author string
-    // let authors = 
-    // console.log(authors)
+    // add pubinfo
+    let pubInfo = makeDiv('pubinfo');
+    pub.appendChild(pubInfo)
+    pubInfo.appendChild(title)
+    pubInfo.appendChild(authors)
+    pubInfo.appendChild(venue)
 
-    //
 }
 
 main()
