@@ -1,0 +1,706 @@
+{
+
+  "pub_grouping": {
+    "conference": "group1",
+    "workshop": "group2",
+    "journal": "group1",
+    "dissertation": "group1",
+    "chapter": "group1",
+    "late-breaking work": "group3",
+    "poster": "group3",
+    "article": "group2",
+    "demo": "group3",
+    "tech report": "group3",
+    "BOF": "group3",
+    "special session": "group3"
+  },
+
+  "publications": [
+    {
+      "key": "sigcse_20_ethics",
+      "author": ["Stacy A. Doore", "Casey Fiesler", "Michael S. Kirkpatrick", "Evan M. Peck", "Mehran Sahami"],
+      "title": "Assignments that Blend Ethics and Technology",
+      "venue": "SIGCSE: ACM Special Interest Group on CS Education Technical Symposium",
+      "year": 2020,
+      "thumbnail": "hiring.png",
+      "type": "special session"
+    },
+    {
+      "key": "sigcse_20_nifty",
+      "author": ["Nick Parlante", "Julie Zelenski", "Evan M. Peck", "Kevin Wayne", "John DeNero", "Christopher Allsman", "Tiffany Purumpail", "Rahul Arya", "Kavi Gupta", "Catherine Cang", "Paul Bitutsky", "Ryan Moughan", "David J. Malan", "Brian Yu", "Carl Albing", "Keith Schwartz"],
+      "title": "Nifty Assignments",
+      "venue": "SIGCSE: ACM Special Interest Group on CS Education Technical Symposium",
+      "year": 2020,
+      "thumbnail": "housing.png",
+      "type": "special session"
+    },
+    {
+      "key": "chi_19_data",
+      "author": ["Evan M. Peck", "Sofia E Ayuso", "Omar El-Etr"],
+      "title": "Data is Personal: Attitudes and Perceptions of Data Visualization in Rural Pennsylvania",
+      "venue": "CHI: ACM Conference on Human Factors in Computing Systems",
+      "year": 2019,
+      "thumbnail": "farmersmarket.jpg",
+      "pdf":"papers/dataIsPersonal-chi2019.pdf",
+      "award": "Best Paper",
+      "type": "conference",
+      "supp": {
+      	"Data & Material": "https://osf.io/uxwts/",
+        "arXiv": "https://arxiv.org/abs/1901.01920",
+        "ACM": "https://dl.acm.org/citation.cfm?id=3300474",
+        "Quick Summary (Twitter Thread)": "https://threadreaderapp.com/thread/1107677854970585088.html?refreshed=yes"
+      }
+    },
+    {
+      "key": "beliv_19_eye",
+      "author": ["Alvitta Ottley", "Aleksandra Kaszowska", "Evan M. Peck", "R. Jordan Crouser"],
+      "title": "The Curious Case of Combining Text and Visualization",
+      "venue": "EuroVis (Short Paper): EG/VGTC Conference on Visualization",
+      "year": 2019,
+      "thumbnail": "bayeseye.png",
+      "type": "conference"
+    },
+    {
+      "key": "pervasive_18",
+      "author": ["Orit Shaer", "Evan M. Peck"],
+      "title": "Teaching Pervasive Computing in Liberal Arts Colleges",
+      "venue": "IEEE Pervasive Computing",
+      "year": 2018,
+      "thumbnail": "libarts.png",
+      "pdf": "https://ieeexplore.ieee.org/document/8490181",
+      "type": "article"
+    },
+    {
+      "key": "cscw_18",
+      "author": ["Desmond Dinkins", "Gia Hayes", "Darakhshan Mir", "Evan M. Peck", "Dylan Rogers", "Jennifer Silva"],
+      "title": "Using Participatory Approaches to Uncover Privacy Norms with Marginalized Communities",
+      "venue": "Neworked Privacy Workshop at ACM CSCW",
+      "year": 2018,
+      "thumbnail": "privacy.png",
+      "type": "workshop"
+    },
+  	{
+      "key": "sigcse_19",
+      "author": ["Janet Davis", "Iris Howley", "Darakhshan Mir", "Evan M. Peck", "Deborah Tatar"],
+      "title": "Make and Take an Ethics Module: Ethics Across the CS Curriculum",
+      "venue": "Workshop in ACM SIGCSE",
+      "year": 2019,
+      "thumbnail": "ethics.jpg",
+      "pdf": "https://dl.acm.org/citation.cfm?id=3287543",
+      "type": "workshop"
+    },
+    {
+      "key": "infovis_18",
+      "author": ["Mi Feng", "Evan M. Peck", "Lane Harrison"],
+      "title": "Patterns and Pace: Quantifying Diverse Exploration Behavior with Visualizations on the Web",
+      "venue": "IEEE TVCG: Transactions on Visualization and Computer Graphics (InfoVis 2018)",
+      "year": 2019,
+      "thumbnail": "patternsPace.png",
+      "pdf":"papers/patterns-and-pace-vis2018.pdf",
+      "type": "journal",
+      "supp": {
+        "Data and Analysis": "https://osf.io/dx43q"
+      }
+    },
+  	{
+      "key": "soups_18",
+      "author": ["Brooke Bullek", "Stephanie Garboski", "Darakhshan J. Mir", "Evan M. Peck"],
+      "title": "Towards Understanding Differential Privacy: When Do People Trust Randomized Response Technique?",
+      "venue": "Poster in SOUPS: Symposium on Usable Privacy and Security",
+      "year": 2018,
+      "thumbnail": "RRT.png",
+      "type": "poster"
+    },
+    {
+      "key": "chi_18_sensemaking",
+      "author": ["Evan M. Peck", "Lane Harrison"],
+      "title": "Empowering Sensemaking in the Web's Emerging Visualization Ecosystem",
+      "venue": "ACM CHI Workshop on Sensemaking in a Senseless World",
+      "year": 2018,
+      "thumbnail": "sense.png",
+      "pdf":"papers/chi18-sensemakingvis.pdf",
+      "type": "workshop",
+      "supp": {
+      	"Workshop": "https://sensemakingchi2018.com/",
+      	"Slides (32 MB)": "slides/sensemaking_vis_chi2018.pptx"
+      }
+    },
+  	{
+      "key": "chi_18_hcipui",
+      "author": ["Evan M. Peck", "Madeline E. Smith", "Michael Stewart"],
+      "title": "HCI for PUI: Human-Computer Interaction for Primarily-Undergraduate Institutions",
+      "venue": "ACM CHI Workshop on Developing a Community of Practice to Support Global HCI Education",
+      "year": 2018,
+      "thumbnail": "inputs.png",
+      "pdf":"papers/chi18-hci4pui.pdf",
+      "type": "workshop",
+      "supp": {
+      	"Workshop": "https://hcieducation.wordpress.com/"
+      }
+    },
+    {
+      "key": "chi_18_foresight",
+      "author": ["Mi Feng", "Cheng Deng", "Evan M. Peck", "Lane Harrison"],
+      "title": "The Effects of Adding Search Functionality to Interactive Visualizations on the Web",
+      "venue": "CHI: ACM Conference on Human Factors in Computing Systems",
+      "year": 2018,
+      "thumbnail": "foresight.png",
+      "pdf":"papers/vis-search-chi2018.pdf",
+      "type": "conference",
+      "supp": {
+      	"Video Preview": "https://www.youtube.com/watch?v=qEPZlunAJX0",
+      	"ACM": "https://dl.acm.org/citation.cfm?id=3173574.3173711",
+      	"Data": "https://github.com/wpivis/search-in-vis"
+      }
+    },
+    {
+      "key": "sigcse_bof_18",
+      "author": ["Farzana Rahman", "Perry Fizzano", "Evan M. Peck", "Shameem Ahmed", "Stu Thompson"],
+      "title": "How to Build a Student-Centered Research Culture for the Benefit of Undergraduate Students",
+      "venue": "Birds-of-a-Feather, SIGCSE",
+      "year": 2018,
+      "thumbnail": "student.jpg",
+      "type": "BOF",
+      "pdf": "https://dl.acm.org/citation.cfm?id=3162179",
+      "supp": {
+      	"Abstract": "https://whova.com/embedded/session/sigsc_201802/303926/"
+      }
+    },
+    {
+      "key": "vis_poster_17",
+      "author": ["Mi Feng", "Cheng Deng", "Evan M. Peck", "Lane Harrison"],
+      "title": "The Impact of Text-Based Search in Interactive Data Visualizations on the Web",
+      "venue": "IEEE Conference on Information Visualization (InfoVis 2017)",
+      "year": 2017,
+      "thumbnail": "searchPoster.png",
+      "type": "poster"
+    },
+  	{
+      "key": "chi_17",
+      "author": ["Brooke Bullek", "Stephanie Garboski", "Darakhshan J. Mir", "Evan M. Peck"],
+      "title": "Towards Understanding Differential Privacy: When Do People Trust Randomized Response Technique?",
+      "venue": "CHI: ACM Conference on Human Factors in Computing Systems",
+      "year": 2017,
+      "thumbnail": "RRT.png",
+      "pdf": "papers/diffPrivacy_chi2017.pdf",
+      "type": "conference",
+      "supp": {
+      	"Article": "http://www.bucknell.edu/news-and-media/current-news/2017/june/student-researchers-ask-how-secure-we-feel-about-internet-security.html",
+        "ACM": "http://dl.acm.org/citation.cfm?id=3025698",
+        "RRT Spinner Demo": "http://eg.bucknell.edu/~btb004/"
+      }
+    },
+    {
+      "key": "chi_17_lbw",
+      "author": ["Jordan Sechler", "Lane Harrison", "Evan M. Peck"],
+      "title": "SightLine: Building on the Web's Visualization Ecosystem",
+      "venue": "CHI Extended Abstracts: ACM Conference on Human Factors in Computing Systems",
+      "year": 2017,
+      "thumbnail": "sightline.png",
+      "pdf": "papers/sightline_chi2017lbw.pdf",
+      "type": "late-breaking work",
+      "supp": {
+        "ACM": "http://dl.acm.org/citation.cfm?id=3053142",
+      	"Blog post": "https://medium.com/@jordansekky/why-sightline-b877670aad5b",
+        "Website": "https://sightlinevis.com/",
+        "Chrome Extension": "https://chrome.google.com/webstore/detail/sightline/jadbnilgdgpekkjiakamdjoemlolhhjg"
+      }
+    },
+  	{
+      "key": "infovis_16",
+      "author": ["Mi Feng", "Cheng Deng", "Evan M. Peck", "Lane Harrison"],
+      "title": "HindSight: Encouraging Exploration through Direct Encoding of Personal Interaction History",
+      "venue": "IEEE TVCG: Transactions on Visualization and Computer Graphics (InfoVis 2016)",
+      "year": 2017,
+      "thumbnail": "hindsight.png",
+      "pdf": "papers/hindsight_infovis2016.pdf",
+      "type": "journal",
+      "supp": {
+        "IEEE": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7539616",
+        "Blog post": "https://medium.com/@evanmpeck/hindsight-encouraging-exploration-and-engagement-in-data-visualization-7b0d9d421fc5#.32g8lqhyy",
+        "Material and Demos": "https://wpivis.github.io/hindsight/"
+      }
+    }, {
+      "key": "sicase_16_poster",
+      "author": ["Eun Youb Lee", "Beste Yuksel", "Daniel Afergan",
+        "Samuel W. Hincks",
+        "Tomoki Shibata", "Erin Solovey", "A.J. Jenkins", "Kurt B. Oleson",
+        "Lane Harrison", "Evan M. Peck", "Remco Chang", "Robert J.K. Jacob"
+      ],
+      "title": "Using Brain States to Enhance User Experience",
+      "venue": "SICASE: Seoul International Conference on Applied Science and Engineering",
+      "year": 2016,
+      "thumbnail": "NIRSuse.jpg",
+      "pdf": "papers/sicase2016_poster.pdf",
+      "type": "poster"
+    }, {
+      "key": "iui_16",
+      "author": ["R. Jordan Crouser", "Lane Harrison", "Daniel Afergan",
+        "Evan M. Peck"
+      ],
+      "title": "Beyond Detection: Investing in Practical and Theoretical Applications of Emotion and Visualization",
+      "venue": "IUI: ACM Conference on Intelligent User Interfaces, Workshop on Emotion and Visualization",
+      "year": 2016,
+      "thumbnail": "eye_vis.png",
+      "pdf": "papers/emovis_iui.pdf",
+      "type": "workshop",
+      "supp": {
+        "workshop site": "http://cs.lnu.se/emovis2016/"
+      }
+    },
+
+    {
+      "key": "chi_16",
+      "author": ["Beste Yuksel", "Kurt Oleson", "Lane Harrison",
+        "Evan M. Peck", "Daniel Afergan", "Remco Chang",
+        "Robert J.K. Jacob"
+      ],
+      "title": "Learn Piano with BACh: An Adaptive Learning Interface that Adjusts Task Difficulty based on Brain State",
+      "venue": "CHI: ACM Conference on Human Factors in Computing Systems",
+      "year": 2016,
+      "thumbnail": "bach.png",
+      "type": "conference",
+      "pdf": "papers/yuksel_musiclearning_2016.pdf",
+      "award": "Best Paper",
+      "supp": {
+        "ACM": "http://dl.acm.org/citation.cfm?id=2858388",
+        "demo video": "https://vimeo.com/153867393"
+      }
+    },
+
+    {
+      "key": "ieeecomp_15",
+      "author": ["Evan M. Peck", "Emily Carlin", "Robert J.K. Jacob"],
+      "title": "Designing Brain-Computer Interfaces for Attention-Aware Systems",
+      "venue": "IEEE Computer",
+      "year": 2015,
+      "thumbnail": "ieee_bci.png",
+      "type": "journal",
+      "pdf": "papers/Peck-Computer15.pdf",
+      "supp": {
+        "special issue": "http://online.qmags.com/CMG1015?pg=15&mode=2#pg1&mode2"
+      }
+    },
+
+    {
+      "key": "infovis_15",
+      "author": ["Alvitta Ottley", "Evan M. Peck", "Lane Harrison",
+        "Daniel Afergan", "Caroline Ziemkiewicz", "Holly A. Taylor",
+        "Paul K.J. Han", "Remco Chang"
+      ],
+      "title": "Improving Bayesian Reasoning: The Effects of Phrasing, Visualization, and Spatial Ability",
+      "venue": "IEEE TVCG: Transactions on Visualization and Computer Graphics (InfoVis 2015)",
+      "year": 2016,
+      "thumbnail": "bayes.png",
+      "type": "journal",
+      "pdf": "papers/bayes_infovis2015.pdf",
+      "supp": {
+        "IEEE": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7192720",
+        "video preview": "https://vimeo.com/136205947",
+        "data (github)": "https://github.com/TuftsVALT/bayes"
+      }
+    },
+
+    {
+      "key": "eics_15",
+      "author": ["Evan M. Peck", "Eleanor Easse", "Nick Marshall",
+        "William Stratton", "L. Felipe Perrone"
+      ],
+      "title": "FlyLoop: A Micro Framework for Rapid Development of Physiological Computing Systems",
+      "venue": "ACM EICS: Symposium on Engineering Interactive Computing Systems (Short Paper)",
+      "year": 2015,
+      "thumbnail": "flyLoop.png",
+      "type": "late-breaking work",
+      "pdf": "papers/flyloop_eics2015.pdf",
+      "supp": {
+        "slides": "slides/eics2015-slides.pdf"
+      }
+    },
+
+    {
+      "key": "musicTech_15",
+      "author": ["Beste Filiz Yuksel", "Daniel Afergan", "Evan M. Peck",
+        "Garth Griffin", "Lane Harrison", "Nick Chen", "Remco Chang",
+        "Robert Jacob"
+      ],
+      "title": "Implicit Brain-Computer Interaction Applied to a Novel Adaptive Musical Interface",
+      "venue": "Tech Report: Tufts University, Dept. of Computer Science",
+      "year": 2015,
+      "thumbnail": "music.png",
+      "type": "tech report",
+      "pdf": "papers/yuksel_music_2015.pdf",
+      "supp": {
+        "url": "http://www.cs.tufts.edu/t/tr/techreps/TR-2015-01"
+      }
+    },
+
+    {
+      "key": "nime_15",
+      "author": ["Beste Filiz Yuksel", "Daniel Afergan", "Evan M. Peck",
+        "Garth Griffin", "Lane Harrison", "Nick Chen", "Remco Chang",
+        "Robert Jacob"
+      ],
+      "title": "BRAAHMS: A Novel Adaptive Musical Interface Based on Users' Cognitive State",
+      "venue": "NIME: New Interfaces for Musical Expression",
+      "year": 2015,
+      "thumbnail": "music.png",
+      "type": "conference",
+      "pdf": "papers/yuksel_NIME2015.pdf"
+    },
+
+    {
+      "key": "tochi_15",
+      "author": ["Erin Solovey", "Daniel Afergan", "Evan M. Peck",
+        "Samuel W. Hincks", "Robert J.K. Jacob"
+      ],
+      "title": "Designing Implicit Interfaces for Physiological Computing: Guidelines and Lessons Learned with fNIRS",
+      "venue": "TOCHI: ACM Transactions on Computer-Human Interaction",
+      "year": 2015,
+      "thumbnail": "fNIRS3.png",
+      "type": "journal",
+      "pdf": "papers/tochi_15.pdf",
+      "supp": {
+        "ACM": "http://dl.acm.org/citation.cfm?id=2687926"
+      }
+    },
+
+    {
+      "key": "spie_15",
+      "author": ["Beste F. Yuksel", "Evan M. Peck", "Daniel Afergan",
+        "Samuel W. Hincks", "Tomoki Shibata", "Jana M. Kainerstorfer",
+        "Kristen Tgavalekos", "Angelo Sassaroli", "Sergio Fantini",
+        "Robert J.K. Jacob"
+      ],
+      "title": "Functional Near-Infrared Spectroscopy for Adaptive Human-Computer Interfaces",
+      "venue": "SPIE Photonics West",
+      "year": 2015,
+      "thumbnail": "fNIRSshow.jpg",
+      "type": "conference",
+      "pdf": "papers/fnirs_spie2015.pdf"
+    },
+
+    {
+      "key": "dis_14",
+      "author": ["Evan M. Peck"],
+      "title": "Designing Brain-Computer Interfaces for Intelligent Information Delivery Systems",
+      "venue": "Ph.D. Dissertation",
+      "year": 2014,
+      "thumbnail": "brainImage.png",
+      "pdf": "papers/epeck_thesis.pdf",
+      "type": "dissertation"
+    },
+
+    {
+      "key": "uist_14_poster",
+      "author": ["Tomoki Shibata", "Evan M. Peck", "Daniel Afergan",
+        "Samuel Hincks", "Beste Yuksel", "Robert J.K. Jacob"
+      ],
+      "title": "Building Implicit Interfaces for Wearable Computers with Physiological Inputs: Zero Shutter Camera and Phylter",
+      "venue": "UIST: ACM Symposium on User Interface Software and Technology",
+      "year": 2014,
+      "thumbnail": "uist_poster.png",
+      "pdf": "papers/shibata_uist2014_poster.pdf",
+      "type": "poster",
+      "supp": {
+        "poster design": "papers/shibata_uist2014_posterDesign.pdf"
+      }
+    },
+
+    {
+      "key": "uist_14",
+      "author": ["Daniel Afergan", "Tomoki Shibata", "Samuel Hincks",
+        "Evan M. Peck", "Beste F. Yuksel", "Remco Chang",
+        "Robert J.K. Jacob"
+      ],
+      "title": "Brain-Based Target Expansion",
+      "venue": "UIST: ACM Symposium on User Interface Software and Technology",
+      "year": 2014,
+      "thumbnail": "bubbleCursor.png",
+      "pdf": "papers/afergan_uist2014.pdf",
+      "type": "conference",
+      "supp": {
+        "video (38 MB)": "videos/brainBasedTarget.mp4"
+      }
+    },
+
+    {
+      "key": "phycs_14",
+      "author": ["Evan M. Peck", "Daniel Afergan", "Beste F. Yuksel",
+        "Remco Chang", "Robert J.K. Jacob"
+      ],
+      "title": "Using fNIRS to Measure Mental Workload in the Real World",
+      "venue": "Advances in Physiological Computing",
+      "year": 2014,
+      "thumbnail": "NIRSuse.jpg",
+      "pdf": "http://link.springer.com/chapter/10.1007/978-1-4471-6392-3_6",
+      "type": "chapter",
+      "supp": {
+        "book link": "http://link.springer.com/book/10.1007/978-1-4471-6392-3"
+      }
+    },
+
+    {
+      "key": "chi_14",
+      "author": ["Daniel Afergan", "Evan M. Peck", "Erin Solovey",
+        "A.J. Jenkins", "Sam Hincks", "Eli T. Brown", "Remco Chang",
+        "Robert J.K. Jacob"
+      ],
+      "title": "Dynamic Difficulty Using Brain Metrics",
+      "venue": "CHI: ACM Conference on Human Factors in Computing Systems",
+      "year": 2014,
+      "thumbnail": "UAV.png",
+      "pdf": "papers/chi14_dynamicdifficulty.pdf",
+      "type": "conference",
+      "award": "Best Paper Honorable Mention",
+      "supp": {
+        "video preview": "https://www.youtube.com/watch?v=89nleUf-X8I"
+      }
+    },
+
+    {
+      "key": "chi_13",
+      "author": ["Evan M. Peck", "Beste F. Yuksel", "Alvitta Ottley",
+        "Robert J.K. Jacob", "Remco Chang"
+      ],
+      "title": "Using fNIRS Brain Sensing to Evaluate Information Visualization Interfaces",
+      "venue": "CHI: ACM Conference on Human Factors in Computing Systems",
+      "year": 2013,
+      "thumbnail": "mcgill.png",
+      "pdf": "papers/CHI_fNIRS_2013.pdf",
+      "type": "conference",
+      "supp": {
+        "video preview": "https://vimeo.com/57869681"
+      }
+    },
+
+    {
+      "key": "me_13a",
+      "author": ["Daniel Afergan", "Evan M. Peck", "Remco Chang",
+        "Robert J.K. Jacob"
+      ],
+      "title": "Using Passive Input to Adapt Visualization Systems to the Individual",
+      "venue": "CHI Workshop: Many People Many Eyes: Aggregating Influences of Visual Perception on User Interface Design",
+      "year": 2013,
+      "thumbnail": "manyPeople.png",
+      "pdf": "papers/manyeyes_passiveinput.pdf",
+      "type": "workshop",
+      "supp": {
+        "workshop site": "http://people.seas.harvard.edu/~reinecke/manyeyes/index.html"
+      }
+    },
+
+    {
+      "key": "me_13b",
+      "author": ["Alvitta Ottley", "Evan M. Peck", "Lane Harrison",
+        "Remco Chang"
+      ],
+      "title": "The Adaptive User: Priming to Improve Interaction",
+      "venue": "CHI Workshop: Many People Many Eyes: Aggregating Influences of Visual Perception on User Interface Design",
+      "year": 2013,
+      "thumbnail": "priming.png",
+      "pdf": "papers/manyeyes_priming.pdf",
+      "type": "workshop",
+      "supp": {
+        "workshop site": "http://people.seas.harvard.edu/~reinecke/manyeyes/index.html"
+      }
+    },
+
+    {
+      "key": "ah_13",
+      "author": ["Evan M. Peck", "Daniel Afergan", "Robert J.K. Jacob"],
+      "title": "Using fNIRS as Input to Information Filtering Systems",
+      "venue": "Augmented Human",
+      "year": 2013,
+      "thumbnail": "brainfilter.png",
+      "pdf": "papers/epeck_AH2013.pdf",
+      "type": "conference"
+    },
+
+    {
+      "key": "beliv_12",
+      "author": ["Evan M. Peck", "Beste F. Yuksel", "Lane Harrison",
+        "Alvitta Ottley", "Remco Chang"
+      ],
+      "title": "Position Paper: Towards a 3-Dimensional Model of Individual Cognitive Differences",
+      "venue": "BELIV: Beyond Time and Errors: Novel Evaluation Methods for Visualization",
+      "year": 2012,
+      "thumbnail": "emptyCube.png",
+      "pdf": "papers/IndDiff.pdf",
+      "type": "workshop",
+      "supp": {
+        "BELIV site": "http://beliv.cs.univie.ac.at/mediawiki/index.php/BELIV2012"
+      }
+    },
+
+    {
+      "key": "vis_11",
+      "author": ["Evan M. Peck", "Erin Solovey", "Sara Su",
+        "Robert J.K. Jacob", "Remco Chang"
+      ],
+      "title": "Near to the Brain: Functional Near-Infrared Spectroscopy as a Lightweight Brain Imaging Technique for Visualization",
+      "venue": "InfoVis: IEEE Information Visualization Posters",
+      "year": 2011,
+      "thumbnail": "barPie.png",
+      "pdf": "papers/INFOVIS2011-Poster-fNIRS.pdf",
+      "type": "poster",
+      "award": "Best Poster",
+      "supp": {
+        "poster design": "papers/VisWeekPosterDesign.pdf"
+      }
+    },
+
+    {
+      "key": "xrds_11a",
+      "author": ["Evan M. Peck", "Erin Solovey"],
+      "title": "Neuroscience and Computing Introduction (Issue Editors)",
+      "venue": "ACM XRDS: Crossroads",
+      "year": 2011,
+      "thumbnail": "XRDS.png",
+      "pdf": "papers/xrds-intro.pdf",
+      "type": "article",
+      "supp": {
+        "full issue": "http://dl.acm.org/citation.cfm?id=2000775.2000778&coll=portal&dl=ACM"
+      }
+    },
+
+    {
+      "key": "xrds_11b",
+      "author": ["Evan M. Peck", "Erin Solovey"],
+      "title": "The Sensorium",
+      "venue": "ACM XRDS: Crossroads",
+      "year": 2011,
+      "thumbnail": "XRDS.png",
+      "pdf": "papers/xrds-sensorium.pdf",
+      "type": "article",
+      "supp": {
+        "full issue": "http://dl.acm.org/citation.cfm?id=2000775.2000778&coll=portal&dl=ACM"
+      }
+    },
+
+    {
+      "key": "bbw_11a",
+      "author": ["Evan M. Peck", "Francine Lalooses", "Krysta Chauncey"],
+      "title": "Framing Meaningful Adaptation in a Social Context",
+      "venue": "ACM CHI 2011 Workshop: Brain and Body Interfaces: Designing for Meaningful Interaction",
+      "year": 2011,
+      "thumbnail": "social.png",
+      "pdf": "papers/MeaningfulAdaptationContext.pdf",
+      "type": "workshop",
+      "supp": {
+        "talk": "http://vimeo.com/24511497",
+        "workshop site": "http://brainandbody.physiologicalcomputing.net/"
+      }
+    },
+
+    {
+      "key": "bbw_11b",
+      "author": ["Krysta Chauncey", "Evan M. Peck"],
+      "title": "Access and Analysis: The Ethics of Brain-Computer Interfaces",
+      "venue": "ACM CHI 2011 Workshop: Brain and Body Interfaces: Designing for Meaningful Interaction",
+      "year": 2011,
+      "thumbnail": "fNIRS2.jpg",
+      "pdf": "papers/ethicsBCI.pdf",
+      "type": "workshop"
+    },
+
+    {
+      "key": "comp_10",
+      "author": ["Evan M. Peck", "Erin Solovey", "Audrey Girouard",
+        "Leanne Hirshfield", "Krysta Chauncey", "Angelo Sassaroli",
+        "Sergio Fantini", "Robert J.K. Jacob"
+      ],
+      "title": "Your Brain, Your Computer, and You",
+      "venue": "IEEE Computer: Invisible Computing Column",
+      "year": 2010,
+      "thumbnail": "ieee.png",
+      "pdf": "papers/ieeeComputer.pdf",
+      "type": "journal"
+    },
+
+    {
+      "key": "bci_10",
+      "author": ["Audrey Girouard", "Erin Solovey", "Leanne Hirshfield",
+        "Evan M. Peck", "Krysta Chauncey", "Angelo Sassaroli",
+        "Sergio Fantini", "Robert J.K. Jacob"
+      ],
+      "title": "From Brain Signals to Adaptive Interfaces: Using fNIRS in HCI",
+      "venue": "Brain-Computer Interfaces: Applying our Minds to Human-Computer Interaction",
+      "year": 2010,
+      "thumbnail": "fNIRS3.png",
+      "pdf": "papers/BHCI_chapter.pdf",
+      "type": "chapter",
+      "supp": {
+        "book link": "http://www.springer.com/computer/hci/book/978-1-84996-271-1"
+      }
+    },
+
+    {
+      "key": "xrds_10",
+      "author": ["Evan M. Peck", "Krysta Chauncey", "Audrey Girouard",
+        "Rebecca Gulotta", "Francine Lalooses", "Erin Solovey",
+        "Douglas Weaver", "Robert J.K. Jacob"
+      ],
+      "title": "From Brains to Bytes",
+      "venue": "ACM XRDS: Crossroads",
+      "year": 2010,
+      "thumbnail": "xrds2010.png",
+      "pdf": "papers/crossroads_2010.pdf",
+      "type": "article",
+      "supp": {
+        "full issue": "papers/crossroads2010fullissue.pdf"
+      }
+    },
+
+    {
+      "key": "osa_10",
+      "author": ["Angelo Sassaroli", "F. Zheng", "Audrey Girouard",
+        "Erin Solovey", "Krysta Chauncey", "Leanne Hirshfield",
+        "Evan M. Peck", "Robert J.K. Jacob", "Sergio Fantini"
+      ],
+      "title": "Application of Correlation Analysis Tools for the Classification of Mental Workloads in Functional Near-Infrared Spectroscopy",
+      "venue": "Biomedical Optics",
+      "year": 2010,
+      "thumbnail": "correlationAnalysis.png",
+      "pdf": "papers/CorrelationAnalysis2010.pdf",
+      "type": "poster"
+    },
+
+    {
+      "key": "mplay_08a",
+      "author": ["Charles Cusack", "Evan M. Peck", "Maria Riolo"],
+      "title": "Volunteer Computing Games: Merging Online Casual Gaming with Volunteer Computing",
+      "venue": "Meaningful Play",
+      "year": 2008,
+      "thumbnail": "pebble.png",
+      "pdf": "papers/volunteer_computing.pdf",
+      "type": "conference"
+    },
+
+    {
+      "key": "mplay_08b",
+      "author": ["Charles Cusack", "Andrew Foster", "Jeff Largent",
+        "Kevin Browder", "Evan M. Peck"
+      ],
+      "title": "Pebble It: A Human Computing Game",
+      "venue": "Meaningful Play",
+      "year": 2008,
+      "thumbnail": "pebble.png",
+      "type": "demo"
+    },
+
+    {
+      "key": "fplay_07",
+      "author": ["Evan M. Peck", "Maria Riolo", "Charles Cusack"],
+      "title": "Wildfire Wally: A Volunteer Computing Game",
+      "venue": "Future Play",
+      "year": 2007,
+      "thumbnail": "wally.png",
+      "pdf": "papers/wildfire_wally.pdf",
+      "type": "poster",
+      "supp": {
+        "poster design": "papers/FuturePlayPoster.pdf"
+      }
+    }
+
+  ]
+}

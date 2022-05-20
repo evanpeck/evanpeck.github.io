@@ -58,7 +58,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter 
 facebook:
   username               :
   app_id                 :
@@ -84,7 +84,7 @@ author:
   name             : "Evan M. Peck, Ph.D."
   avatar           : "me.png"
   bio              : "Associate Professor of Computer Science"
-  location         : "Lewisburg, PA"
+  location         : 
   employer         : "Bucknell University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=H4TdGyYAAAAJ&hl=en"
