@@ -1,16 +1,34 @@
-.title {
-    font-size: 1em;
-    color: rgb(145,20,20);
+
+:root {
+    --title-link-color: rgb(145,20,20);
+    --title-link-hover-color: rgb(249, 71, 55);
+    --other-link-color: rgb(145,20,20);
+    --other-link-hover-color: rgb(249, 71, 55);
+    --venue-text-color: gray;
+    --author-text-color: #474747;
+    --me-text-color: black;
 }
+
+a.title {
+    font-size: 1em;
+    color: var(--title-link-color);
+    text-decoration: none;
+}
+
+a.title:hover, a.title:active {
+    color: var(--title-link-hover-color);
+    text-decoration: underline;
+}
+
 
 .authors {
     font-size: 0.8em;
-    color: #474747;
+    color: var(--author-text-color);
 }
 
 .venue {
-    font-size: 0.75em;
-    color: gray;
+    font-size: 0.8em;
+    color: var(--venue-text-color);
 }
 
 img.thumbnail {
@@ -28,16 +46,22 @@ a.thumbnail {
     float: left;
 }
 
+img.thumbnail:hover {
+    border-radius:50%;
+    transition: 0.3s ease;
+}
+
+.me
+{
+    font-weight: bolder;
+    color: var(--me-text-color);
+}
+
 .pub {
     margin-top: 1em;
     margin-bottom: 1em;
     float: left;
     clear: left;
-}
-    
-.thumbnail:hover {
-    border-radius:50%;
-    transition: 0.3s ease;
 }
 
 .pubinfo {
@@ -46,4 +70,32 @@ a.thumbnail {
 
 #publications {
     float: left;
+}
+
+.type-tag
+{
+  font-size: 0.8em;
+  color: white;
+  display: inline-block;
+  text-align: center;
+  font-weight: bolder;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  border-radius: 5%;
+}
+
+div.supp {
+    font-size: 0.8em;
+    color: gray;
+}
+
+a.supp {
+    /* font-size: 1em; */
+    color: var(--other-link-color);
+    text-decoration: none;
+}
+
+a.supp:hover, a.supp:active {
+    color:var(--other-link-hover-color);
+    text-decoration: underline;
 }

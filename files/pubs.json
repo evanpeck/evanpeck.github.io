@@ -17,13 +17,33 @@
 
   "publications": [
     {
+      "key": "aied_22_ethics",
+      "author": ["Iris Howley", "Darakhshan J. Mir", "Evan M. Peck"],
+      "title": "Chapter: Integrating AI Ethics Across the Computing Curriculum",
+      "venue": "The Ethics of Artificial Intelligence in Education: Practices, Challenges, and Debates",
+      "year": 2022,
+      "thumbnail": "ai_ethics.png",
+      "alt": "Thumbnail image: photo of the books' cover - person's face being pressed against an open book",
+      "type": "chapter",
+      "link": "https://www.routledge.com/The-Ethics-of-Artificial-Intelligence-in-Education-Practices-Challenges/Holmes-Porayska-Pomsta/p/book/9780367349721",
+      "supp": {
+        "(forthcoming) book link": "https://www.routledge.com/The-Ethics-of-Artificial-Intelligence-in-Education-Practices-Challenges/Holmes-Porayska-Pomsta/p/book/9780367349721"
+      }
+    },
+    {
       "key": "sigcse_20_ethics",
       "author": ["Stacy A. Doore", "Casey Fiesler", "Michael S. Kirkpatrick", "Evan M. Peck", "Mehran Sahami"],
       "title": "Assignments that Blend Ethics and Technology",
       "venue": "SIGCSE: ACM Special Interest Group on CS Education Technical Symposium",
       "year": 2020,
       "thumbnail": "hiring.png",
-      "type": "special session"
+      "alt": "Thumbnail image: a man standing in a suit",
+      "type": "special session",
+      "supp": {
+        "pdf":"2020-sigcse-CSethics.pdf",
+        "assigment":"https://ethicalcs.github.io/#future-makers",
+        "ACM":"https://dl.acm.org/doi/abs/10.1145/3328778.3366994"
+      }
     },
     {
       "key": "sigcse_20_nifty",
@@ -32,7 +52,14 @@
       "venue": "SIGCSE: ACM Special Interest Group on CS Education Technical Symposium",
       "year": 2020,
       "thumbnail": "housing.png",
-      "type": "special session"
+      "alt": "Thumbnail image: a row of apartment buildings",
+      "type": "special session",
+      "supp": {
+        "pdf":"2020-sigcse-CSethics.pdf",
+        "assignment": "https://ethicalcs.github.io/#decision-makers",
+        "nifty home": "http://nifty.stanford.edu/",
+        "ACM": "https://dl.acm.org/doi/abs/10.1145/3328778.3372574"
+      }
     },
     {
       "key": "chi_19_data",
@@ -41,24 +68,31 @@
       "venue": "CHI: ACM Conference on Human Factors in Computing Systems",
       "year": 2019,
       "thumbnail": "farmersmarket.jpg",
-      "pdf":"papers/dataIsPersonal-chi2019.pdf",
+      "alt": "Thumbnail image: Lewisburg's Farmer's Market building",
       "award": "Best Paper",
       "type": "conference",
       "supp": {
-      	"Data & Material": "https://osf.io/uxwts/",
+        "pdf":"2019-chi-dataIsPersonal",
+        "blog":"https://medium.com/multiple-views-visualization-research-explained/data-is-personal-what-we-learned-from-42-interviews-in-rural-america-93539f25836d",
+      	"data & material": "https://osf.io/uxwts/",
         "arXiv": "https://arxiv.org/abs/1901.01920",
         "ACM": "https://dl.acm.org/citation.cfm?id=3300474",
-        "Quick Summary (Twitter Thread)": "https://threadreaderapp.com/thread/1107677854970585088.html?refreshed=yes"
+        "podcast": "https://datastori.es/data-is-personal-with-evan-peck/"
       }
     },
     {
-      "key": "beliv_19_eye",
+      "key": "eurovis_19_eye",
       "author": ["Alvitta Ottley", "Aleksandra Kaszowska", "Evan M. Peck", "R. Jordan Crouser"],
       "title": "The Curious Case of Combining Text and Visualization",
       "venue": "EuroVis (Short Paper): EG/VGTC Conference on Visualization",
       "year": 2019,
       "thumbnail": "bayeseye.png",
-      "type": "conference"
+      "alt": "Thumbnail image: an icon visualization with different sections highlighted",
+      "type": "conference",
+      "supp": {
+        "pdf":"2019-eurovis-textVis.pdf",
+        "eurographics":"https://diglib.eg.org/handle/10.2312/evs20191181"
+      }
     },
     {
       "key": "pervasive_18",
@@ -67,8 +101,12 @@
       "venue": "IEEE Pervasive Computing",
       "year": 2018,
       "thumbnail": "libarts.png",
-      "pdf": "https://ieeexplore.ieee.org/document/8490181",
-      "type": "article"
+      "alt": "Thumbnail image: photo of 2 students working on a laptop together",
+      "link": "https://ieeexplore.ieee.org/document/8490181",
+      "type": "article",
+      "supp": {
+        "ieee": "https://ieeexplore.ieee.org/document/8490181"
+      }
     },
     {
       "key": "cscw_18",
@@ -77,6 +115,7 @@
       "venue": "Neworked Privacy Workshop at ACM CSCW",
       "year": 2018,
       "thumbnail": "privacy.png",
+      "alt": "Thumbnail image: illustration that looks like a camera lens",
       "type": "workshop"
     },
   	{
@@ -86,6 +125,7 @@
       "venue": "Workshop in ACM SIGCSE",
       "year": 2019,
       "thumbnail": "ethics.jpg",
+      "alt": "Thumbnail image: illustration a person holding a sign that reads Ethics",
       "pdf": "https://dl.acm.org/citation.cfm?id=3287543",
       "type": "workshop"
     },
@@ -96,7 +136,8 @@
       "venue": "IEEE TVCG: Transactions on Visualization and Computer Graphics (InfoVis 2018)",
       "year": 2019,
       "thumbnail": "patternsPace.png",
-      "pdf":"papers/patterns-and-pace-vis2018.pdf",
+      "alt": "Thumbnail image: Zoomed-out bubble plot in which some bubbles are highlighted",
+      "pdf":"patterns-and-pace-vis2018.pdf",
       "type": "journal",
       "supp": {
         "Data and Analysis": "https://osf.io/dx43q"
@@ -109,6 +150,7 @@
       "venue": "Poster in SOUPS: Symposium on Usable Privacy and Security",
       "year": 2018,
       "thumbnail": "RRT.png",
+      "alt": "Thumbnail image: photo of a Facebook page with a privacy survey",
       "type": "poster"
     },
     {
@@ -118,7 +160,8 @@
       "venue": "ACM CHI Workshop on Sensemaking in a Senseless World",
       "year": 2018,
       "thumbnail": "sense.png",
-      "pdf":"papers/chi18-sensemakingvis.pdf",
+      "alt": "Thumbnail image: an interactive bubble plot in which one bubble is being hovered over",
+      "pdf":"chi18-sensemakingvis.pdf",
       "type": "workshop",
       "supp": {
       	"Workshop": "https://sensemakingchi2018.com/",
@@ -132,7 +175,8 @@
       "venue": "ACM CHI Workshop on Developing a Community of Practice to Support Global HCI Education",
       "year": 2018,
       "thumbnail": "inputs.png",
-      "pdf":"papers/chi18-hci4pui.pdf",
+      "alt": "Thumbnail image: icons of people interacting with computers in different ways - phone, brain-sensing, augmented reality",
+      "pdf":"chi18-hci4pui.pdf",
       "type": "workshop",
       "supp": {
       	"Workshop": "https://hcieducation.wordpress.com/"
@@ -145,7 +189,8 @@
       "venue": "CHI: ACM Conference on Human Factors in Computing Systems",
       "year": 2018,
       "thumbnail": "foresight.png",
-      "pdf":"papers/vis-search-chi2018.pdf",
+      "alt": "Thumbnail image: Zoomed-out bubble plot in which some bubbles are highlighted",
+      "pdf":"vis-search-chi2018.pdf",
       "type": "conference",
       "supp": {
       	"Video Preview": "https://www.youtube.com/watch?v=qEPZlunAJX0",
@@ -160,6 +205,7 @@
       "venue": "Birds-of-a-Feather, SIGCSE",
       "year": 2018,
       "thumbnail": "student.jpg",
+      "alt": "Thumbnail image: Photo of student presenting a research poster",
       "type": "BOF",
       "pdf": "https://dl.acm.org/citation.cfm?id=3162179",
       "supp": {
@@ -173,6 +219,7 @@
       "venue": "IEEE Conference on Information Visualization (InfoVis 2017)",
       "year": 2017,
       "thumbnail": "searchPoster.png",
+      "alt": "Thumbnail image: a web data visualization with someone typing in a search bar",
       "type": "poster"
     },
   	{
@@ -182,7 +229,8 @@
       "venue": "CHI: ACM Conference on Human Factors in Computing Systems",
       "year": 2017,
       "thumbnail": "RRT.png",
-      "pdf": "papers/diffPrivacy_chi2017.pdf",
+      "alt": "Thumbnail image: photo of a Facebook page with a privacy survey",
+      "pdf": "diffPrivacy_chi2017.pdf",
       "type": "conference",
       "supp": {
       	"Article": "http://www.bucknell.edu/news-and-media/current-news/2017/june/student-researchers-ask-how-secure-we-feel-about-internet-security.html",
@@ -197,7 +245,8 @@
       "venue": "CHI Extended Abstracts: ACM Conference on Human Factors in Computing Systems",
       "year": 2017,
       "thumbnail": "sightline.png",
-      "pdf": "papers/sightline_chi2017lbw.pdf",
+      "alt": "Thumbnail image: logo illustration of glasses that also look like network nodes",
+      "pdf": "sightline_chi2017lbw.pdf",
       "type": "late-breaking work",
       "supp": {
         "ACM": "http://dl.acm.org/citation.cfm?id=3053142",
@@ -213,7 +262,8 @@
       "venue": "IEEE TVCG: Transactions on Visualization and Computer Graphics (InfoVis 2016)",
       "year": 2017,
       "thumbnail": "hindsight.png",
-      "pdf": "papers/hindsight_infovis2016.pdf",
+      "alt": "Thumbnail image: a complex data visualization with lots of lines charts on it",
+      "pdf": "hindsight_infovis2016.pdf",
       "type": "journal",
       "supp": {
         "IEEE": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7539616",
@@ -231,7 +281,8 @@
       "venue": "SICASE: Seoul International Conference on Applied Science and Engineering",
       "year": 2016,
       "thumbnail": "NIRSuse.jpg",
-      "pdf": "papers/sicase2016_poster.pdf",
+      "alt": "Thumbnail image: photo of man wearing fNIRS brain sensing device, working at a computer",
+      "pdf": "sicase2016_poster.pdf",
       "type": "poster"
     }, {
       "key": "iui_16",
@@ -242,7 +293,8 @@
       "venue": "IUI: ACM Conference on Intelligent User Interfaces, Workshop on Emotion and Visualization",
       "year": 2016,
       "thumbnail": "eye_vis.png",
-      "pdf": "papers/emovis_iui.pdf",
+      "alt": "Thumbnail image: black-and-white icon of an eye with a heart in the center",
+      "pdf": "emovis_iui.pdf",
       "type": "workshop",
       "supp": {
         "workshop site": "http://cs.lnu.se/emovis2016/"
@@ -259,8 +311,9 @@
       "venue": "CHI: ACM Conference on Human Factors in Computing Systems",
       "year": 2016,
       "thumbnail": "bach.png",
+      "alt": "Thumbnail image: photo of a man playing piano in front of a computer, while wearing fNIRS brain sensing device",
       "type": "conference",
-      "pdf": "papers/yuksel_musiclearning_2016.pdf",
+      "pdf": "yuksel_musiclearning_2016.pdf",
       "award": "Best Paper",
       "supp": {
         "ACM": "http://dl.acm.org/citation.cfm?id=2858388",
@@ -275,8 +328,9 @@
       "venue": "IEEE Computer",
       "year": 2015,
       "thumbnail": "ieee_bci.png",
+      "alt": "Thumbnail image: magazine illustration of a person's legs and their shadow",
       "type": "journal",
-      "pdf": "papers/Peck-Computer15.pdf",
+      "pdf": "Peck-Computer15.pdf",
       "supp": {
         "special issue": "http://online.qmags.com/CMG1015?pg=15&mode=2#pg1&mode2"
       }
@@ -292,8 +346,9 @@
       "venue": "IEEE TVCG: Transactions on Visualization and Computer Graphics (InfoVis 2015)",
       "year": 2016,
       "thumbnail": "bayes.png",
+      "alt": "Thumbnail image: icon array visualization with people as icons - some are highlighted to illustrrate a set",
       "type": "journal",
-      "pdf": "papers/bayes_infovis2015.pdf",
+      "pdf": "bayes_infovis2015.pdf",
       "supp": {
         "IEEE": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7192720",
         "video preview": "https://vimeo.com/136205947",
@@ -310,8 +365,9 @@
       "venue": "ACM EICS: Symposium on Engineering Interactive Computing Systems (Short Paper)",
       "year": 2015,
       "thumbnail": "flyLoop.png",
+      "alt": "Thumbnail image: an illustration of flowchart between technical modules",
       "type": "late-breaking work",
-      "pdf": "papers/flyloop_eics2015.pdf",
+      "pdf": "flyloop_eics2015.pdf",
       "supp": {
         "slides": "slides/eics2015-slides.pdf"
       }
@@ -327,8 +383,9 @@
       "venue": "Tech Report: Tufts University, Dept. of Computer Science",
       "year": 2015,
       "thumbnail": "music.png",
+      "alt": "Thumbnail image: a small portion of a musical score - the notes are highlighted in different colors",
       "type": "tech report",
-      "pdf": "papers/yuksel_music_2015.pdf",
+      "pdf": "yuksel_music_2015.pdf",
       "supp": {
         "url": "http://www.cs.tufts.edu/t/tr/techreps/TR-2015-01"
       }
@@ -344,8 +401,9 @@
       "venue": "NIME: New Interfaces for Musical Expression",
       "year": 2015,
       "thumbnail": "music.png",
+      "alt": "Thumbnail image: a small portion of a musical score - the notes are highlighted in different colors",
       "type": "conference",
-      "pdf": "papers/yuksel_NIME2015.pdf"
+      "pdf": "yuksel_NIME2015.pdf"
     },
 
     {
@@ -357,8 +415,9 @@
       "venue": "TOCHI: ACM Transactions on Computer-Human Interaction",
       "year": 2015,
       "thumbnail": "fNIRS3.png",
+      "alt": "Thumbnail image: a woman wears a headband with wires coming out the back - fNIRS brain sensing",
       "type": "journal",
-      "pdf": "papers/tochi_15.pdf",
+      "pdf": "tochi_15.pdf",
       "supp": {
         "ACM": "http://dl.acm.org/citation.cfm?id=2687926"
       }
@@ -375,18 +434,20 @@
       "venue": "SPIE Photonics West",
       "year": 2015,
       "thumbnail": "fNIRSshow.jpg",
+      "alt": "Thumbnail image: zoomed-in photo of someone holding a finger-sized pad with wires coming out - fNIRS brain sensing",
       "type": "conference",
-      "pdf": "papers/fnirs_spie2015.pdf"
+      "pdf": "fnirs_spie2015.pdf"
     },
 
     {
-      "key": "dis_14",
+      "key": "diss_14",
       "author": ["Evan M. Peck"],
       "title": "Designing Brain-Computer Interfaces for Intelligent Information Delivery Systems",
       "venue": "Ph.D. Dissertation",
       "year": 2014,
       "thumbnail": "brainImage.png",
-      "pdf": "papers/epeck_thesis.pdf",
+      "alt": "Thumbnail image: an illustration of someone wearing fNIRS brain sensing",
+      "pdf": "epeck_thesis.pdf",
       "type": "dissertation"
     },
 
@@ -399,10 +460,10 @@
       "venue": "UIST: ACM Symposium on User Interface Software and Technology",
       "year": 2014,
       "thumbnail": "uist_poster.png",
-      "pdf": "papers/shibata_uist2014_poster.pdf",
+      "pdf": "shibata_uist2014_poster.pdf",
       "type": "poster",
       "supp": {
-        "poster design": "papers/shibata_uist2014_posterDesign.pdf"
+        "poster design": "shibata_uist2014_posterDesign.pdf"
       }
     },
 
@@ -416,7 +477,7 @@
       "venue": "UIST: ACM Symposium on User Interface Software and Technology",
       "year": 2014,
       "thumbnail": "bubbleCursor.png",
-      "pdf": "papers/afergan_uist2014.pdf",
+      "pdf": "afergan_uist2014.pdf",
       "type": "conference",
       "supp": {
         "video (38 MB)": "videos/brainBasedTarget.mp4"
@@ -449,7 +510,7 @@
       "venue": "CHI: ACM Conference on Human Factors in Computing Systems",
       "year": 2014,
       "thumbnail": "UAV.png",
-      "pdf": "papers/chi14_dynamicdifficulty.pdf",
+      "pdf": "chi14_dynamicdifficulty.pdf",
       "type": "conference",
       "award": "Best Paper Honorable Mention",
       "supp": {
@@ -466,7 +527,7 @@
       "venue": "CHI: ACM Conference on Human Factors in Computing Systems",
       "year": 2013,
       "thumbnail": "mcgill.png",
-      "pdf": "papers/CHI_fNIRS_2013.pdf",
+      "pdf": "CHI_fNIRS_2013.pdf",
       "type": "conference",
       "supp": {
         "video preview": "https://vimeo.com/57869681"
@@ -482,7 +543,7 @@
       "venue": "CHI Workshop: Many People Many Eyes: Aggregating Influences of Visual Perception on User Interface Design",
       "year": 2013,
       "thumbnail": "manyPeople.png",
-      "pdf": "papers/manyeyes_passiveinput.pdf",
+      "pdf": "manyeyes_passiveinput.pdf",
       "type": "workshop",
       "supp": {
         "workshop site": "http://people.seas.harvard.edu/~reinecke/manyeyes/index.html"
@@ -498,7 +559,7 @@
       "venue": "CHI Workshop: Many People Many Eyes: Aggregating Influences of Visual Perception on User Interface Design",
       "year": 2013,
       "thumbnail": "priming.png",
-      "pdf": "papers/manyeyes_priming.pdf",
+      "pdf": "manyeyes_priming.pdf",
       "type": "workshop",
       "supp": {
         "workshop site": "http://people.seas.harvard.edu/~reinecke/manyeyes/index.html"
@@ -512,7 +573,7 @@
       "venue": "Augmented Human",
       "year": 2013,
       "thumbnail": "brainfilter.png",
-      "pdf": "papers/epeck_AH2013.pdf",
+      "pdf": "epeck_AH2013.pdf",
       "type": "conference"
     },
 
@@ -525,7 +586,7 @@
       "venue": "BELIV: Beyond Time and Errors: Novel Evaluation Methods for Visualization",
       "year": 2012,
       "thumbnail": "emptyCube.png",
-      "pdf": "papers/IndDiff.pdf",
+      "pdf": "IndDiff.pdf",
       "type": "workshop",
       "supp": {
         "BELIV site": "http://beliv.cs.univie.ac.at/mediawiki/index.php/BELIV2012"
@@ -541,11 +602,11 @@
       "venue": "InfoVis: IEEE Information Visualization Posters",
       "year": 2011,
       "thumbnail": "barPie.png",
-      "pdf": "papers/INFOVIS2011-Poster-fNIRS.pdf",
+      "pdf": "INFOVIS2011-Poster-fNIRS.pdf",
       "type": "poster",
       "award": "Best Poster",
       "supp": {
-        "poster design": "papers/VisWeekPosterDesign.pdf"
+        "poster design": "VisWeekPosterDesign.pdf"
       }
     },
 
@@ -556,7 +617,7 @@
       "venue": "ACM XRDS: Crossroads",
       "year": 2011,
       "thumbnail": "XRDS.png",
-      "pdf": "papers/xrds-intro.pdf",
+      "pdf": "xrds-intro.pdf",
       "type": "article",
       "supp": {
         "full issue": "http://dl.acm.org/citation.cfm?id=2000775.2000778&coll=portal&dl=ACM"
@@ -570,7 +631,7 @@
       "venue": "ACM XRDS: Crossroads",
       "year": 2011,
       "thumbnail": "XRDS.png",
-      "pdf": "papers/xrds-sensorium.pdf",
+      "pdf": "xrds-sensorium.pdf",
       "type": "article",
       "supp": {
         "full issue": "http://dl.acm.org/citation.cfm?id=2000775.2000778&coll=portal&dl=ACM"
@@ -584,7 +645,7 @@
       "venue": "ACM CHI 2011 Workshop: Brain and Body Interfaces: Designing for Meaningful Interaction",
       "year": 2011,
       "thumbnail": "social.png",
-      "pdf": "papers/MeaningfulAdaptationContext.pdf",
+      "pdf": "MeaningfulAdaptationContext.pdf",
       "type": "workshop",
       "supp": {
         "talk": "http://vimeo.com/24511497",
@@ -599,7 +660,7 @@
       "venue": "ACM CHI 2011 Workshop: Brain and Body Interfaces: Designing for Meaningful Interaction",
       "year": 2011,
       "thumbnail": "fNIRS2.jpg",
-      "pdf": "papers/ethicsBCI.pdf",
+      "pdf": "ethicsBCI.pdf",
       "type": "workshop"
     },
 
@@ -613,7 +674,7 @@
       "venue": "IEEE Computer: Invisible Computing Column",
       "year": 2010,
       "thumbnail": "ieee.png",
-      "pdf": "papers/ieeeComputer.pdf",
+      "pdf": "ieeeComputer.pdf",
       "type": "journal"
     },
 
@@ -627,7 +688,7 @@
       "venue": "Brain-Computer Interfaces: Applying our Minds to Human-Computer Interaction",
       "year": 2010,
       "thumbnail": "fNIRS3.png",
-      "pdf": "papers/BHCI_chapter.pdf",
+      "pdf": "BHCI_chapter.pdf",
       "type": "chapter",
       "supp": {
         "book link": "http://www.springer.com/computer/hci/book/978-1-84996-271-1"
@@ -644,10 +705,10 @@
       "venue": "ACM XRDS: Crossroads",
       "year": 2010,
       "thumbnail": "xrds2010.png",
-      "pdf": "papers/crossroads_2010.pdf",
+      "pdf": "crossroads_2010.pdf",
       "type": "article",
       "supp": {
-        "full issue": "papers/crossroads2010fullissue.pdf"
+        "full issue": "crossroads2010fullissue.pdf"
       }
     },
 
@@ -661,7 +722,7 @@
       "venue": "Biomedical Optics",
       "year": 2010,
       "thumbnail": "correlationAnalysis.png",
-      "pdf": "papers/CorrelationAnalysis2010.pdf",
+      "pdf": "CorrelationAnalysis2010.pdf",
       "type": "poster"
     },
 
@@ -672,7 +733,7 @@
       "venue": "Meaningful Play",
       "year": 2008,
       "thumbnail": "pebble.png",
-      "pdf": "papers/volunteer_computing.pdf",
+      "pdf": "volunteer_computing.pdf",
       "type": "conference"
     },
 
@@ -695,10 +756,10 @@
       "venue": "Future Play",
       "year": 2007,
       "thumbnail": "wally.png",
-      "pdf": "papers/wildfire_wally.pdf",
+      "pdf": "wildfire_wally.pdf",
       "type": "poster",
       "supp": {
-        "poster design": "papers/FuturePlayPoster.pdf"
+        "poster design": "FuturePlayPoster.pdf"
       }
     }
 
