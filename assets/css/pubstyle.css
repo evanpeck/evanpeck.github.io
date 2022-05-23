@@ -35,7 +35,7 @@ a.title:hover, a.title:active {
 }
 
 img.thumbnail {
-    border: 0.08em solid #021a40;
+    border: 0.05em solid #021a40;
     border-radius: 15%;
     height: 4em;
     width: auto;
@@ -82,9 +82,10 @@ img.thumbnail:hover {
   display: inline-block;
   text-align: center;
   font-weight: bolder;
-  padding-left: 0.5em;
-  padding-right: 0.5em;
-  border-radius: 5%;
+  padding-left: 0.3em;
+  padding-right: 0.3em;
+  border-radius: 0.3em;
+  opacity: 0.8;
 }
 
 div.supp {

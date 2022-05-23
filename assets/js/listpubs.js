@@ -11,8 +11,18 @@ const PUBS_JSON = "../../files/pubs.json"
 const SHOW_TYPE_TAGES = true; 
 
 const TYPE_COLORS = {
-    "conference": 'rgb(100,200,300)',
-    "journal": 'rgb(300,200,100)'
+    "conference": '#E87722',
+    "journal": '#E87722',
+    "chapter": '#E87722',
+    "dissertation": '#E87722',
+    "special session": '#003865',
+    "workshop": '#003865',
+    "late-breaking work": '#A7A8AA',
+    "tech report":'#A7A8AA',
+    "BOF": '#A7A8AA',
+    "article": '#A7A8AA',
+    "demo": '#A7A8AA',
+    "poster": '#A7A8AA'
 }
 
 // Loads pubs JSON file
@@ -92,9 +102,7 @@ function addPub(pub_data) {
 
     let primaryLink = getPrimaryLink(pub_data);
     
-    
     // Thumbnail link
-
     let thumbnail_link = makeElement('a', 'thumbnail')
     thumbnail_link.href = primaryLink; 
 
@@ -118,17 +126,20 @@ function addPub(pub_data) {
     // Type tag (not finished)
     let typeTag = makeElement('div', 'type-tag')
     typeTag.textContent = pub_data.type;
-    typeTag.style.backgroundColor = "rgb(255, 0, 0)";
+
+    if (pub_data.type in TYPE_COLORS) {
+        typeTag.style.backgroundColor = TYPE_COLORS[pub_data.type]
+    } else {
+        typeTag.style.backgroundColor = "rgb(255, 0, 0)";
+    }
 
     // Title
-    let title;
+    let title = makeElement('div', 'title')
     if (primaryLink != null) {
-        title = makeElement('a', 'title')
-        title.href = primaryLink;
-    } else {
-        title = makeElement('div', 'title')
+        title.innerHTML += `<a href='${primaryLink}' class='title'> ${pub_data.title} </a>`
+    }  else {
+        title.textContent = pub_data.title;
     }
-    title.textContent = pub_data.title;
 
     // Authors
     let authors = makeElement('div', 'authors')
@@ -146,6 +157,7 @@ function addPub(pub_data) {
 
     // pub.append(typeTag)
     pub.appendChild(pubInfo)
+    pubInfo.appendChild(typeTag)
     pubInfo.appendChild(title)
     pubInfo.appendChild(authors)
     pubInfo.appendChild(venue)
