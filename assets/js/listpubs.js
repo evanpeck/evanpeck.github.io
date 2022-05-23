@@ -1,8 +1,11 @@
 
+const PATHS = {
+    "thumbnail": "../../images/thumbnails/",
+    "pdf": "../../files/papers/",
+    "slides": "https://eg.bucknell.edu/~emp017/slides/"
+}
 const MY_NAME = "Evan M. Peck";
 const DIV_ID = "publications"
-const THUMBNAIL_PATH = "../../images/thumbnails/"
-const PAPERS_PATH = "../../files/papers/"
 const PUBS_JSON = "../../files/pubs.json"
 
 const SHOW_TYPE_TAGES = true; 
@@ -28,7 +31,28 @@ async function main() {
         return b.year - a.year;
     });
 
+    // add the paths of different files
+    pubs.forEach(pub => addPaths(pub))
+    // add the 
     pubs.forEach(pub => addPub(pub));
+}
+
+// Adds paths to 
+function addPaths(pub) {
+    // look through all properties
+    for (let prop in pub) {
+        if (prop in PATHS) {
+            pub[prop] = PATHS[prop] + pub[prop];
+        }
+    }
+    // look through all properties in supp
+    if (pub.hasOwnProperty('supp')) {
+        for (let prop in pub['supp']) {
+            if (prop in PATHS) {
+                pub['supp'][prop] = PATHS[prop] + pub['supp'][prop];
+            }
+        }
+    }
 }
 
 function makeElement(elementName, className) {
@@ -37,17 +61,22 @@ function makeElement(elementName, className) {
     return element;
 }
 
+/** Get the link used for the title and thumbnail clicking */
 function getPrimaryLink(pub_data) {
     let link;
-
+    // First check if there is an explicit link property
     if (pub_data.hasOwnProperty('link')) {
         link = pub_data.link;
-    } else if (pub_data.hasOwnProperty('pdf')) {
-        link = PAPERS_PATH + pub_data.pdf;
-    } else if (pub_data.hasOwnProperty('supp')) {
+    } 
+    // Then check if PDF is in the main object
+    else if (pub_data.hasOwnProperty('pdf')) {
+        link = pub_data.pdf;
+    } 
+    // Then check if PDF is in the supp material
+    else if (pub_data.hasOwnProperty('supp')) {
         let supp = pub_data['supp']
         if (supp.hasOwnProperty('pdf')) {
-            link = PAPERS_PATH + supp['pdf']
+            link = supp['pdf']
         } else {
             link = supp[Object.keys(supp)[0]];
         }
@@ -65,27 +94,40 @@ function addPub(pub_data) {
     
     
     // Thumbnail link
+
     let thumbnail_link = makeElement('a', 'thumbnail')
     thumbnail_link.href = primaryLink; 
 
     // Thumbnail image
     let thumbnail = makeElement('img', 'thumbnail')
-    thumbnail.src = THUMBNAIL_PATH + pub_data.thumbnail
+    thumbnail.src = pub_data.thumbnail
     // If there is alt text, add it. 
     if (pub_data.hasOwnProperty('alt')) {
         thumbnail.alt = pub_data.alt;
     }
 
     // Add image to link
-    thumbnail_link.appendChild(thumbnail)
-
+    if (primaryLink != null) {
+        thumbnail_link.appendChild(thumbnail)
+        // add thumbnail
+        pub.appendChild(thumbnail_link)
+    } else {
+        pub.appendChild(thumbnail)
+    }
+    
+    // Type tag (not finished)
     let typeTag = makeElement('div', 'type-tag')
     typeTag.textContent = pub_data.type;
     typeTag.style.backgroundColor = "rgb(255, 0, 0)";
 
     // Title
-    let title = makeElement('a', 'title')
-    title.href = primaryLink;
+    let title;
+    if (primaryLink != null) {
+        title = makeElement('a', 'title')
+        title.href = primaryLink;
+    } else {
+        title = makeElement('div', 'title')
+    }
     title.textContent = pub_data.title;
 
     // Authors
@@ -97,8 +139,7 @@ function addPub(pub_data) {
     let venue = makeElement('div', 'venue')
     venue.textContent = pub_data.venue + ', ' + pub_data.year
 
-    // add thumbnail
-    pub.appendChild(thumbnail_link)
+    
 
     // add pubinfo
     let pubInfo = makeElement('div', 'pubinfo');
@@ -120,9 +161,7 @@ function addSupps(pub_data) {
     let supps = makeElement('div','supp')
     let content = ''
     
-
     for (let link in pub_data.supp) {
-        console.log(supps.innerHTML)
         content += '| <a href="' + pub_data.supp[link] + '" class="supp"> ' + link + '</a> ';
     }
     supps.innerHTML += content.slice(2); // slice removes the first '| '

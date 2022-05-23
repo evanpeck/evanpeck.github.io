@@ -9,9 +9,12 @@
     --me-text-color: black;
 }
 
-a.title {
+.title {
     font-size: 1em;
     color: var(--title-link-color);
+}
+
+a.title {
     text-decoration: none;
 }
 

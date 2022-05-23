@@ -126,8 +126,11 @@
       "year": 2019,
       "thumbnail": "ethics.jpg",
       "alt": "Thumbnail image: illustration a person holding a sign that reads Ethics",
-      "pdf": "https://dl.acm.org/citation.cfm?id=3287543",
-      "type": "workshop"
+      "link": "https://dl.acm.org/citation.cfm?id=3287543",
+      "type": "workshop",
+      "supp": {
+        "ACM": "https://dl.acm.org/citation.cfm?id=3287543"
+      }
     },
     {
       "key": "infovis_18",
@@ -164,8 +167,8 @@
       "pdf":"chi18-sensemakingvis.pdf",
       "type": "workshop",
       "supp": {
-      	"Workshop": "https://sensemakingchi2018.com/",
-      	"Slides (32 MB)": "slides/sensemaking_vis_chi2018.pptx"
+      	"workshop": "https://sensemakingchi2018.com/",
+      	"slides": "sensemaking_vis_chi2018.pptx"
       }
     },
   	{
@@ -369,7 +372,7 @@
       "type": "late-breaking work",
       "pdf": "flyloop_eics2015.pdf",
       "supp": {
-        "slides": "slides/eics2015-slides.pdf"
+        "slides": "eics2015-slides.pdf"
       }
     },
 
