@@ -31,6 +31,35 @@
       }
     },
     {
+      "key": "csengage_22_ai",
+      "author": ["Evan M. Peck"],
+      "title": "1-Hour Collaborative Learning Activity for Responsible Human-AI Design",
+      "venue": "EngageCSEdu - Special Session in ACM SIGCSE",
+      "year": 2022,
+      "thumbnail": "responsibleAI.png",
+      "alt": "Thumbnail image: screenshot of Responsible AI Cards from Microsoft",
+      "type": "special session",
+      "supp": {
+        "pdf": "2022-engageCSedu-ResponsibleAI-PREPRINT.pdf",
+        "presentation video": "https://youtu.be/etKzRgoIahY",
+        "material": "https://bit.ly/hci-activity"
+      }
+    },
+    {
+      "key": "vis_21_vis4good",
+      "author": ["Leilani Battle", "Michelle Borkin", "Michael Correll", "Lane Harrison", "Evan M. Peck"],
+      "title": "Visualization for Social Good (workshop organizers)",
+      "venue": "IEEE VIS",
+      "year": 2021,
+      "thumbnail": "vis4good.png",
+      "alt": "Thumbnail image: a bar chart with a flower growing out of the top bar",
+      "type": "workshop",
+      "link": "https://vis4good.github.io/workshop2021",
+      "supp": {
+        "workshop website": "https://vis4good.github.io/workshop2021"
+      }
+    },
+    {
       "key": "sigcse_20_ethics",
       "author": ["Stacy A. Doore", "Casey Fiesler", "Michael S. Kirkpatrick", "Evan M. Peck", "Mehran Sahami"],
       "title": "Assignments that Blend Ethics and Technology",
@@ -69,10 +98,10 @@
       "year": 2019,
       "thumbnail": "farmersmarket.jpg",
       "alt": "Thumbnail image: Lewisburg's Farmer's Market building",
-      "award": "Best Paper",
+      "award": "Best Paper Award",
       "type": "conference",
       "supp": {
-        "pdf":"2019-chi-dataIsPersonal",
+        "pdf":"2019-chi-dataIsPersonal.pdf",
         "blog":"https://medium.com/multiple-views-visualization-research-explained/data-is-personal-what-we-learned-from-42-interviews-in-rural-america-93539f25836d",
       	"data & material": "https://osf.io/uxwts/",
         "arXiv": "https://arxiv.org/abs/1901.01920",
@@ -105,7 +134,7 @@
       "link": "https://ieeexplore.ieee.org/document/8490181",
       "type": "article",
       "supp": {
-        "ieee": "https://ieeexplore.ieee.org/document/8490181"
+        "IEEE": "https://ieeexplore.ieee.org/document/8490181"
       }
     },
     {
@@ -140,10 +169,10 @@
       "year": 2019,
       "thumbnail": "patternsPace.png",
       "alt": "Thumbnail image: Zoomed-out bubble plot in which some bubbles are highlighted",
-      "pdf":"patterns-and-pace-vis2018.pdf",
       "type": "journal",
       "supp": {
-        "Data and Analysis": "https://osf.io/dx43q"
+        "pdf":"patterns-and-pace-vis2018.pdf",
+        "data": "https://osf.io/dx43q"
       }
     },
   	{
@@ -164,9 +193,9 @@
       "year": 2018,
       "thumbnail": "sense.png",
       "alt": "Thumbnail image: an interactive bubble plot in which one bubble is being hovered over",
-      "pdf":"chi18-sensemakingvis.pdf",
       "type": "workshop",
       "supp": {
+        "pdf":"chi18-sensemakingvis.pdf",
       	"workshop": "https://sensemakingchi2018.com/",
       	"slides": "sensemaking_vis_chi2018.pptx"
       }
@@ -179,10 +208,10 @@
       "year": 2018,
       "thumbnail": "inputs.png",
       "alt": "Thumbnail image: icons of people interacting with computers in different ways - phone, brain-sensing, augmented reality",
-      "pdf":"chi18-hci4pui.pdf",
       "type": "workshop",
       "supp": {
-      	"Workshop": "https://hcieducation.wordpress.com/"
+        "pdf":"chi18-hci4pui.pdf",
+      	"workshop": "https://chi2018.hcilivingcurriculum.org/"
       }
     },
     {
@@ -193,12 +222,12 @@
       "year": 2018,
       "thumbnail": "foresight.png",
       "alt": "Thumbnail image: Zoomed-out bubble plot in which some bubbles are highlighted",
-      "pdf":"vis-search-chi2018.pdf",
       "type": "conference",
       "supp": {
-      	"Video Preview": "https://www.youtube.com/watch?v=qEPZlunAJX0",
+        "pdf":"vis-search-chi2018.pdf",
+      	"video preview": "https://www.youtube.com/watch?v=qEPZlunAJX0",
       	"ACM": "https://dl.acm.org/citation.cfm?id=3173574.3173711",
-      	"Data": "https://github.com/wpivis/search-in-vis"
+      	"data": "https://github.com/wpivis/search-in-vis"
       }
     },
     {
@@ -210,9 +239,10 @@
       "thumbnail": "student.jpg",
       "alt": "Thumbnail image: Photo of student presenting a research poster",
       "type": "BOF",
-      "pdf": "https://dl.acm.org/citation.cfm?id=3162179",
+      "link": "https://dl.acm.org/citation.cfm?id=3162179",
       "supp": {
-      	"Abstract": "https://whova.com/embedded/session/sigsc_201802/303926/"
+        "ACM": "https://dl.acm.org/citation.cfm?id=3162179",
+      	"abstract": "https://whova.com/embedded/session/sigsc_201802/303926/"
       }
     },
     {
@@ -233,12 +263,11 @@
       "year": 2017,
       "thumbnail": "RRT.png",
       "alt": "Thumbnail image: photo of a Facebook page with a privacy survey",
-      "pdf": "diffPrivacy_chi2017.pdf",
       "type": "conference",
       "supp": {
-      	"Article": "http://www.bucknell.edu/news-and-media/current-news/2017/june/student-researchers-ask-how-secure-we-feel-about-internet-security.html",
-        "ACM": "http://dl.acm.org/citation.cfm?id=3025698",
-        "RRT Spinner Demo": "http://eg.bucknell.edu/~btb004/"
+        "pdf": "diffPrivacy_chi2017.pdf",
+      	"article": "http://www.bucknell.edu/news-and-media/current-news/2017/june/student-researchers-ask-how-secure-we-feel-about-internet-security.html",
+        "ACM": "http://dl.acm.org/citation.cfm?id=3025698"
       }
     },
     {
@@ -249,13 +278,12 @@
       "year": 2017,
       "thumbnail": "sightline.png",
       "alt": "Thumbnail image: logo illustration of glasses that also look like network nodes",
-      "pdf": "sightline_chi2017lbw.pdf",
       "type": "late-breaking work",
       "supp": {
+        "pdf": "sightline_chi2017lbw.pdf",
         "ACM": "http://dl.acm.org/citation.cfm?id=3053142",
-      	"Blog post": "https://medium.com/@jordansekky/why-sightline-b877670aad5b",
-        "Website": "https://sightlinevis.com/",
-        "Chrome Extension": "https://chrome.google.com/webstore/detail/sightline/jadbnilgdgpekkjiakamdjoemlolhhjg"
+      	"blog post": "https://medium.com/@jordansekky/why-sightline-b877670aad5b",
+        "archived site": "https://web.archive.org/web/20170710204643/https://sightlinevis.com/"
       }
     },
   	{
@@ -266,14 +294,15 @@
       "year": 2017,
       "thumbnail": "hindsight.png",
       "alt": "Thumbnail image: a complex data visualization with lots of lines charts on it",
-      "pdf": "hindsight_infovis2016.pdf",
       "type": "journal",
       "supp": {
+        "pdf": "hindsight_infovis2016.pdf",
         "IEEE": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7539616",
-        "Blog post": "https://medium.com/@evanmpeck/hindsight-encouraging-exploration-and-engagement-in-data-visualization-7b0d9d421fc5#.32g8lqhyy",
-        "Material and Demos": "https://wpivis.github.io/hindsight/"
+        "blog post": "https://medium.com/@evanmpeck/hindsight-encouraging-exploration-and-engagement-in-data-visualization-7b0d9d421fc5#.32g8lqhyy",
+        "material and demos": "https://wpivis.github.io/hindsight/"
       }
-    }, {
+    }, 
+    {
       "key": "sicase_16_poster",
       "author": ["Eun Youb Lee", "Beste Yuksel", "Daniel Afergan",
         "Samuel W. Hincks",
@@ -285,9 +314,12 @@
       "year": 2016,
       "thumbnail": "NIRSuse.jpg",
       "alt": "Thumbnail image: photo of man wearing fNIRS brain sensing device, working at a computer",
-      "pdf": "sicase2016_poster.pdf",
-      "type": "poster"
-    }, {
+      "type": "poster",
+      "supp": {
+        "pdf": "sicase2016_poster.pdf"
+      }
+    }, 
+    {
       "key": "iui_16",
       "author": ["R. Jordan Crouser", "Lane Harrison", "Daniel Afergan",
         "Evan M. Peck"
@@ -297,9 +329,9 @@
       "year": 2016,
       "thumbnail": "eye_vis.png",
       "alt": "Thumbnail image: black-and-white icon of an eye with a heart in the center",
-      "pdf": "emovis_iui.pdf",
       "type": "workshop",
       "supp": {
+        "pdf": "emovis_iui.pdf",
         "workshop site": "http://cs.lnu.se/emovis2016/"
       }
     },
@@ -316,9 +348,9 @@
       "thumbnail": "bach.png",
       "alt": "Thumbnail image: photo of a man playing piano in front of a computer, while wearing fNIRS brain sensing device",
       "type": "conference",
-      "pdf": "yuksel_musiclearning_2016.pdf",
-      "award": "Best Paper",
+      "award": "Best Paper Award",
       "supp": {
+        "pdf": "yuksel_musiclearning_2016.pdf",
         "ACM": "http://dl.acm.org/citation.cfm?id=2858388",
         "demo video": "https://vimeo.com/153867393"
       }
@@ -333,8 +365,8 @@
       "thumbnail": "ieee_bci.png",
       "alt": "Thumbnail image: magazine illustration of a person's legs and their shadow",
       "type": "journal",
-      "pdf": "Peck-Computer15.pdf",
       "supp": {
+        "pdf": "Peck-Computer15.pdf",
         "special issue": "http://online.qmags.com/CMG1015?pg=15&mode=2#pg1&mode2"
       }
     },
@@ -351,8 +383,8 @@
       "thumbnail": "bayes.png",
       "alt": "Thumbnail image: icon array visualization with people as icons - some are highlighted to illustrrate a set",
       "type": "journal",
-      "pdf": "bayes_infovis2015.pdf",
       "supp": {
+        "pdf": "bayes_infovis2015.pdf",
         "IEEE": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7192720",
         "video preview": "https://vimeo.com/136205947",
         "data (github)": "https://github.com/TuftsVALT/bayes"
@@ -370,8 +402,8 @@
       "thumbnail": "flyLoop.png",
       "alt": "Thumbnail image: an illustration of flowchart between technical modules",
       "type": "late-breaking work",
-      "pdf": "flyloop_eics2015.pdf",
       "supp": {
+        "pdf": "flyloop_eics2015.pdf",
         "slides": "eics2015-slides.pdf"
       }
     },
@@ -388,9 +420,9 @@
       "thumbnail": "music.png",
       "alt": "Thumbnail image: a small portion of a musical score - the notes are highlighted in different colors",
       "type": "tech report",
-      "pdf": "yuksel_music_2015.pdf",
       "supp": {
-        "url": "http://www.cs.tufts.edu/t/tr/techreps/TR-2015-01"
+        "pdf": "yuksel_music_2015.pdf",
+        "tech report url": "http://www.cs.tufts.edu/t/tr/techreps/TR-2015-01"
       }
     },
 
@@ -406,7 +438,9 @@
       "thumbnail": "music.png",
       "alt": "Thumbnail image: a small portion of a musical score - the notes are highlighted in different colors",
       "type": "conference",
-      "pdf": "yuksel_NIME2015.pdf"
+      "supp": {
+        "pdf": "yuksel_NIME2015.pdf"
+      }
     },
 
     {
@@ -420,8 +454,8 @@
       "thumbnail": "fNIRS3.png",
       "alt": "Thumbnail image: a woman wears a headband with wires coming out the back - fNIRS brain sensing",
       "type": "journal",
-      "pdf": "tochi_15.pdf",
       "supp": {
+        "pdf": "tochi_15.pdf",
         "ACM": "http://dl.acm.org/citation.cfm?id=2687926"
       }
     },
@@ -439,7 +473,9 @@
       "thumbnail": "fNIRSshow.jpg",
       "alt": "Thumbnail image: zoomed-in photo of someone holding a finger-sized pad with wires coming out - fNIRS brain sensing",
       "type": "conference",
-      "pdf": "fnirs_spie2015.pdf"
+      "supp": {
+        "pdf": "fnirs_spie2015.pdf"
+      }
     },
 
     {
@@ -450,8 +486,10 @@
       "year": 2014,
       "thumbnail": "brainImage.png",
       "alt": "Thumbnail image: an illustration of someone wearing fNIRS brain sensing",
-      "pdf": "epeck_thesis.pdf",
-      "type": "dissertation"
+      "type": "dissertation",
+      "supp": {
+        "pdf": "epeck_thesis.pdf"
+      }
     },
 
     {
@@ -463,9 +501,10 @@
       "venue": "UIST: ACM Symposium on User Interface Software and Technology",
       "year": 2014,
       "thumbnail": "uist_poster.png",
-      "pdf": "shibata_uist2014_poster.pdf",
+      "alt": "Thumbnail image: an illustration of the technical components of the Phylter system",
       "type": "poster",
       "supp": {
+        "pdf": "shibata_uist2014_poster.pdf",
         "poster design": "shibata_uist2014_posterDesign.pdf"
       }
     },
@@ -480,9 +519,10 @@
       "venue": "UIST: ACM Symposium on User Interface Software and Technology",
       "year": 2014,
       "thumbnail": "bubbleCursor.png",
-      "pdf": "afergan_uist2014.pdf",
+      "alt": "Thumbnail image: dots on a screen with red bubble-like circles around some of them",
       "type": "conference",
       "supp": {
+        "pdf": "afergan_uist2014.pdf",
         "video (38 MB)": "videos/brainBasedTarget.mp4"
       }
     },
@@ -496,9 +536,10 @@
       "venue": "Advances in Physiological Computing",
       "year": 2014,
       "thumbnail": "NIRSuse.jpg",
-      "pdf": "http://link.springer.com/chapter/10.1007/978-1-4471-6392-3_6",
+      "alt": "Thumbnail image: a person sits at a computer wearing an fNIRS brain sensing device",
       "type": "chapter",
       "supp": {
+        "chapter link": "http://link.springer.com/chapter/10.1007/978-1-4471-6392-3_6",
         "book link": "http://link.springer.com/book/10.1007/978-1-4471-6392-3"
       }
     },
@@ -513,10 +554,11 @@
       "venue": "CHI: ACM Conference on Human Factors in Computing Systems",
       "year": 2014,
       "thumbnail": "UAV.png",
-      "pdf": "chi14_dynamicdifficulty.pdf",
+      "alt": "Thumbnail image: an overview screen of a UAV simulation - includes obstacles and flight paths",
       "type": "conference",
       "award": "Best Paper Honorable Mention",
       "supp": {
+        "pdf": "chi14_dynamicdifficulty.pdf",
         "video preview": "https://www.youtube.com/watch?v=89nleUf-X8I"
       }
     },
@@ -530,9 +572,10 @@
       "venue": "CHI: ACM Conference on Human Factors in Computing Systems",
       "year": 2013,
       "thumbnail": "mcgill.png",
-      "pdf": "CHI_fNIRS_2013.pdf",
+      "alt": "Thumbnail image: a bar graph with 2 bars marked for comparison",
       "type": "conference",
       "supp": {
+        "pdf": "CHI_fNIRS_2013.pdf",
         "video preview": "https://vimeo.com/57869681"
       }
     },
@@ -546,9 +589,10 @@
       "venue": "CHI Workshop: Many People Many Eyes: Aggregating Influences of Visual Perception on User Interface Design",
       "year": 2013,
       "thumbnail": "manyPeople.png",
-      "pdf": "manyeyes_passiveinput.pdf",
+      "alt": "Thumbnail image: 6 icons of people",
       "type": "workshop",
       "supp": {
+        "pdf": "manyeyes_passiveinput.pdf",
         "workshop site": "http://people.seas.harvard.edu/~reinecke/manyeyes/index.html"
       }
     },
@@ -562,9 +606,10 @@
       "venue": "CHI Workshop: Many People Many Eyes: Aggregating Influences of Visual Perception on User Interface Design",
       "year": 2013,
       "thumbnail": "priming.png",
-      "pdf": "manyeyes_priming.pdf",
+      "alt": "Thumbnail image: a capital letter 'E' formed by many tiny letter 'H's",
       "type": "workshop",
       "supp": {
+        "pdf": "manyeyes_priming.pdf",
         "workshop site": "http://people.seas.harvard.edu/~reinecke/manyeyes/index.html"
       }
     },
@@ -576,8 +621,12 @@
       "venue": "Augmented Human",
       "year": 2013,
       "thumbnail": "brainfilter.png",
-      "pdf": "epeck_AH2013.pdf",
-      "type": "conference"
+      "alt": "Thumbnail image: illustration of 1s and 0s (binary) being filtereed into a someone's head",
+      "type": "conference",
+      "supp": {
+        "pdf": "epeck_AH2013.pdf",
+        "ACM": "https://dl.acm.org/doi/10.1145/2459236.2459261"
+      }
     },
 
     {

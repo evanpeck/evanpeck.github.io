@@ -1,6 +1,7 @@
 
 const PATHS = {
     "thumbnail": "../../images/thumbnails/",
+    "icons": "../../images/thumbnails/icons/",
     "pdf": "../../files/papers/",
     "slides": "https://eg.bucknell.edu/~emp017/slides/"
 }
@@ -8,8 +9,7 @@ const MY_NAME = "Evan M. Peck";
 const DIV_ID = "publications"
 const PUBS_JSON = "../../files/pubs.json"
 
-const SHOW_TYPE_TAGES = true; 
-
+// colors for the tags of each kind 
 const TYPE_COLORS = {
     "conference": '#E87722',
     "journal": '#E87722',
@@ -25,13 +25,6 @@ const TYPE_COLORS = {
     "poster": '#A7A8AA'
 }
 
-// Loads pubs JSON file
-async function getJSON() {
-    const response = await fetch(PUBS_JSON);
-    const json = await response.json();
-    return json
-}
-
 async function main() {
     let pub_data = await getJSON();
     let pubs = pub_data.publications;
@@ -45,6 +38,13 @@ async function main() {
     pubs.forEach(pub => addPaths(pub))
     // add the 
     pubs.forEach(pub => addPub(pub));
+}
+
+// Loads pubs JSON file
+async function getJSON() {
+    const response = await fetch(PUBS_JSON);
+    const json = await response.json();
+    return json
 }
 
 // Adds paths to 
@@ -65,6 +65,7 @@ function addPaths(pub) {
     }
 }
 
+// Just makes creating some DOM elements a little easier
 function makeElement(elementName, className) {
     let element = document.createElement(elementName);
     element.classList.add(className);
@@ -141,6 +142,19 @@ function addPub(pub_data) {
         title.textContent = pub_data.title;
     }
 
+    // If there is an award
+    let award;
+    if (pub_data.hasOwnProperty('award')) {
+        award = makeElement('div', 'award')
+        let awardIcon = makeElement('img', 'award-icon')
+        awardIcon.src = PATHS["icons"] + "cert.png"
+        awardIcon.alt = "small award icon"
+        let awardText = makeElement('div', 'award-text')
+        awardText.textContent = pub_data.award;
+        award.appendChild(awardIcon);
+        award.appendChild(awardText);
+    }
+
     // Authors
     let authors = makeElement('div', 'authors')
     authors.innerHTML += pub_data.author.join(", ")
@@ -151,14 +165,17 @@ function addPub(pub_data) {
     venue.textContent = pub_data.venue + ', ' + pub_data.year
 
     
-
     // add pubinfo
     let pubInfo = makeElement('div', 'pubinfo');
 
-    // pub.append(typeTag)
-    pub.appendChild(pubInfo)
-    pubInfo.appendChild(typeTag)
-    pubInfo.appendChild(title)
+    // Add all the publication info
+    pub.appendChild(pubInfo) 
+
+    pubInfo.appendChild(typeTag) 
+    if (award) { 
+        pubInfo.appendChild(award);
+    }
+    pubInfo.appendChild(title) 
     pubInfo.appendChild(authors)
     pubInfo.appendChild(venue)
 

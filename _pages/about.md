@@ -12,8 +12,6 @@ redirect_from:
 **!!!** Note: This page is **heavily** under construction, so stick with me while I work on it. Until then, visit my current homepage at [http://www.eg.bucknell.edu/~emp017/](http://www.eg.bucknell.edu/~emp017/)
 {: .notice}
 
-## About Me
-
 I am an Associate Professor of [Computer Science at Bucknell University](https://www.bucknell.edu/academics/college-engineering/majors-departments/computer-science). I am currently on sabbatical until August 2022, working as a Visiting Scientist at [MIT's Visualization Group](http://vis.csail.mit.edu/) with [Arvind Satyanarayan](https://arvindsatya.com/). My research draws on the fields of [Human-Computer Interaction](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/human-computer-interaction-brief-intro) and [Information Visualization](https://www.interaction-design.org/literature/topics/information-visualization). I believe in _student-centered everything_
 
 - My research considers the ways in which we are failing to communicate data that serves the public good, and how we can empower more diverse communities through data. I am a co-organizer of [Visualization for Social Good](https://vis4good.github.io/) and my work on [data visualization in rural Pennsylvania](https://medium.com/multiple-views-visualization-research-explained/data-is-personal-what-we-learned-from-42-interviews-in-rural-america-93539f25836d) has been covered extensively in [articles](https://statmodeling.stat.columbia.edu/2019/05/31/data-is-personal-and-the-maturing-of-the-literature-on-statistical-graphics/) and [podcasts](https://datastori.es/data-is-personal-with-evan-peck/).
