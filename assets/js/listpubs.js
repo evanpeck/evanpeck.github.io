@@ -1,14 +1,3 @@
-
-const PATHS = {
-    "thumbnail": "../../images/thumbnails/",
-    "icons": "../../images/thumbnails/icons/",
-    "pdf": "../../files/papers/",
-    "slides": "https://eg.bucknell.edu/~emp017/slides/"
-}
-const MY_NAME = "Evan M. Peck";
-const DIV_ID = "publications"
-const PUBS_JSON = "../../files/pubs.json"
-
 // colors for the tags of each kind 
 const TYPE_COLORS = {
     "conference": '#E87722',
@@ -27,22 +16,50 @@ const TYPE_COLORS = {
 
 async function main() {
     let pub_data = await getJSON();
-    let pubs = pub_data.publications;
+    let pubs_section = document.getElementById(SETTINGS.divID);
+    let pubs = filterPubs(pub_data);
 
+    // add the paths of different files
+    pubs.forEach(pub => addPaths(pub))
+    // create the DOM for each publication (or project)
+    pubs.forEach(pub => addPub(pub, pubs_section));
+}
+
+function filterPubs(pub_data) {
+    // Add all the publications
+    let all_pubs = pub_data.publications;
+
+    // if there are projects and we want to keep them, include them
+    if (pub_data.hasOwnProperty('projects') && SETTINGS.include_proj) {
+        all_pubs = all_pubs.concat(pub_data.projects)
+    }
+    // Filter by year
+    let pubs = all_pubs;
+    if (SETTINGS.startYear && SETTINGS.endYear) {
+        pubs = all_pubs.filter(pub => {
+            return SETTINGS.startYear <= pub.year && pub.year <= SETTINGS.endYear;
+        });
+    }
+    // Filter by tag
+    if (SETTINGS.tag) {
+        pubs = pubs.filter(pub => {
+            if (pub.hasOwnProperty('tags')) {
+                return pub.tags.includes(SETTINGS.tag);
+            } 
+            return false;
+        });
+    }
     // Sort so that most recent is top
     pubs.sort(function(a, b) {
         return b.year - a.year;
     });
 
-    // add the paths of different files
-    pubs.forEach(pub => addPaths(pub))
-    // add the 
-    pubs.forEach(pub => addPub(pub));
+    return pubs
 }
 
 // Loads pubs JSON file
 async function getJSON() {
-    const response = await fetch(PUBS_JSON);
+    const response = await fetch(SETTINGS.pubJsonPath);
     const json = await response.json();
     return json
 }
@@ -51,15 +68,15 @@ async function getJSON() {
 function addPaths(pub) {
     // look through all properties
     for (let prop in pub) {
-        if (prop in PATHS) {
-            pub[prop] = PATHS[prop] + pub[prop];
+        if (prop in SETTINGS.paths) {
+            pub[prop] = SETTINGS.paths[prop] + pub[prop];
         }
     }
     // look through all properties in supp
     if (pub.hasOwnProperty('supp')) {
         for (let prop in pub['supp']) {
-            if (prop in PATHS) {
-                pub['supp'][prop] = PATHS[prop] + pub['supp'][prop];
+            if (prop in SETTINGS.paths) {
+                pub['supp'][prop] = SETTINGS.paths[prop] + pub['supp'][prop];
             }
         }
     }
@@ -95,90 +112,106 @@ function getPrimaryLink(pub_data) {
     return link;
 }
 
-function addPub(pub_data) {
-    let pubs_section = document.getElementById(DIV_ID);
+function addPub(pub_data, pubs_section) {
+    
 
+    // Create some initial 
     let pub = makeElement('div', 'pub')
     pubs_section.appendChild(pub);
+    
 
     let primaryLink = getPrimaryLink(pub_data);
     
-    // Thumbnail link
-    let thumbnail_link = makeElement('a', 'thumbnail')
-    thumbnail_link.href = primaryLink; 
+    // ----- THUMBNAIL + LINK
+    if (pub_data.hasOwnProperty('thumbnail')) {
+        let thumbnail_link = makeElement('a', 'thumbnail')
+        thumbnail_link.href = primaryLink; 
 
-    // Thumbnail image
-    let thumbnail = makeElement('img', 'thumbnail')
-    thumbnail.src = pub_data.thumbnail
-    // If there is alt text, add it. 
-    if (pub_data.hasOwnProperty('alt')) {
-        thumbnail.alt = pub_data.alt;
+        // Thumbnail image
+        let thumbnail = makeElement('img', 'thumbnail')
+        thumbnail.src = pub_data.thumbnail
+        // If there is alt text, add it. 
+        if (pub_data.hasOwnProperty('alt')) {
+            thumbnail.alt = pub_data.alt;
+        }
+
+        // Add image to link
+        if (primaryLink != null) {
+            thumbnail_link.appendChild(thumbnail)
+            pub.appendChild(thumbnail_link)
+        } else {
+            pub.appendChild(thumbnail)
+        }
     }
 
-    // Add image to link
-    if (primaryLink != null) {
-        thumbnail_link.appendChild(thumbnail)
-        // add thumbnail
-        pub.appendChild(thumbnail_link)
-    } else {
-        pub.appendChild(thumbnail)
-    }
-    
-    // Type tag (not finished)
-    let typeTag = makeElement('div', 'type-tag')
-    typeTag.textContent = pub_data.type;
+    // --- CREATE THE PUB INFO CONTAINER
+    let pubInfo = makeElement('div', 'pubinfo');
+    // container for any non-thumbnail info
+    pub.appendChild(pubInfo) 
 
-    if (pub_data.type in TYPE_COLORS) {
-        typeTag.style.backgroundColor = TYPE_COLORS[pub_data.type]
-    } else {
-        typeTag.style.backgroundColor = "rgb(255, 0, 0)";
-    }
+    // ------ TYPE TAG
+    if (pub_data.hasOwnProperty('type')) {
+        // Type tag (not finished)
+        let typeTag = makeElement('div', 'type-tag')
+        typeTag.textContent = pub_data.type;
 
-    // Title
-    let title = makeElement('div', 'title')
-    if (primaryLink != null) {
-        title.innerHTML += `<a href='${primaryLink}' class='title'> ${pub_data.title} </a>`
-    }  else {
-        title.textContent = pub_data.title;
+        if (pub_data.type in TYPE_COLORS) {
+            typeTag.style.backgroundColor = TYPE_COLORS[pub_data.type]
+        } else {
+            typeTag.style.backgroundColor = "rgb(255, 0, 0)";
+        }
+        pubInfo.appendChild(typeTag) 
     }
 
-    // If there is an award
+    // -------- TITLE + LINK
+    if (pub_data.hasOwnProperty('title')) {
+        let title = makeElement('div', 'title')
+        if (primaryLink != null) {
+            title.innerHTML += `<a href='${primaryLink}' class='title'> ${pub_data.title} </a>`
+        }  else {
+            title.textContent = pub_data.title;
+        }
+        pubInfo.appendChild(title) 
+    }
+
+    // -------- AWARD
     let award;
     if (pub_data.hasOwnProperty('award')) {
         award = makeElement('div', 'award')
         let awardIcon = makeElement('img', 'award-icon')
-        awardIcon.src = PATHS["icons"] + "cert.png"
+        awardIcon.src = SETTINGS.paths["icons"] + "cert.jpg"
         awardIcon.alt = "small award icon"
         let awardText = makeElement('div', 'award-text')
         awardText.textContent = pub_data.award;
         award.appendChild(awardIcon);
         award.appendChild(awardText);
-    }
 
-    // Authors
-    let authors = makeElement('div', 'authors')
-    authors.innerHTML += pub_data.author.join(", ")
-                            .replace(MY_NAME, '<span class="me">' + MY_NAME + '</span>');
-    
-    // Venue
-    let venue = makeElement('div', 'venue')
-    venue.textContent = pub_data.venue + ', ' + pub_data.year
-
-    
-    // add pubinfo
-    let pubInfo = makeElement('div', 'pubinfo');
-
-    // Add all the publication info
-    pub.appendChild(pubInfo) 
-
-    pubInfo.appendChild(typeTag) 
-    if (award) { 
         pubInfo.appendChild(award);
     }
-    pubInfo.appendChild(title) 
-    pubInfo.appendChild(authors)
-    pubInfo.appendChild(venue)
 
+    // ---------- AUTHOR(S)
+    if (pub_data.hasOwnProperty('author')) {
+        let authors = makeElement('div', 'authors')
+        authors.innerHTML += pub_data.author.join(", ")
+                                .replace(SETTINGS.myName, '<span class="me">' + SETTINGS.myName + '</span>');
+        pubInfo.appendChild(authors)
+    }
+
+    // -------- DESCRIPTION
+    if (pub_data.hasOwnProperty('description')) {
+        let desc = makeElement('div', 'description');
+        desc.innerHTML += pub_data.description;
+        pubInfo.appendChild(desc)
+    }
+
+    // ------------- VENUE
+    if (pub_data.hasOwnProperty('venue')) {
+        let venue = makeElement('div', 'venue')
+        venue.textContent = pub_data.venue + ', ' + pub_data.year
+        pubInfo.appendChild(venue)
+    }
+
+    // ----------- SUPPLEMENTARY LINKS AND INFO
     if (pub_data.hasOwnProperty('supp')) {
         let supp = addSupps(pub_data)
         pubInfo.appendChild(supp);

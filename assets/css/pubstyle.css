@@ -1,104 +1,112 @@
 
 :root {
+    /* ---- COLORS ---- */
     --title-link-color: rgb(145,20,20);
     --title-link-hover-color: rgb(249, 71, 55);
+    --author-text-color: #474747;
+    --me-text-color: black;
+    --desc-text-color: rgb(87, 87, 87);
     --other-link-color: rgb(145,20,20);
     --other-link-hover-color: rgb(249, 71, 55);
     --venue-text-color: rgb(87, 87, 87);
-    --author-text-color: #474747;
-    --me-text-color: black;
+    
+    /* ---- FONT SIZES ---- */
+    --type-size: 0.7em;
+    --title-size: 0.95em;
+    --award-size: 0.85em;
+    --author-size: 0.75em;
+    --desc-size: 0.75em;
+    --supp-size: 0.75em;
+    --venue-size: 0.75em;
+
+    /* ---- ICON/IMG SIZES ---- */
+    --award-icon-size: 1em;
+    --thumbnail-size: 4em;
 }
 
-.title {
-    font-size: 0.95em;
-    color: var(--title-link-color);
-}
-
-a.title {
-    text-decoration: none;
-}
-
-a.title:hover, a.title:active {
-    color: var(--title-link-hover-color);
-    text-decoration: underline;
-}
-
-img.award-icon
-{
-    height: 1em;
-    width: auto;
-    float: left;
-    margin-right: 0.3em;
-}
-
-.award {
-    overflow: hidden;
-    margin-top: 0.2em;
-}
-
-.award-text
-{
-    font-size:0.85em;
-    /* vertical-align:text-top; */
-    color: #474747;
-    font-weight: bold;
-}
-
-.authors {
-    font-size: 0.75em;
-    color: var(--author-text-color);
-}
-
-.venue {
-    font-size: 0.75em;
-    font-style: italic;
-    color: var(--venue-text-color);
-}
-
-img.thumbnail {
-    border: 0.05em solid #021a40;
-    border-radius: 15%;
-    height: 4em;
-    width: auto;
-    float: left;
-    margin-right: 1em;
-
-    transition: 0.3s ease;
-}
-
-a.thumbnail {
-    float: left;
-}
-
-img.thumbnail:hover {
-    border-radius:50%;
-    transition: 0.3s ease;
-}
-
-.me
-{
-    font-weight: bolder;
-    color: var(--me-text-color);
-}
-
+/* ---- CONTAINERS ---- */
 .pub {
     margin-top: 1em;
     margin-bottom: 1em;
     float: left;
     clear: left;
 }
-
 .pubinfo {
     overflow: hidden;
 }
-
 #publications {
     float: left;
 }
 
-.type-tag
-{
-  font-size: 0.7em;
+/* ----- TITLE */
+.title {
+    font-size: var(--title-size);
+    color: var(--title-link-color);
+}
+a.title {
+    text-decoration: none;
+}
+a.title:hover, a.title:active {
+    color: var(--title-link-hover-color);
+    text-decoration: underline;
+}
+
+/* ----- AUTHORS */
+.authors {
+    font-size: var(--author-size);
+    color: var(--author-text-color);
+}
+.me {
+    font-weight: bolder;
+    color: var(--me-text-color);
+}
+
+/* ----- DESCRIPTION */
+.description {
+    color: var(--desc-text-color);
+    font-size: var(--desc-size);
+}
+
+/* ----- AWARD */
+img.award-icon {
+    height: var(--award-icon-size);
+    width: auto;
+    float: left;
+    margin-right: 0.3em;
+}
+.award {
+    overflow: hidden;
+    margin-top: 0.2em;
+}
+.award-text{
+    font-size:var(--award-size);
+    /* vertical-align:text-top; */
+    color: #474747;
+    font-weight: bold;
+}
+
+/* ----- THUMBNAIL */
+img.thumbnail {
+    border: 0.05em solid #021a40;
+    border-radius: 15%;
+    height: auto;
+    width: var(--thumbnail-size);
+    float: left;
+    margin-right: 1em;
+
+    transition: 0.3s ease;
+}
+a.thumbnail {
+    float: left;
+}
+img.thumbnail:hover {
+    border-radius:50%;
+    transition: 0.3s ease;
+}
+
+/* ---- TYPE TAG */
+.type-tag {
+  font-size: var(--type-size);
   color: white;
   display: inline-block;
   text-align: center;
@@ -109,18 +117,23 @@ img.thumbnail:hover {
   opacity: 0.8;
 }
 
+/* ----- SUPPLEMENTARY MATERIAL */
 div.supp {
-    font-size: 0.75em;
+    font-size: var(--supp-size);
     color: gray;
 }
-
 a.supp {
-    /* font-size: 1em; */
     color: var(--other-link-color);
     text-decoration: none;
 }
-
 a.supp:hover, a.supp:active {
     color:var(--other-link-hover-color);
     text-decoration: underline;
+}
+
+/* ----- VENUE */
+.venue {
+    font-size: var(--venue-size);
+    font-style: italic;
+    color: var(--venue-text-color);
 }

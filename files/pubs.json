@@ -1,19 +1,107 @@
 {
 
-  "pub_grouping": {
-    "conference": "group1",
-    "workshop": "group2",
-    "journal": "group1",
-    "dissertation": "group1",
-    "chapter": "group1",
-    "late-breaking work": "group3",
-    "poster": "group3",
-    "article": "group2",
-    "demo": "group3",
-    "tech report": "group3",
-    "BOF": "group3",
-    "special session": "group3"
-  },
+  "projects": [
+    {
+      "key": "mit_22_responsibleUI",
+      "title": "Responsible UI Design - Guest Lecture",
+      "author": ["Evan M. Peck"],
+      "year": 2022,
+      "thumbnail": "rcscience.jpg",
+      "type": "guest lecture",
+      "venue": "MIT's 6.170 Software Studio Course",
+      "tags": ["criticalCS"]
+    },
+    {
+      "key": "picup_22_csPedagogy",
+      "title": "Lessons from Computer Science Pedagogy",
+      "author": ["Michelle Kuchera", "Evan M. Peck"],
+      "year": 2021,
+      "venue": "Workshop at PICUP (Partnership for Integration of Computation into Undergraduate Physics)",
+      "thumbnail": "piccup.jpg",
+      "alt": "Thumbnail image: logo for PICUP - artistic swirling shape",
+      "description": "Michelle Kuchera (Davidson College) and I ran a 1-day workshop for physicists about teaching programming. We covered cs education research, practical experience, and integrating inclusion + responsibility into programming education",
+      "link": "https://www.compadre.org/PICUP/events/2021-Capstone/abstracts/Detail.cfm?id=8662",
+      "type": "workshop",
+      "supp": {
+        "workshop website": "https://www.compadre.org/PICUP/events/2021-Capstone/abstracts/Detail.cfm?id=8662",
+        "conference site": "https://www.compadre.org/PICUP/events/2021-Capstone/",
+        "workshop slides (Google Slides)": "https://bit.ly/picup-slides"
+      },
+      "tags": ["criticalCS"]
+    },
+    {
+      "key": "responsibleCS_judge",
+      "title": "Responsible Computer Science Challenge - Mozilla",
+      "year": 2018,
+      "thumbnail": "rcscience.jpg",
+      "description": "Served as a judge in the Responsible Computer Science Challenge - a funding opportunity in which grantees 'collaborated across disciplines, redesigned syllabus, incorporated creative pedagogy, mobilized students and faculty, and exchanged ideas with each other to integrate responsibility and ethics into computing curricula'",
+      "link": "https://foundation.mozilla.org/en/what-we-fund/awards/responsible-computer-science-challenge/",
+      "type": "service",
+      "supp": {
+        "website": "https://foundation.mozilla.org/en/what-we-fund/awards/responsible-computer-science-challenge/",
+        "judge list": "https://foundation.mozilla.org/en/what-we-fund/awards/responsible-computer-science-challenge/judges/"
+      },
+      "tags": ["criticalCS"]
+    },
+    {
+      "key": "responsibleCS_site",
+      "author": ["Emanuelle Burton", "Judy Goldsmith", "Colleen Greer", "Darakhshan Mir", "Jaye Nias", "Evan M. Peck"],
+      "title": "Responsible Computer Science: Modules Evaluations",
+      "year": 2021,
+      "thumbnail": "respModules.jpg",
+      "description": "Together with colleagues in CS/sociology/philosophy, we collected 40 responsible CS modules from across the web, grouped them by topic/class, and wrote guides to support instructors interested in adopting them. Our hope is that by including guidance, we increase the ease and confidence of instructors hoping to integrate responsible computing in their core CS curriculum",
+      "link": "https://www.bemidjistate.edu/academics/departments/mathematics-computer-science/rcs/module-evaluation/",
+      "type": "website",
+      "supp": {
+        "website": "https://www.bemidjistate.edu/academics/departments/mathematics-computer-science/rcs/module-evaluation/",
+        "overview (tweet thread)": "https://twitter.com/evanmpeck/status/1468643005913616390"
+      },
+      "tags": ["criticalCS"]
+    },
+    {
+      "key": "ethicalcs_site",
+      "author": ["Evan M. Peck"],
+      "title": "Ethical Reflection Modules for CS 1",
+      "year": 2022,
+      "thumbnail": "xrds2010.jpg",
+      "alt": "Thumbnail image: artistic illustration including overlapping images of person's head, hand, and computer",
+      "description": "In Fall 2019, I redesigned our CS 1 course to integrate practice-based (coding!) reflection directly with technical concepts. This is a space to share those activities .. blah blah bah... I'm really just testing to see what a description space here would look like... does <bold>HTML work?</bold>... I think if that last part is bold then it should. I need to think about the styling here a bit. This is also testing to see if everything breaks when I don't have a thumbnail image. I'll probably add one anyways, but it's nice having the flexibility",
+      "link": "https://ethicalcs.github.io/",
+      "type": "website",
+      "supp": {
+        "website": "https://ethicalcs.github.io/"
+      },
+      "tags": ["criticalCS"]
+    },
+    {
+      "key": "engJustice_book",
+      "title": "Engineering Justice Book Club - Bucknell University",
+      "author": ["Philip Asare", "Chris Dancy", "Amal Kabalan", "Elif Miskioglu", "Evan M. Peck", "Deborah Sills"],
+      "year": 2019,
+      "thumbnail": "engJustice.jpg",
+      "description": "Co-led a university-wide book club at Bucknell that discussed Leydens and Lucena's <emph>Engineering Justice: Transforming Engineering Education and Practice</emp>",
+      "link": "https://www.wiley.com/en-us/Engineering+Justice%3A+Transforming+Engineering+Education+and+Practice-p-9781118757307",
+      "type": "book club",
+      "supp": {
+        "book link": "https://www.wiley.com/en-us/Engineering+Justice%3A+Transforming+Engineering+Education+and+Practice-p-9781118757307"
+      },
+      "tags": ["criticalCS"]
+    },
+    {
+      "key": "medium_2017_ethicalEngine",
+      "author": ["Evan M. Peck"],
+      "title": "The Ethical Engine: Integrating Ethical Design into Intro Computer Science",
+      "year": 2018,
+      "thumbnail": "ethicalEngine.jpg",
+      "alt": "Thumbnail image: illustration of people in an autonomous car",
+      "venue": "Medium blog post",
+      "type": "blog post",
+      "supp": {
+        "blog link": "https://medium.com/bucknell-hci/the-ethical-engine-integrating-ethical-design-into-intro-to-computer-science-4f9874e756af"
+      },
+      "tags": ["criticalCS"]
+    }
+  ],
 
   "publications": [
     {
@@ -22,13 +110,14 @@
       "title": "Chapter: Integrating AI Ethics Across the Computing Curriculum",
       "venue": "The Ethics of Artificial Intelligence in Education: Practices, Challenges, and Debates",
       "year": 2022,
-      "thumbnail": "ai_ethics.png",
+      "thumbnail": "ai_ethics.jpg",
       "alt": "Thumbnail image: photo of the books' cover - person's face being pressed against an open book",
       "type": "chapter",
       "link": "https://www.routledge.com/The-Ethics-of-Artificial-Intelligence-in-Education-Practices-Challenges/Holmes-Porayska-Pomsta/p/book/9780367349721",
       "supp": {
         "(forthcoming) book link": "https://www.routledge.com/The-Ethics-of-Artificial-Intelligence-in-Education-Practices-Challenges/Holmes-Porayska-Pomsta/p/book/9780367349721"
-      }
+      },
+      "tags": ["criticalCS"]
     },
     {
       "key": "csengage_22_ai",
@@ -36,14 +125,15 @@
       "title": "1-Hour Collaborative Learning Activity for Responsible Human-AI Design",
       "venue": "EngageCSEdu - Special Session in ACM SIGCSE",
       "year": 2022,
-      "thumbnail": "responsibleAI.png",
+      "thumbnail": "responsibleAI.jpg",
       "alt": "Thumbnail image: screenshot of Responsible AI Cards from Microsoft",
       "type": "special session",
       "supp": {
         "pdf": "2022-engageCSedu-ResponsibleAI-PREPRINT.pdf",
         "presentation video": "https://youtu.be/etKzRgoIahY",
         "material": "https://bit.ly/hci-activity"
-      }
+      },
+      "tags": ["criticalCS"]
     },
     {
       "key": "vis_21_vis4good",
@@ -51,7 +141,7 @@
       "title": "Visualization for Social Good (workshop organizers)",
       "venue": "IEEE VIS",
       "year": 2021,
-      "thumbnail": "vis4good.png",
+      "thumbnail": "vis4good.jpg",
       "alt": "Thumbnail image: a bar chart with a flower growing out of the top bar",
       "type": "workshop",
       "link": "https://vis4good.github.io/workshop2021",
@@ -65,14 +155,15 @@
       "title": "Assignments that Blend Ethics and Technology",
       "venue": "SIGCSE: ACM Special Interest Group on CS Education Technical Symposium",
       "year": 2020,
-      "thumbnail": "hiring.png",
+      "thumbnail": "hiring.jpg",
       "alt": "Thumbnail image: a man standing in a suit",
       "type": "special session",
       "supp": {
         "pdf":"2020-sigcse-CSethics.pdf",
         "assigment":"https://ethicalcs.github.io/#future-makers",
         "ACM":"https://dl.acm.org/doi/abs/10.1145/3328778.3366994"
-      }
+      },
+      "tags": ["criticalCS"]
     },
     {
       "key": "sigcse_20_nifty",
@@ -80,7 +171,7 @@
       "title": "Nifty Assignments",
       "venue": "SIGCSE: ACM Special Interest Group on CS Education Technical Symposium",
       "year": 2020,
-      "thumbnail": "housing.png",
+      "thumbnail": "housing.jpg",
       "alt": "Thumbnail image: a row of apartment buildings",
       "type": "special session",
       "supp": {
@@ -88,7 +179,8 @@
         "assignment": "https://ethicalcs.github.io/#decision-makers",
         "nifty home": "http://nifty.stanford.edu/",
         "ACM": "https://dl.acm.org/doi/abs/10.1145/3328778.3372574"
-      }
+      },
+      "tags": ["criticalCS"]
     },
     {
       "key": "chi_19_data",
@@ -115,7 +207,7 @@
       "title": "The Curious Case of Combining Text and Visualization",
       "venue": "EuroVis (Short Paper): EG/VGTC Conference on Visualization",
       "year": 2019,
-      "thumbnail": "bayeseye.png",
+      "thumbnail": "bayeseye.jpg",
       "alt": "Thumbnail image: an icon visualization with different sections highlighted",
       "type": "conference",
       "supp": {
@@ -129,7 +221,7 @@
       "title": "Teaching Pervasive Computing in Liberal Arts Colleges",
       "venue": "IEEE Pervasive Computing",
       "year": 2018,
-      "thumbnail": "libarts.png",
+      "thumbnail": "libarts.jpg",
       "alt": "Thumbnail image: photo of 2 students working on a laptop together",
       "link": "https://ieeexplore.ieee.org/document/8490181",
       "type": "article",
@@ -143,7 +235,7 @@
       "title": "Using Participatory Approaches to Uncover Privacy Norms with Marginalized Communities",
       "venue": "Neworked Privacy Workshop at ACM CSCW",
       "year": 2018,
-      "thumbnail": "privacy.png",
+      "thumbnail": "privacy.jpg",
       "alt": "Thumbnail image: illustration that looks like a camera lens",
       "type": "workshop"
     },
@@ -159,7 +251,8 @@
       "type": "workshop",
       "supp": {
         "ACM": "https://dl.acm.org/citation.cfm?id=3287543"
-      }
+      },
+      "tags": ["criticalCS"]
     },
     {
       "key": "infovis_18",
@@ -167,7 +260,7 @@
       "title": "Patterns and Pace: Quantifying Diverse Exploration Behavior with Visualizations on the Web",
       "venue": "IEEE TVCG: Transactions on Visualization and Computer Graphics (InfoVis 2018)",
       "year": 2019,
-      "thumbnail": "patternsPace.png",
+      "thumbnail": "patternsPace.jpg",
       "alt": "Thumbnail image: Zoomed-out bubble plot in which some bubbles are highlighted",
       "type": "journal",
       "supp": {
@@ -181,7 +274,7 @@
       "title": "Towards Understanding Differential Privacy: When Do People Trust Randomized Response Technique?",
       "venue": "Poster in SOUPS: Symposium on Usable Privacy and Security",
       "year": 2018,
-      "thumbnail": "RRT.png",
+      "thumbnail": "RRT.jpg",
       "alt": "Thumbnail image: photo of a Facebook page with a privacy survey",
       "type": "poster"
     },
@@ -191,7 +284,7 @@
       "title": "Empowering Sensemaking in the Web's Emerging Visualization Ecosystem",
       "venue": "ACM CHI Workshop on Sensemaking in a Senseless World",
       "year": 2018,
-      "thumbnail": "sense.png",
+      "thumbnail": "sense.jpg",
       "alt": "Thumbnail image: an interactive bubble plot in which one bubble is being hovered over",
       "type": "workshop",
       "supp": {
@@ -206,7 +299,7 @@
       "title": "HCI for PUI: Human-Computer Interaction for Primarily-Undergraduate Institutions",
       "venue": "ACM CHI Workshop on Developing a Community of Practice to Support Global HCI Education",
       "year": 2018,
-      "thumbnail": "inputs.png",
+      "thumbnail": "inputs.jpg",
       "alt": "Thumbnail image: icons of people interacting with computers in different ways - phone, brain-sensing, augmented reality",
       "type": "workshop",
       "supp": {
@@ -220,7 +313,7 @@
       "title": "The Effects of Adding Search Functionality to Interactive Visualizations on the Web",
       "venue": "CHI: ACM Conference on Human Factors in Computing Systems",
       "year": 2018,
-      "thumbnail": "foresight.png",
+      "thumbnail": "foresight.jpg",
       "alt": "Thumbnail image: Zoomed-out bubble plot in which some bubbles are highlighted",
       "type": "conference",
       "supp": {
@@ -251,7 +344,7 @@
       "title": "The Impact of Text-Based Search in Interactive Data Visualizations on the Web",
       "venue": "IEEE Conference on Information Visualization (InfoVis 2017)",
       "year": 2017,
-      "thumbnail": "searchPoster.png",
+      "thumbnail": "searchPoster.jpg",
       "alt": "Thumbnail image: a web data visualization with someone typing in a search bar",
       "type": "poster"
     },
@@ -261,7 +354,7 @@
       "title": "Towards Understanding Differential Privacy: When Do People Trust Randomized Response Technique?",
       "venue": "CHI: ACM Conference on Human Factors in Computing Systems",
       "year": 2017,
-      "thumbnail": "RRT.png",
+      "thumbnail": "RRT.jpg",
       "alt": "Thumbnail image: photo of a Facebook page with a privacy survey",
       "type": "conference",
       "supp": {
@@ -276,7 +369,7 @@
       "title": "SightLine: Building on the Web's Visualization Ecosystem",
       "venue": "CHI Extended Abstracts: ACM Conference on Human Factors in Computing Systems",
       "year": 2017,
-      "thumbnail": "sightline.png",
+      "thumbnail": "sightline.jpg",
       "alt": "Thumbnail image: logo illustration of glasses that also look like network nodes",
       "type": "late-breaking work",
       "supp": {
@@ -292,7 +385,7 @@
       "title": "HindSight: Encouraging Exploration through Direct Encoding of Personal Interaction History",
       "venue": "IEEE TVCG: Transactions on Visualization and Computer Graphics (InfoVis 2016)",
       "year": 2017,
-      "thumbnail": "hindsight.png",
+      "thumbnail": "hindsight.jpg",
       "alt": "Thumbnail image: a complex data visualization with lots of lines charts on it",
       "type": "journal",
       "supp": {
@@ -327,7 +420,7 @@
       "title": "Beyond Detection: Investing in Practical and Theoretical Applications of Emotion and Visualization",
       "venue": "IUI: ACM Conference on Intelligent User Interfaces, Workshop on Emotion and Visualization",
       "year": 2016,
-      "thumbnail": "eye_vis.png",
+      "thumbnail": "eye_vis.jpg",
       "alt": "Thumbnail image: black-and-white icon of an eye with a heart in the center",
       "type": "workshop",
       "supp": {
@@ -345,7 +438,7 @@
       "title": "Learn Piano with BACh: An Adaptive Learning Interface that Adjusts Task Difficulty based on Brain State",
       "venue": "CHI: ACM Conference on Human Factors in Computing Systems",
       "year": 2016,
-      "thumbnail": "bach.png",
+      "thumbnail": "bach.jpg",
       "alt": "Thumbnail image: photo of a man playing piano in front of a computer, while wearing fNIRS brain sensing device",
       "type": "conference",
       "award": "Best Paper Award",
@@ -362,7 +455,7 @@
       "title": "Designing Brain-Computer Interfaces for Attention-Aware Systems",
       "venue": "IEEE Computer",
       "year": 2015,
-      "thumbnail": "ieee_bci.png",
+      "thumbnail": "ieee_bci.jpg",
       "alt": "Thumbnail image: magazine illustration of a person's legs and their shadow",
       "type": "journal",
       "supp": {
@@ -380,7 +473,7 @@
       "title": "Improving Bayesian Reasoning: The Effects of Phrasing, Visualization, and Spatial Ability",
       "venue": "IEEE TVCG: Transactions on Visualization and Computer Graphics (InfoVis 2015)",
       "year": 2016,
-      "thumbnail": "bayes.png",
+      "thumbnail": "bayes.jpg",
       "alt": "Thumbnail image: icon array visualization with people as icons - some are highlighted to illustrrate a set",
       "type": "journal",
       "supp": {
@@ -399,7 +492,7 @@
       "title": "FlyLoop: A Micro Framework for Rapid Development of Physiological Computing Systems",
       "venue": "ACM EICS: Symposium on Engineering Interactive Computing Systems (Short Paper)",
       "year": 2015,
-      "thumbnail": "flyLoop.png",
+      "thumbnail": "flyLoop.jpg",
       "alt": "Thumbnail image: an illustration of flowchart between technical modules",
       "type": "late-breaking work",
       "supp": {
@@ -417,7 +510,7 @@
       "title": "Implicit Brain-Computer Interaction Applied to a Novel Adaptive Musical Interface",
       "venue": "Tech Report: Tufts University, Dept. of Computer Science",
       "year": 2015,
-      "thumbnail": "music.png",
+      "thumbnail": "music.jpg",
       "alt": "Thumbnail image: a small portion of a musical score - the notes are highlighted in different colors",
       "type": "tech report",
       "supp": {
@@ -435,7 +528,7 @@
       "title": "BRAAHMS: A Novel Adaptive Musical Interface Based on Users' Cognitive State",
       "venue": "NIME: New Interfaces for Musical Expression",
       "year": 2015,
-      "thumbnail": "music.png",
+      "thumbnail": "music.jpg",
       "alt": "Thumbnail image: a small portion of a musical score - the notes are highlighted in different colors",
       "type": "conference",
       "supp": {
@@ -451,7 +544,7 @@
       "title": "Designing Implicit Interfaces for Physiological Computing: Guidelines and Lessons Learned with fNIRS",
       "venue": "TOCHI: ACM Transactions on Computer-Human Interaction",
       "year": 2015,
-      "thumbnail": "fNIRS3.png",
+      "thumbnail": "fNIRS3.jpg",
       "alt": "Thumbnail image: a woman wears a headband with wires coming out the back - fNIRS brain sensing",
       "type": "journal",
       "supp": {
@@ -484,7 +577,7 @@
       "title": "Designing Brain-Computer Interfaces for Intelligent Information Delivery Systems",
       "venue": "Ph.D. Dissertation",
       "year": 2014,
-      "thumbnail": "brainImage.png",
+      "thumbnail": "brainImage.jpg",
       "alt": "Thumbnail image: an illustration of someone wearing fNIRS brain sensing",
       "type": "dissertation",
       "supp": {
@@ -500,7 +593,7 @@
       "title": "Building Implicit Interfaces for Wearable Computers with Physiological Inputs: Zero Shutter Camera and Phylter",
       "venue": "UIST: ACM Symposium on User Interface Software and Technology",
       "year": 2014,
-      "thumbnail": "uist_poster.png",
+      "thumbnail": "uist_poster.jpg",
       "alt": "Thumbnail image: an illustration of the technical components of the Phylter system",
       "type": "poster",
       "supp": {
@@ -518,7 +611,7 @@
       "title": "Brain-Based Target Expansion",
       "venue": "UIST: ACM Symposium on User Interface Software and Technology",
       "year": 2014,
-      "thumbnail": "bubbleCursor.png",
+      "thumbnail": "bubbleCursor.jpg",
       "alt": "Thumbnail image: dots on a screen with red bubble-like circles around some of them",
       "type": "conference",
       "supp": {
@@ -553,7 +646,7 @@
       "title": "Dynamic Difficulty Using Brain Metrics",
       "venue": "CHI: ACM Conference on Human Factors in Computing Systems",
       "year": 2014,
-      "thumbnail": "UAV.png",
+      "thumbnail": "UAV.jpg",
       "alt": "Thumbnail image: an overview screen of a UAV simulation - includes obstacles and flight paths",
       "type": "conference",
       "award": "Best Paper Honorable Mention",
@@ -571,7 +664,7 @@
       "title": "Using fNIRS Brain Sensing to Evaluate Information Visualization Interfaces",
       "venue": "CHI: ACM Conference on Human Factors in Computing Systems",
       "year": 2013,
-      "thumbnail": "mcgill.png",
+      "thumbnail": "mcgill.jpg",
       "alt": "Thumbnail image: a bar graph with 2 bars marked for comparison",
       "type": "conference",
       "supp": {
@@ -588,7 +681,7 @@
       "title": "Using Passive Input to Adapt Visualization Systems to the Individual",
       "venue": "CHI Workshop: Many People Many Eyes: Aggregating Influences of Visual Perception on User Interface Design",
       "year": 2013,
-      "thumbnail": "manyPeople.png",
+      "thumbnail": "manyPeople.jpg",
       "alt": "Thumbnail image: 6 icons of people",
       "type": "workshop",
       "supp": {
@@ -605,7 +698,7 @@
       "title": "The Adaptive User: Priming to Improve Interaction",
       "venue": "CHI Workshop: Many People Many Eyes: Aggregating Influences of Visual Perception on User Interface Design",
       "year": 2013,
-      "thumbnail": "priming.png",
+      "thumbnail": "priming.jpg",
       "alt": "Thumbnail image: a capital letter 'E' formed by many tiny letter 'H's",
       "type": "workshop",
       "supp": {
@@ -620,7 +713,7 @@
       "title": "Using fNIRS as Input to Information Filtering Systems",
       "venue": "Augmented Human",
       "year": 2013,
-      "thumbnail": "brainfilter.png",
+      "thumbnail": "brainfilter.jpg",
       "alt": "Thumbnail image: illustration of 1s and 0s (binary) being filtereed into a someone's head",
       "type": "conference",
       "supp": {
@@ -637,7 +730,7 @@
       "title": "Position Paper: Towards a 3-Dimensional Model of Individual Cognitive Differences",
       "venue": "BELIV: Beyond Time and Errors: Novel Evaluation Methods for Visualization",
       "year": 2012,
-      "thumbnail": "emptyCube.png",
+      "thumbnail": "emptyCube.jpg",
       "pdf": "IndDiff.pdf",
       "type": "workshop",
       "supp": {
@@ -653,7 +746,7 @@
       "title": "Near to the Brain: Functional Near-Infrared Spectroscopy as a Lightweight Brain Imaging Technique for Visualization",
       "venue": "InfoVis: IEEE Information Visualization Posters",
       "year": 2011,
-      "thumbnail": "barPie.png",
+      "thumbnail": "barPie.jpg",
       "pdf": "INFOVIS2011-Poster-fNIRS.pdf",
       "type": "poster",
       "award": "Best Poster",
@@ -668,7 +761,7 @@
       "title": "Neuroscience and Computing Introduction (Issue Editors)",
       "venue": "ACM XRDS: Crossroads",
       "year": 2011,
-      "thumbnail": "XRDS.png",
+      "thumbnail": "XRDS.jpg",
       "pdf": "xrds-intro.pdf",
       "type": "article",
       "supp": {
@@ -682,7 +775,7 @@
       "title": "The Sensorium",
       "venue": "ACM XRDS: Crossroads",
       "year": 2011,
-      "thumbnail": "XRDS.png",
+      "thumbnail": "XRDS.jpg",
       "pdf": "xrds-sensorium.pdf",
       "type": "article",
       "supp": {
@@ -696,7 +789,7 @@
       "title": "Framing Meaningful Adaptation in a Social Context",
       "venue": "ACM CHI 2011 Workshop: Brain and Body Interfaces: Designing for Meaningful Interaction",
       "year": 2011,
-      "thumbnail": "social.png",
+      "thumbnail": "social.jpg",
       "pdf": "MeaningfulAdaptationContext.pdf",
       "type": "workshop",
       "supp": {
@@ -725,7 +818,7 @@
       "title": "Your Brain, Your Computer, and You",
       "venue": "IEEE Computer: Invisible Computing Column",
       "year": 2010,
-      "thumbnail": "ieee.png",
+      "thumbnail": "ieee.jpg",
       "pdf": "ieeeComputer.pdf",
       "type": "journal"
     },
@@ -739,7 +832,7 @@
       "title": "From Brain Signals to Adaptive Interfaces: Using fNIRS in HCI",
       "venue": "Brain-Computer Interfaces: Applying our Minds to Human-Computer Interaction",
       "year": 2010,
-      "thumbnail": "fNIRS3.png",
+      "thumbnail": "fNIRS3.jpg",
       "pdf": "BHCI_chapter.pdf",
       "type": "chapter",
       "supp": {
@@ -756,7 +849,7 @@
       "title": "From Brains to Bytes",
       "venue": "ACM XRDS: Crossroads",
       "year": 2010,
-      "thumbnail": "xrds2010.png",
+      "thumbnail": "xrds2010.jpg",
       "pdf": "crossroads_2010.pdf",
       "type": "article",
       "supp": {
@@ -773,7 +866,7 @@
       "title": "Application of Correlation Analysis Tools for the Classification of Mental Workloads in Functional Near-Infrared Spectroscopy",
       "venue": "Biomedical Optics",
       "year": 2010,
-      "thumbnail": "correlationAnalysis.png",
+      "thumbnail": "correlationAnalysis.jpg",
       "pdf": "CorrelationAnalysis2010.pdf",
       "type": "poster"
     },
@@ -784,7 +877,7 @@
       "title": "Volunteer Computing Games: Merging Online Casual Gaming with Volunteer Computing",
       "venue": "Meaningful Play",
       "year": 2008,
-      "thumbnail": "pebble.png",
+      "thumbnail": "pebble.jpg",
       "pdf": "volunteer_computing.pdf",
       "type": "conference"
     },
@@ -797,7 +890,7 @@
       "title": "Pebble It: A Human Computing Game",
       "venue": "Meaningful Play",
       "year": 2008,
-      "thumbnail": "pebble.png",
+      "thumbnail": "pebble.jpg",
       "type": "demo"
     },
 
@@ -807,7 +900,7 @@
       "title": "Wildfire Wally: A Volunteer Computing Game",
       "venue": "Future Play",
       "year": 2007,
-      "thumbnail": "wally.png",
+      "thumbnail": "wally.jpg",
       "pdf": "wildfire_wally.pdf",
       "type": "poster",
       "supp": {
