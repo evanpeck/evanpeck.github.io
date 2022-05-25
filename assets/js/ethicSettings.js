@@ -7,19 +7,19 @@ var SETTINGS = {
     // filter settings
     startYear: 1000,
     endYear: 3000,
-    tag: '',
-    include_proj: false, // if we want to include non-pubs
+    tag: 'criticalCS',
+    include_proj: true, // if we want to include non-pubs
 
     // -- HIGHLIGHT SECTION
     show_highlights: true,
-    highlight_heading: "Selected Work",
+    highlight_heading: "Highlighted Activity in Responsible Computing",
     highlightsID: "highlights",
     // [] if no highlights, fill with keys if highlights
-    highlights: ["sigcse_20_ethics", "chi_19_data", "infovis_16", "chi_16"],
+    highlights: ["responsibleCS_site", "ethicalCS_site"],
     
     // -- PUBS SECTION
     show_pubs: true,
-    pub_heading: "Publications (in reverse chronological order)",
+    pub_heading: "Activity and Engagement (in reverse chronological order)",
     divID: "publications",
 
     // replace paths

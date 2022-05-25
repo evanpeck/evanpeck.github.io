@@ -18,6 +18,9 @@ main:
   - title: "CV"
     url: /files/evan_peck_cv.pdf
     # url: /cv/
+
+  # - title: "Responsible CS"
+  #   url: /projects/responsibleCS
     
   # - title: "Guide"
   #   url: /markdown/
