@@ -43,17 +43,21 @@
 
 .page__content {
 
+  // reduces the default font size a bit. 
   p, li, dl {
-    font-size: 0.85em; /* was 1em - testing */
+    font-size: 0.95em; /* was 1em - testing */
   }
 
+  // Removes underlines from links
   a {
     text-decoration: none;
   }
 }
 
+// For the next section
 .news {
-  li {
-    font-size: 0.7em;
+  ul {
+    font-size: 0.83em;
+    padding-left: 1em;
   }
 }
