@@ -25,6 +25,9 @@ For more, visit my [full list of publications](http://www.eg.bucknell.edu/~emp01
 
 
 ### What's new
+
+<div markdown="1" class="news">
+
 -   Dec: I co-authored a book chapter with Iris Howley and Darakhshan
     Mir for *Ethics of AIED* by Routledge - *Integrating AI Ethics
     Across the Computing Curriculum*. It\'s now off to the presses! -
@@ -90,3 +93,5 @@ For more, visit my [full list of publications](http://www.eg.bucknell.edu/~emp01
     <https://cs-pui.github.io/>. See [this twitter
     thread](https://twitter.com/EvanMPeck/status/1422624995050655745)
     for its announcement and updates.
+
+</div>
