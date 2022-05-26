@@ -147,7 +147,8 @@
       "link": "https://vis4good.github.io/workshop2021",
       "supp": {
         "workshop website": "https://vis4good.github.io/workshop2021"
-      }
+      },
+      "tags": ["publicVis"]
     },
     {
       "key": "sigcse_20_ethics",
@@ -199,7 +200,8 @@
         "arXiv": "https://arxiv.org/abs/1901.01920",
         "ACM": "https://dl.acm.org/citation.cfm?id=3300474",
         "podcast": "https://datastori.es/data-is-personal-with-evan-peck/"
-      }
+      },
+      "tags": ["publicVis"]
     },
     {
       "key": "eurovis_19_eye",
@@ -266,7 +268,8 @@
       "supp": {
         "pdf":"patterns-and-pace-vis2018.pdf",
         "data": "https://osf.io/dx43q"
-      }
+      },
+      "tags": ["publicVis"]
     },
   	{
       "key": "soups_18",
@@ -291,7 +294,8 @@
         "pdf":"chi18-sensemakingvis.pdf",
       	"workshop": "https://sensemakingchi2018.com/",
       	"slides": "sensemaking_vis_chi2018.pptx"
-      }
+      },
+      "tags": ["publicVis"]
     },
   	{
       "key": "chi_18_hcipui",
@@ -321,7 +325,8 @@
       	"video preview": "https://www.youtube.com/watch?v=qEPZlunAJX0",
       	"ACM": "https://dl.acm.org/citation.cfm?id=3173574.3173711",
       	"data": "https://github.com/wpivis/search-in-vis"
-      }
+      },
+      "tags": ["publicVis"]
     },
     {
       "key": "sigcse_bof_18",
@@ -346,7 +351,8 @@
       "year": 2017,
       "thumbnail": "searchPoster.jpg",
       "alt": "Thumbnail image: a web data visualization with someone typing in a search bar",
-      "type": "poster"
+      "type": "poster",
+      "tags": ["publicVis"]
     },
   	{
       "key": "chi_17",
@@ -377,7 +383,8 @@
         "ACM": "http://dl.acm.org/citation.cfm?id=3053142",
       	"blog post": "https://medium.com/@jordansekky/why-sightline-b877670aad5b",
         "archived site": "https://web.archive.org/web/20170710204643/https://sightlinevis.com/"
-      }
+      },
+      "tags": ["publicVis"]
     },
   	{
       "key": "infovis_16",
@@ -393,7 +400,8 @@
         "IEEE": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7539616",
         "blog post": "https://medium.com/@evanmpeck/hindsight-encouraging-exploration-and-engagement-in-data-visualization-7b0d9d421fc5#.32g8lqhyy",
         "material and demos": "https://wpivis.github.io/hindsight/"
-      }
+      },
+      "tags": ["publicVis"]
     }, 
     {
       "key": "sicase_16_poster",
