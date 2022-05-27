@@ -2,6 +2,75 @@
 
   "projects": [
     {
+      "key": "site_22_cspui",
+      "title": "CS Faculty Jobs at Undergraduate Institutions (PUIs)",
+      "author": ["Evan M. Peck"],
+      "year": 2022,
+      "thumbnail": "cs-pui.png",
+      "type": "website",
+      "link": "https://cs-pui.github.io",
+      "description": "I created and continue to curate a website that lists faculty CS positions from primarily-undergraduate institutions that offer a balance of both scholarship and teaching. In the 2021/22 hiring cycle, the website received over 10,000 hits and has been broadly been shared within the CS community.",
+      "supp": {
+        "website": "https://cs-pui.github.io"
+      },
+      "tags": ["undergrad"]
+    },
+    {
+      "key": "medium_21_hiringTimelines",
+      "title": "The Jobs that Can’t Be Seen: The Problem with Early Hiring Timelines in Undergraduate CS Departments",
+      "author": ["Evan M. Peck"],
+      "year": 2021,
+      "thumbnail": "hiringTimelines.png",
+      "type": "special session / post",
+      "venue": "SIGCSE 2021 Pre-Symposium Event by the SIGCSE Committee on Computing Education in Liberal Arts Colleges",
+      "link": "https://evanmpeck.medium.com/the-jobs-that-cant-be-seen-the-harm-of-early-job-offers-from-undergraduate-cs-departments-3ee534cd3787",
+      "description": "Originally presented at SIGCSE 2021, I expanded that presentation to a larger blog post reflecting on the negative impact of diverging hiring timelines",
+      "supp": {
+        "post": "https://evanmpeck.medium.com/the-jobs-that-cant-be-seen-the-harm-of-early-job-offers-from-undergraduate-cs-departments-3ee534cd3787",
+        "original submission":"https://computing-in-the-liberal-arts.github.io/SIGCSE2021-PreSymposium-Event/recruiting/peck/index.html"
+      },
+      "tags": ["undergrad"]
+    },
+    {
+      "key": "medium_19_yourProf",
+      "title": "What I want you to know about me as your professor",
+      "author": ["Evan M. Peck"],
+      "year": 2019,
+      "thumbnail": "me.jpg",
+      "type": "blog post",
+      "venue": "Medium",
+      "supp": {
+        "post": "https://medium.com/bucknell-hci/what-i-want-you-to-know-about-me-as-your-professor-58c9c2e91e33"
+      },
+      "tags": ["teaching"]
+    },
+    {
+      "key": "medium_19_undergradConf",
+      "title": "A Neglected Pipeline: Improving Undergrad Access to Conferences",
+      "author": ["Evan M. Peck"],
+      "year": 2019,
+      "thumbnail": "neglectedBarriers.jpg",
+      "type": "blog post",
+      "venue": "Medium",
+      "supp": {
+        "post": "https://medium.com/bucknell-hci/a-neglected-pipeline-removing-undergrad-barriers-to-conferences-2a6c87eb4176"
+      },
+      "tags": ["undergrad"]
+    },
+    {
+      "key": "medium_17_puiJobs",
+      "title": "The Jobs I Didn’t See: My Misconceptions of the Academic Job Market",
+      "author": ["Evan M. Peck"],
+      "year": 2017,
+      "thumbnail": "jobsPUI.jpg",
+      "type": "blog post",
+      "venue": "Medium",
+      "supp": {
+        "post": "https://medium.com/bucknell-hci/the-jobs-i-didnt-see-my-misconceptions-of-the-academic-job-market-9cb98b057422"
+      },
+      "tags": ["undergrad"]
+    },
+    {
       "key": "mit_22_responsibleUI",
       "title": "Responsible UI Design - Guest Lecture",
       "author": ["Evan M. Peck"],
@@ -229,7 +298,8 @@
       "type": "article",
       "supp": {
         "IEEE": "https://ieeexplore.ieee.org/document/8490181"
-      }
+      },
+      "tags": ["undergrad"]
     },
     {
       "key": "cscw_18",
@@ -309,7 +379,8 @@
       "supp": {
         "pdf":"chi18-hci4pui.pdf",
       	"workshop": "https://chi2018.hcilivingcurriculum.org/"
-      }
+      },
+      "tags": ["undergrad"]
     },
     {
       "key": "chi_18_foresight",
@@ -341,7 +412,8 @@
       "supp": {
         "ACM": "https://dl.acm.org/citation.cfm?id=3162179",
       	"abstract": "https://whova.com/embedded/session/sigsc_201802/303926/"
-      }
+      },
+      "tags": ["undergrad"]
     },
     {
       "key": "vis_poster_17",
