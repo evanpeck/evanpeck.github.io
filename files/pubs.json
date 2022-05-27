@@ -2,6 +2,21 @@
 
   "projects": [
     {
+      "key": "guide_21_doNoHarm",
+      "title": "Do No Harm Guide: Applying Equity Awareness in Data Visualization",
+      "author": ["Jonathan Schwabish", "Alice Feng"],
+      "year": 2021,
+      "thumbnail": "redlining.png",
+      "type": "contribution",
+      "link": "https://www.urban.org/sites/default/files/publication/104296/do-no-harm-guide.pdf",
+      "description": "In the creation of this guide (I am not an author!), I was interviewed by Jonathan Schwabish and Alice Feng to hear about how I approach inclusivity in my visualization work. Our 'Data is Personal' project is featured a few times throughout the guide.",
+      "supp": {
+        "pdf": "https://www.urban.org/sites/default/files/publication/104296/do-no-harm-guide.pdf",
+        "website": "https://www.urban.org/research/publication/do-no-harm-guide-applying-equity-awareness-data-visualization"
+      },
+      "tags": ["publicVis"]
+    },
+    {
       "key": "site_22_cspui",
       "title": "CS Faculty Jobs at Undergraduate Institutions (PUIs)",
       "author": ["Evan M. Peck"],
