@@ -2,6 +2,52 @@
 
   "projects": [
     {
+      "key": "talk_20_jobSearch",
+      "title": "Job Searching and Interviewing [at Undergrad Institutions]",
+      "author": ["Evan M. Peck"],
+      "year": 2020,
+      "thumbnail": "libArts.jpg",
+      "type": "talk",
+      "link": "https://www.cs.hmc.edu/~zdodds/NEWR2020/index.html",
+      "description": "I gave a short talk at NEWR about applying to primarily-undergraduate institutions - a pre-SIGCSE workshop for assisting graduate students considering more ed/teaching-oriented academic positions",
+      "venue": "New Educators Wednesday Roundtable - SIGCSE",
+      "supp": {
+        "workshop site": "https://www.cs.hmc.edu/~zdodds/NEWR2020/index.html"
+      },
+      "tags": ["undergrad"]
+    },
+    {
+      "key": "podcast_17_changeAcLife",
+      "title": "Evan Peck on making choices, accepting trade-offs, and liberal arts as a great middle way",
+      "author": ["Evan M. Peck"],
+      "year": 2017,
+      "thumbnail": "changingAc.png",
+      "type": "podcast",
+      "link": "http://www.changingacademiclife.com/blog/2017/8/9/evan-peck",
+      "description": "An interview with Geraldine Fitzpatrick about the decisions I made to take a position at a liberal arts college rather than a more research-focused institution",
+      "venue": "Changing Academic Life (Podcast)",
+      "supp": {
+        "episode link": "http://www.changingacademiclife.com/blog/2017/8/9/evan-peck",
+        "podcast link": "http://www.changingacademiclife.com/start"
+      },
+      "tags": ["undergrad"]
+    },
+    {
+      "key": "medium_18_studentResearch",
+      "title": "A Student-Centered Research Manifesto",
+      "author": ["Evan M. Peck"],
+      "year": 2018,
+      "thumbnail": "student.jpg",
+      "type": "blog post",
+      "link": "https://medium.com/bucknell-hci/a-student-centered-research-manifesto-bfb41072fdca",
+      "description": "A set of nine characteristics that I believe should define an approach to research that prioritizes student experiences and growth just as strongly as research productivity",
+      "venue": "Medium",
+      "supp": {
+        "blog post": "https://medium.com/bucknell-hci/a-student-centered-research-manifesto-bfb41072fdca"
+      },
+      "tags": ["undergrad"]
+    },
+    {
       "key": "service_21_cra",
       "title": "CRA Outstanding Research Award Selection Committee",
       "author": ["Evan M. Peck"],
@@ -95,6 +141,7 @@
       "thumbnail": "jobsPUI.jpg",
       "type": "blog post",
       "venue": "Medium",
+      "description": "My reflection of the diversity of the academic job landscape and aligning personal values/priorities with those of your home institution. As of May 2022, it has been read over 18,000 times, and appears in a handful of job guides for Ph.D. students",
       "supp": {
         "post": "https://medium.com/bucknell-hci/the-jobs-i-didnt-see-my-misconceptions-of-the-academic-job-market-9cb98b057422"
       },

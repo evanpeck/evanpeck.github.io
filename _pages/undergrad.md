@@ -14,7 +14,7 @@ author_profile: true
 
 I am an advocate for primarily-undergraduate institutions (PUI) - both as environments that are positioned to confront society's most pressing sociotechnical problems, and also as institutions that offer a compelling balance of teaching and research for new faculty. I work to promote undergraduate research processes and products within my scholarly community, and see undergrad researchers as a critical (but often overlooked) group within academia.
 
-<!-- <div id="highlights"></div>  -->
+<div id="highlights"></div> 
 
 <div id="publications"></div> 
 

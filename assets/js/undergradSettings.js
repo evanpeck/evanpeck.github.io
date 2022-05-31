@@ -11,15 +11,15 @@ var SETTINGS = {
     include_proj: true, // if we want to include non-pubs
 
     // -- HIGHLIGHT SECTION
-    show_highlights: false,
-    highlight_heading: "Highlighted Activity in Responsible Computing",
+    show_highlights: true,
+    highlight_heading: "Highlighted Activity",
     highlightsID: "highlights",
     // [] if no highlights, fill with keys if highlights
-    highlights: ["responsibleCS_site", "ethicalCS_site"],
+    highlights: ["site_22_cspui", "medium_17_puiJobs", "medium_18_studentResearch"],
     
     // -- PUBS SECTION
     show_pubs: true,
-    pub_heading: "Activity and Engagement (in reverse chronological order)",
+    pub_heading: "Activity and Engagement",
     divID: "publications",
 
     // replace paths

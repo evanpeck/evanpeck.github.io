@@ -7,10 +7,6 @@ author_profile: true
 
 ## 2021
 
--   Dec: I co-authored a book chapter with Iris Howley and Darakhshan
-    Mir for *Ethics of AIED* by Routledge - *Integrating AI Ethics
-    Across the Computing Curriculum*. It\'s now off to the presses! -
-    more details soon.
 -   Dec: Along with colleagues in CS/sociology/philosophy, I created [a
     new resource for integrating ethics/responsibility into existing CS
     curriculum](https://www.bemidjistate.edu/academics/departments/mathematics-computer-science/rcs/module-evaluation/).
