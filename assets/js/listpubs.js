@@ -21,10 +21,12 @@ async function main() {
     if (SETTINGS.show_highlights && highlights != null) {
         let highlights_section = document.getElementById(SETTINGS.highlightsID);
         // create heading for the section
-        let heading = document.createElement('h3');
-        heading.textContent = SETTINGS.highlight_heading;
-        highlights_section.appendChild(heading);
-        
+
+        if (SETTINGS.hasOwnProperty('highlight_heading')) {
+            let heading = document.createElement('h3');
+            heading.textContent = SETTINGS.highlight_heading;
+            highlights_section.appendChild(heading);
+        }
         highlights.forEach(pub => addPaths(pub));
         highlights.forEach(pub => addPub(pub, highlights_section))
     }
@@ -32,10 +34,11 @@ async function main() {
     if (SETTINGS.show_pubs && pubs != null) {
         let pubs_section = document.getElementById(SETTINGS.divID);
         // create heading for the section
-        let heading = document.createElement('h3');
-        heading.textContent = SETTINGS.pub_heading;
-        pubs_section.appendChild(heading);
-
+        if (SETTINGS.hasOwnProperty('pub_heading')) {
+            let heading = document.createElement('h3');
+            heading.textContent = SETTINGS.pub_heading;
+            pubs_section.appendChild(heading);
+        }
         // add the paths of different files
         pubs.forEach(pub => addPaths(pub))
         // create the DOM for each publication (or project)
@@ -156,6 +159,10 @@ function addPub(pub_data, pubs_section) {
 
         // Thumbnail image
         let thumbnail = makeElement('img', 'thumbnail')
+        if (SETTINGS.hasOwnProperty('overview') && SETTINGS.overview == true) {
+            thumbnail.classList.add('overview');
+        }
+
         thumbnail.src = pub_data.thumbnail
         // If there is alt text, add it. 
         if (pub_data.hasOwnProperty('alt')) {

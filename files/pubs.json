@@ -2,6 +2,21 @@
 
   "projects": [
     {
+      "key": "service_21_cra",
+      "title": "CRA Outstanding Research Award Selection Committee",
+      "author": ["Evan M. Peck"],
+      "year": 2021,
+      "thumbnail": "cra.png",
+      "type": "service",
+      "link": "https://cra.org/about/awards/outstanding-undergraduate-researcher-award/",
+      "description": "I've served on this committee since 2020, helping evalaute and select some of the most outstanding undergraduate researchers in the country",
+      "venue": "Computing Research Association (CRA)",
+      "supp": {
+        "award website": "https://cra.org/about/awards/outstanding-undergraduate-researcher-award/"
+      },
+      "tags": ["undergrad"]
+    },
+    {
       "key": "guide_21_doNoHarm",
       "title": "Do No Harm Guide: Applying Equity Awareness in Data Visualization",
       "author": ["Jonathan Schwabish", "Alice Feng"],
@@ -129,7 +144,7 @@
     },
     {
       "key": "responsibleCS_site",
-      "author": ["Emanuelle Burton", "Judy Goldsmith", "Colleen Greer", "Darakhshan Mir", "Jaye Nias", "Evan M. Peck"],
+      "author": ["Emanuelle Burton", "Judy Goldsmith", "Colleen Greer", "Darakhshan Mir", "Jaye Nias", "Evan M. Peck", "Marty Wolf"],
       "title": "Responsible Computer Science: Modules Evaluations",
       "year": 2021,
       "thumbnail": "respModules.jpg",
@@ -149,7 +164,7 @@
       "year": 2022,
       "thumbnail": "xrds2010.jpg",
       "alt": "Thumbnail image: artistic illustration including overlapping images of person's head, hand, and computer",
-      "description": "In Fall 2019, I redesigned our CS 1 course to integrate practice-based (coding!) reflection directly with technical concepts. This is a space to share those activities .. blah blah bah... I'm really just testing to see what a description space here would look like... does <bold>HTML work?</bold>... I think if that last part is bold then it should. I need to think about the styling here a bit. This is also testing to see if everything breaks when I don't have a thumbnail image. I'll probably add one anyways, but it's nice having the flexibility",
+      "description": "In Fall 2019, I redesigned our CS 1 course to integrate practice-based (coding!) reflection directly with technical concepts. This is a space to share those activities... (TODO: finish this description)",
       "link": "https://ethicalcs.github.io/",
       "type": "website",
       "supp": {
@@ -299,7 +314,8 @@
       "supp": {
         "pdf":"2019-eurovis-textVis.pdf",
         "eurographics":"https://diglib.eg.org/handle/10.2312/evs20191181"
-      }
+      },
+      "tags": ["publicVis"]
     },
     {
       "key": "pervasive_18",
@@ -324,7 +340,8 @@
       "year": 2018,
       "thumbnail": "privacy.jpg",
       "alt": "Thumbnail image: illustration that looks like a camera lens",
-      "type": "workshop"
+      "type": "workshop",
+      "tags": ["publicVis"]
     },
   	{
       "key": "sigcse_19",
@@ -454,7 +471,8 @@
         "pdf": "diffPrivacy_chi2017.pdf",
       	"article": "http://www.bucknell.edu/news-and-media/current-news/2017/june/student-researchers-ask-how-secure-we-feel-about-internet-security.html",
         "ACM": "http://dl.acm.org/citation.cfm?id=3025698"
-      }
+      },
+      "tags": ["publicVis"]
     },
     {
       "key": "chi_17_lbw",
@@ -576,7 +594,8 @@
         "IEEE": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7192720",
         "video preview": "https://vimeo.com/136205947",
         "data (github)": "https://github.com/TuftsVALT/bayes"
-      }
+      },
+      "tags": ["publicVis"]
     },
 
     {
@@ -830,7 +849,8 @@
       "type": "workshop",
       "supp": {
         "BELIV site": "http://beliv.cs.univie.ac.at/mediawiki/index.php/BELIV2012"
-      }
+      },
+      "tags": ["publicVis"]
     },
 
     {

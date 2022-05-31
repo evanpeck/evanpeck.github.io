@@ -9,7 +9,10 @@ author_profile: true
 <script src="{{ base_path }}/assets/js/visSettings.js"></script>
 <script src="{{ base_path }}/assets/js/listpubs.js"></script>
 
-My research considers the ways in which we are failing to communicate data that serves the public good, and how we can empower more diverse communities through data. I am a co-organizer of Visualization for Social Good and my work on data visualization in rural Pennsylvania has been covered extensively in articles and podcasts.
+**!!!** This page is **heavily** under construction, so stick with me while I work on it. Until then, visit my current homepage at [http://www.eg.bucknell.edu/~emp017/](http://www.eg.bucknell.edu/~emp017/)
+{: .notice}
+
+I believe that improving the public's engagement, trust, and understanding of data is a critical societal challenge. My research focuses on the opportunities and barriers of both data representations and data tools when they are embedded within our public sphere.
 
 <div id="highlights"></div> 
 

@@ -7,24 +7,28 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![an artistic image that contains blocks of colored squares vaguely resembling and overhead view of rural landscape](../images/personal-art.jpg)
+![an artistic image that contains blocks of colored squares vaguely resembling and overhead view of rural landscape](../images/personal-art-banner.jpg)
 
-**!!!** Note: This page is **heavily** under construction, so stick with me while I work on it. Until then, visit my current homepage at [http://www.eg.bucknell.edu/~emp017/](http://www.eg.bucknell.edu/~emp017/)
-{: .notice}
+<!-- **!!!** Note: This page is **heavily** under construction, so stick with me while I work on it. Until then, visit my current homepage at [http://www.eg.bucknell.edu/~emp017/](http://www.eg.bucknell.edu/~emp017/)
+{: .notice} --> 
 
-I am an Associate Professor of [Computer Science at Bucknell University](https://www.bucknell.edu/academics/college-engineering/majors-departments/computer-science). I am currently on sabbatical until August 2022, working as a Visiting Scientist at [MIT's Visualization Group](http://vis.csail.mit.edu/) with [Arvind Satyanarayan](https://arvindsatya.com/). My research draws on the fields of [Human-Computer Interaction](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/human-computer-interaction-brief-intro) and [Information Visualization](https://www.interaction-design.org/literature/topics/information-visualization). I believe in _student-centered everything_
+I am an Associate Professor of [Computer Science at Bucknell University](https://www.bucknell.edu/academics/college-engineering/majors-departments/computer-science), having received my [Ph.D. in Computer Science](https://engineering.tufts.edu/cs/) from Tufts University. During my sabbatical, I am working as a Visiting Scientist at [MIT](http://vis.csail.mit.edu/) with [Arvind Satyanarayan](https://arvindsatya.com/). My research draws on the fields of [Human-Computer Interaction](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/human-computer-interaction-brief-intro) and [Information Visualization](https://www.interaction-design.org/literature/topics/information-visualization). I believe in _student-centered everything_. What I'm working on: 
 
+<link rel="stylesheet" href="{{ base_path }}/assets/css/pubstyle.css">
+{% include base_path %}
+<script src="{{ base_path }}/assets/js/projSettings.js"></script>
+<script src="{{ base_path }}/assets/js/listpubs.js"></script>
+
+<div id="projects"></div> 
+
+<!-- ### check the rest
 - My research considers the ways in which we are failing to communicate data that serves the public good, and how we can empower more diverse communities through data. I am a co-organizer of [Visualization for Social Good](https://vis4good.github.io/) and my work on [data visualization in rural Pennsylvania](https://medium.com/multiple-views-visualization-research-explained/data-is-personal-what-we-learned-from-42-interviews-in-rural-america-93539f25836d) has been covered extensively in [articles](https://statmodeling.stat.columbia.edu/2019/05/31/data-is-personal-and-the-maturing-of-the-literature-on-statistical-graphics/) and [podcasts](https://datastori.es/data-is-personal-with-evan-peck/).
 - I believe that ethics should be integrated in technical CS classes. I maintain [a website for practice-based responsible CS activities](https://ethicalcs.github.io/), served as a judge for the Mozilla\'s [Responsible CS Challenge](https://foundation.mozilla.org/en/initiatives/responsible-cs/), and have co-organized both workshops and special sections on ethical CS education at [ACM SIGCSE](https://sigcse2019.sigcse.org/).
 - I am an advocate for primarily-undergraduate institutions (PUI). I manage [an email list](https://groups.google.com/forum/#!forum/hciforpui) of HCI professors at PUIs, curate [a website for faculty CS positions at PUIs](https://cs-pui.github.io/), and [write](https://medium.com/bucknell-hci/the-jobs-i-didnt-see-my-misconceptions-of-the-academic-job-market-9cb98b057422) about the [benefits of liberal arts colleges](https://ieeexplore.ieee.org/document/8490181).
-- I see research as a mechanism that should empowers students, and adhere to a [Student-Centered Research Manifesto](https://medium.com/bucknell-hci/a-student-centered-research-manifesto-bfb41072fdca). I [publish](http://www.bucknell.edu/news-and-media/current-news/2017/june/student-researchers-ask-how-secure-we-feel-about-internet-security.html) along undergraduate students (including a [Best Paper Award](https://twitter.com/EvanMPeck/status/1107677854970585088) at [ACM CHI](https://chi2019.acm.org/)!), and serve on the selection committee for [CRA\'s Oustanding Undergraduate Researchers award](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/).
-
-For more, visit my [full list of publications](/publications/) or the [occasional blog post](https://medium.com/bucknell-hci/tagged/research) I write about my work.
+- I see research as a mechanism that should empowers students, and adhere to a [Student-Centered Research Manifesto](https://medium.com/bucknell-hci/a-student-centered-research-manifesto-bfb41072fdca). I [publish](http://www.bucknell.edu/news-and-media/current-news/2017/june/student-researchers-ask-how-secure-we-feel-about-internet-security.html) along undergraduate students (including a [Best Paper Award](https://twitter.com/EvanMPeck/status/1107677854970585088) at [ACM CHI](https://chi2019.acm.org/)!), and serve on the selection committee for [CRA\'s Oustanding Undergraduate Researchers award](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/). -->
 
 
-
-
-### What's new
+### Recent News ([see older news](/archive/news))
 
 <div markdown="1" class="news">
 
@@ -40,4 +44,4 @@ For more, visit my [full list of publications](/publications/) or the [occasiona
 
 </div>
 
-[visit my news archive for past activity](/archive/news)
+<!-- [visit my news archive for past activity](/archive/news) -->

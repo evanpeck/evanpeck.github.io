@@ -1,0 +1,42 @@
+{
+
+    "publications": [
+        {
+            "key": "responsibleCS_proj",
+            "title": "Integrating Social Responsibility into Core CS",
+            "year": 2022,
+            "thumbnail": "proj-responsibleCS.png",
+            "link": "/projects/responsibleCS",
+            "description": "I believe that Computer Science departments must interrogate their core curricular structures to develop more socially responsible students in tech. I have worked to tightly couple responsibility with technical programming assignments in CS 1.",
+            "supp": {
+                "visit my project website": "/projects/responsibleCS"
+            }
+        },
+        {
+            "key": "publicVis_proj",
+            "title": "Empowering People through Data",
+            "year": 2022,
+            "thumbnail": "vis4good.jpg",
+            "link": "/projects/publicVis",
+            "description": "I believe that improving the public's engagement, trust, and understanding of data is a critical societal challenge. My research focuses on the opportunities and barriers of both data representations and data tools when they are embedded within our public sphere.",
+            "supp": {
+              "visit my project website": "/projects/publicVis"
+            }
+        },
+        {
+            "key": "publicVis_proj",
+            "title": "Advocating for Undergraduate Research & Undergraduate Institutions",
+            "year": 2022,
+            "thumbnail": "proj-computer-icon.png",
+            "link": "/projects/undergrad",
+            "description": "I am an advocate for primarily-undergraduate institutions (PUI) - both as environments that are positioned to confront society's most pressing sociotechnical problems, and also as institutions that offer a compelling balance of teaching and research for new faculty. I work to promote undergraduate research processes and products within my scholarly community, and see undergrad researchers as a critical (but often overlooked) group within academia.",
+            "supp": {
+              "visit my project website": "/projects/undergrad"
+            }
+        }
+
+      
+  
+    ]
+  }
+  

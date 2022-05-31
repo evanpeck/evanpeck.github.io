@@ -34,8 +34,15 @@
 .pubinfo {
     overflow: hidden;
 }
+
+/* Used for pages with pubs */
 #publications {
     float: left;
+}
+/* Used only for listing projects */
+#projects {
+    float: left;
+    margin-bottom: 2em;
 }
 
 /* ----- TITLE */
@@ -136,4 +143,14 @@ a.supp:hover, a.supp:active {
     font-size: var(--venue-size);
     font-style: italic;
     color: var(--venue-text-color);
+}
+
+/* --- how to mess with img during overview */
+img.overview {
+    width: var(--thumbnail-size);
+    border: 0em solid #021a40;
+    border-radius: 10%;
+}
+img.overview:hover {
+    border: 0.2em solid #021a40;
 }
