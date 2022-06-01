@@ -2,6 +2,22 @@
 
   "projects": [
     {
+      "key": "vis_22_vis4good",
+      "author": ["Leilani Battle", "Michelle Borkin", "Michael Correll", "Lane Harrison", "Narges Mahyar", "Evan M. Peck", "Emily Wall"],
+      "title": "Visualization for Social Good (organizer)",
+      "venue": "IEEE VIS",
+      "year": 2022,
+      "thumbnail": "vis4good.jpg",
+      "alt": "Thumbnail image: a bar chart with a flower growing out of the top bar",
+      "type": "workshop / panel / tutorial",
+      "link": "https://vis4good.github.io/",
+      "supp": {
+        "workshop website": "https://vis4good.github.io/"
+      },
+      "description": "I helped co-create <emph>Visualization for Social Good</emph> - a central venue within the IEEE VIS community for surfacing work that critiques, defines, or explores the impact of data visualization on society. To date, we have run a tutorial (IEEE VIS 2019), a panel (IEEE VIS 2020), and workshops (IEEE VIS 2021 & 2022). Beginning in 2022, I am shifting my role as a primary organizer to a steering committee",
+      "tags": ["publicVis"]
+    },
+    {
       "key": "talk_20_jobSearch",
       "title": "Job Searching and Interviewing [at Undergrad Institutions]",
       "author": ["Evan M. Peck"],

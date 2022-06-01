@@ -11,11 +11,11 @@ var SETTINGS = {
     include_proj: true, // if we want to include non-pubs
 
     // -- HIGHLIGHT SECTION
-    show_highlights: false,
+    show_highlights: true,
     highlight_heading: "Highlighted Activity in Responsible Computing",
     highlightsID: "highlights",
     // [] if no highlights, fill with keys if highlights
-    highlights: ["responsibleCS_site", "ethicalCS_site"],
+    highlights: ["chi_19_data", "vis_22_vis4good"],
     
     // -- PUBS SECTION
     show_pubs: true,
