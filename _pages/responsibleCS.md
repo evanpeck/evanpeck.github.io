@@ -10,8 +10,8 @@ author_profile: true
 <script src="{{ base_path }}/assets/js/listpubs.js"></script>
 
 
-**!!!** This page is **heavily** under construction, so stick with me while I work on it. Until then, visit my current homepage at [http://www.eg.bucknell.edu/~emp017/](http://www.eg.bucknell.edu/~emp017/)
-{: .notice}
+**Notice:** This page is **heavily** under construction, so stick with me while I work on it. Until then, visit my current homepage at [http://www.eg.bucknell.edu/~emp017/](http://www.eg.bucknell.edu/~emp017/)
+{: .notice--warning}
 
 I believe that social responsibility should be integrated in _core_ technical CS classes, and not just relegated to standalone ethics courses. My work has focused on creating [ethical reflection assignments that are tightly coupled with technical programming goals (in CS 1)](https://ethicalcs.github.io/), and I've been fortunate to share these assignments with instructors in secondary ed and higher-ed classrooms across the country.  
 

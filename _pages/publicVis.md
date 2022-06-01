@@ -9,8 +9,8 @@ author_profile: true
 <script src="{{ base_path }}/assets/js/visSettings.js"></script>
 <script src="{{ base_path }}/assets/js/listpubs.js"></script>
 
-**!!!** This page is **heavily** under construction, so stick with me while I work on it. Until then, visit my current homepage at [http://www.eg.bucknell.edu/~emp017/](http://www.eg.bucknell.edu/~emp017/)
-{: .notice}
+**Notice:** This page is **heavily** under construction, so stick with me while I work on it. Until then, visit my current homepage at [http://www.eg.bucknell.edu/~emp017/](http://www.eg.bucknell.edu/~emp017/)
+{: .notice--warning}
 
 I believe that improving the public's engagement, trust, and understanding of data is a critical societal challenge. My research focuses on the opportunities and barriers of both data representations and data tools when they are embedded within our public sphere.
 

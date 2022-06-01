@@ -147,7 +147,8 @@ function getPrimaryLink(pub_data) {
 
 function addPub(pub_data, pubs_section) {
     // Create some initial 
-    let pub = makeElement('div', 'pub')
+    let pub = makeElement('div', 'pub');
+    pub.id = pub_data.key;
     pubs_section.appendChild(pub);
     
     let primaryLink = getPrimaryLink(pub_data);
