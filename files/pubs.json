@@ -234,7 +234,7 @@
       "year": 2022,
       "thumbnail": "xrds2010.jpg",
       "alt": "Thumbnail image: artistic illustration including overlapping images of person's head, hand, and computer",
-      "description": "In Fall 2019, I redesigned our CS 1 course to integrate practice-based (coding!) reflection directly with technical concepts. This is a space to share those activities... (TODO: finish this description)",
+      "description": "In Fall 2019, I redesigned Bucknell's CS 1 course (<i>CSCI 203: Introduction to Computer Science</i>) from the ground up to integrate responsibility more directly with technical concepts. As a key component of that course, I developed a set of assignments that require students to reckon with the personal and communal impact of their programming - either directly or indirectly. This site shares five of those python programming assignments, scaffolded in such a way that they can be adopted by other instructors.",
       "link": "https://ethicalcs.github.io/",
       "type": "website",
       "supp": {

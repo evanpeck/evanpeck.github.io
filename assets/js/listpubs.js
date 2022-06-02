@@ -170,8 +170,12 @@ function addPub(pub_data, pubs_section) {
             thumbnail.alt = pub_data.alt;
         }
 
+        // // Testing with aria hidden
+        // thumbnail.setAttribute('aria-hidden', 'true')
+
         // Add image to link
         if (primaryLink != null) {
+            // thumbnail_link.setAttribute('aria-hidden', 'true')
             thumbnail_link.appendChild(thumbnail)
             pub.appendChild(thumbnail_link)
         } else {

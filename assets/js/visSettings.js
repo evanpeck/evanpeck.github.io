@@ -12,14 +12,14 @@ var SETTINGS = {
 
     // -- HIGHLIGHT SECTION
     show_highlights: true,
-    highlight_heading: "Highlighted Activity in Responsible Computing",
+    highlight_heading: "Highlighted Activity",
     highlightsID: "highlights",
     // [] if no highlights, fill with keys if highlights
     highlights: ["chi_19_data", "vis_22_vis4good"],
     
     // -- PUBS SECTION
     show_pubs: true,
-    pub_heading: "Activity and Engagement (in reverse chronological order)",
+    pub_heading: "Activity and Engagement",
     divID: "publications",
 
     // replace paths
