@@ -158,7 +158,7 @@
     },
     {
       "key": "medium_17_puiJobs",
-      "title": "The Jobs I Didn’t See: My Misconceptions of the Academic Job Market",
+      "title": "The Jobs I Didn't See: My Misconceptions of the Academic Job Market",
       "author": ["Evan M. Peck"],
       "year": 2017,
       "thumbnail": "jobsPUI.jpg",
@@ -196,7 +196,7 @@
         "conference site": "https://www.compadre.org/PICUP/events/2021-Capstone/",
         "workshop slides (Google Slides)": "https://bit.ly/picup-slides"
       },
-      "tags": ["criticalCS"]
+      "tags": ["criticalCS", "teaching"]
     },
     {
       "key": "responsibleCS_judge",
@@ -286,7 +286,7 @@
       "supp": {
         "(forthcoming) book link": "https://www.routledge.com/The-Ethics-of-Artificial-Intelligence-in-Education-Practices-Challenges/Holmes-Porayska-Pomsta/p/book/9780367349721"
       },
-      "tags": ["criticalCS"]
+      "tags": ["criticalCS", "teaching"]
     },
     {
       "key": "csengage_22_ai",
@@ -302,7 +302,7 @@
         "presentation video": "https://youtu.be/etKzRgoIahY",
         "material": "https://bit.ly/hci-activity"
       },
-      "tags": ["criticalCS"]
+      "tags": ["criticalCS", "teaching"]
     },
     {
       "key": "vis_21_vis4good",
@@ -333,7 +333,7 @@
         "assigment":"https://ethicalcs.github.io/#future-makers",
         "ACM":"https://dl.acm.org/doi/abs/10.1145/3328778.3366994"
       },
-      "tags": ["criticalCS"]
+      "tags": ["criticalCS", "teaching"]
     },
     {
       "key": "sigcse_20_nifty",
@@ -350,7 +350,7 @@
         "nifty home": "http://nifty.stanford.edu/",
         "ACM": "https://dl.acm.org/doi/abs/10.1145/3328778.3372574"
       },
-      "tags": ["criticalCS"]
+      "tags": ["criticalCS", "teaching"]
     },
     {
       "key": "chi_19_data",
@@ -400,7 +400,7 @@
       "supp": {
         "IEEE": "https://ieeexplore.ieee.org/document/8490181"
       },
-      "tags": ["undergrad"]
+      "tags": ["undergrad", "teaching"]
     },
     {
       "key": "cscw_18",
@@ -426,7 +426,7 @@
       "supp": {
         "ACM": "https://dl.acm.org/citation.cfm?id=3287543"
       },
-      "tags": ["criticalCS"]
+      "tags": ["criticalCS", "teaching"]
     },
     {
       "key": "infovis_18",
@@ -482,7 +482,7 @@
         "pdf":"chi18-hci4pui.pdf",
       	"workshop": "https://chi2018.hcilivingcurriculum.org/"
       },
-      "tags": ["undergrad"]
+      "tags": ["undergrad", "teaching"]
     },
     {
       "key": "chi_18_foresight",
