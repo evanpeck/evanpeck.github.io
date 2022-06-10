@@ -1,3 +1,13 @@
+
+# Repository for my website
+
+I use this repository as the backend to my website at [https://evanpeck.github.io/](https://evanpeck.github.io/). 
+
+If you're using this repository to learn about how I designed my site, take some caution - there are many files here from the original Pages template which are not used in my website (I'll clean them up eventually). I've left the instructions from that template below.. 
+
+
+----------
+
 A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
 
 I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
