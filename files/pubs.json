@@ -2,6 +2,49 @@
 
   "projects": [
     {
+      "key": "service_19_CLIR",
+      "title": "Bucknell's University Committee on Library and Information Resources (CLIR)",
+      "year": 2019,
+      "thumbnail": "bucknell.jpg",
+      "alt": "Thumbnail image: Bucknell's logo - a large letter 'B'",
+      "type": "service",
+      "link": "https://www.bucknell.edu/azdirectory/library-information-technology/strategic-plan-initiatives-governance/initiatives-governance",
+      "description": "From 2016-2019, I served in an elected position on CLIR - Bucknell's governance committee for reviewing and developing standards and policies relating to library resources and academic technology",
+      "tags": ["teaching"]
+    },
+    {
+      "key": "service_22_COI",
+      "title": "Bucknell's University Committee on Instruction (COI)",
+      "year": 2022,
+      "thumbnail": "bucknell.jpg",
+      "alt": "Thumbnail image: Bucknell's logo - a large letter 'B'",
+      "type": "service",
+      "description": "In Spring 2021, I was elected to serve on COI - Bucknell's governance mechanism for recommending university-wide policies on instructional programs across the university's three colleges",
+      "tags": ["teaching"]
+    },
+    {
+      "key": "service_22_DH",
+      "title": "Bucknell's Digital Humanities Coordinating Committee (DHCC)",
+      "year": 2022,
+      "thumbnail": "bucknell.jpg",
+      "alt": "Thumbnail image: Bucknell's logo - a large letter 'B'",
+      "type": "service",
+      "link": "https://dhbucknell.scholar.bucknell.edu/",
+      "description": "I serve on Bucknell's Digital Humanities Coordinating Committee, which works to ensure the vitality of the Digital Humanities at Bucknell by providing ongoing support and leadership for Digital Humanities initiatives",
+      "tags": ["teaching"]
+    },
+    {
+      "key": "service_21_Arts",
+      "title": "Bucknell's Arts Council",
+      "year": 2021,
+      "thumbnail": "bucknell.jpg",
+      "alt": "Thumbnail image: Bucknell's logo - a large letter 'B'",
+      "type": "service",
+      "link": "https://www.bucknell.edu/life-bucknell/arts-performances/bucknell-arts-council",
+      "description": "From 2016 - 2021, I served as the Engineering College's representative on Bucknell's Arts Council - a committee that promotes the collaborative advancement and enhancement of the arts at Bucknell",
+      "tags": ["teaching"]
+    },
+    {
       "key": "vis_22_vis4good",
       "author": ["Leilani Battle", "Michelle Borkin", "Michael Correll", "Lane Harrison", "Narges Mahyar", "Evan M. Peck", "Emily Wall"],
       "title": "Visualization for Social Good (organizer)",
@@ -144,6 +187,34 @@
       "tags": ["teaching"]
     },
     {
+      "key": "medium_19_fearKnowing",
+      "title": "The Fear of Publicly Not Knowing",
+      "author": ["Evan M. Peck"],
+      "year": 2019,
+      "thumbnail": "notKnowing.jpg",
+      "type": "blog post",
+      "venue": "Medium",
+      "supp": {
+        "post": "https://medium.com/bucknell-hci/the-fear-of-publicly-not-knowing-239e1b7a39f3"
+      },
+      "tags": ["teaching"],
+      "description": "A short post about the fear of not knowing, the value of not knowing, and how the dangers don't impact us equally. As of 2022, the post has been read by 14,000+ people"
+    },
+    {
+      "key": "medium_18_slack",
+      "title": "How I Use Slack in My Courses — a 3 Year Reflection",
+      "author": ["Evan M. Peck"],
+      "year": 2018,
+      "thumbnail": "slack.png",
+      "type": "blog post",
+      "venue": "Medium",
+      "supp": {
+        "post": "https://medium.com/bucknell-hci/how-i-use-slack-in-my-courses-a-3-year-reflection-888c7e742d04"
+      },
+      "tags": ["teaching"],
+      "description": "I started experimenting with different engagement platforms (like Slack) in the classroom in 2015. This post captures my reflection of what works (and what doesn't!)"
+    },
+    {
       "key": "medium_19_undergradConf",
       "title": "A Neglected Pipeline: Improving Undergrad Access to Conferences",
       "author": ["Evan M. Peck"],
@@ -155,6 +226,20 @@
         "post": "https://medium.com/bucknell-hci/a-neglected-pipeline-removing-undergrad-barriers-to-conferences-2a6c87eb4176"
       },
       "tags": ["undergrad"]
+    },
+    {
+      "key": "medium_18_flippedHCI",
+      "title": "Creating a Flipped HCI Course to Encourage Design, Experimentation, and Communication",
+      "author": ["Evan M. Peck"],
+      "year": 2019,
+      "thumbnail": "affective.png",
+      "type": "blog post",
+      "venue": "Medium",
+      "supp": {
+        "post": "https://medium.com/bucknell-hci/creating-a-flipped-hci-course-to-encourage-design-experimentation-and-communication-27dffe615cf5"
+      },
+      "tags": ["teaching"],
+      "description": "A post reflecting on how I redesigned the comon model for Introduction to HCI classes."
     },
     {
       "key": "medium_17_puiJobs",
@@ -169,6 +254,19 @@
         "post": "https://medium.com/bucknell-hci/the-jobs-i-didnt-see-my-misconceptions-of-the-academic-job-market-9cb98b057422"
       },
       "tags": ["undergrad"]
+    },
+    {
+      "key": "medium_17_videoGuests",
+      "title": "How I Structure Classroom Video Guests so that I Love Every Conversation",
+      "author": ["Evan M. Peck"],
+      "year": 2017,
+      "thumbnail": "video.png",
+      "type": "blog post",
+      "venue": "Medium",
+      "supp": {
+        "post": "https://medium.com/bucknell-hci/how-i-structure-classroom-video-guests-so-that-i-love-every-conversation-ec874262e957"
+      },
+      "tags": ["teaching"]
     },
     {
       "key": "mit_22_responsibleUI",
@@ -225,7 +323,7 @@
         "website": "https://www.bemidjistate.edu/academics/departments/mathematics-computer-science/rcs/module-evaluation/",
         "overview (tweet thread)": "https://twitter.com/evanmpeck/status/1468643005913616390"
       },
-      "tags": ["criticalCS"]
+      "tags": ["criticalCS", "teaching"]
     },
     {
       "key": "ethicalCS_site",
@@ -240,7 +338,7 @@
       "supp": {
         "website": "https://ethicalcs.github.io/"
       },
-      "tags": ["criticalCS"]
+      "tags": ["criticalCS", "teaching"]
     },
     {
       "key": "engJustice_book",
@@ -254,7 +352,7 @@
       "supp": {
         "book link": "https://www.wiley.com/en-us/Engineering+Justice%3A+Transforming+Engineering+Education+and+Practice-p-9781118757307"
       },
-      "tags": ["criticalCS"]
+      "tags": ["criticalCS", "teaching"]
     },
     {
       "key": "medium_2017_ethicalEngine",
@@ -268,7 +366,7 @@
       "supp": {
         "blog link": "https://medium.com/bucknell-hci/the-ethical-engine-integrating-ethical-design-into-intro-to-computer-science-4f9874e756af"
       },
-      "tags": ["criticalCS"]
+      "tags": ["criticalCS", "teaching"]
     }
   ],
 

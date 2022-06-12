@@ -11,7 +11,8 @@ const TYPE_COLORS = {
     "BOF": '#A7A8AA',
     "article": '#A7A8AA',
     "demo": '#A7A8AA',
-    "poster": '#A7A8AA'
+    "poster": '#A7A8AA',
+    "blog post": '#2399C4'
 }
 
 async function main() {
