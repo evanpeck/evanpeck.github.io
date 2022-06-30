@@ -29,7 +29,8 @@ I am an Associate Professor of [Computer Science at Bucknell University](https:/
 ### Recent News ([see older news](/archive/news))
 
 <div markdown="1" class="news">
-
+- **July:** 📣 A new year and a new design for [https://cs-pui.github.io/](https://cs-pui.github.io/). CS-PUI is a website that I created to help advertise CS faculty positions at primarily-undergraduate institutions (PUIs) - it's now live for the 2022-2023 hiring cycle! We crossed 10,000 hits last year, and I'm excited to see it continue to grow this year!
+- **June:** I joined the [BELIV 2022](https://beliv-workshop.github.io/comittee.html) program committee. This year's workshop focuses on _Designing and Evaluating Visualizations for an Ethical, Inclusive, and Responsible Future_
 -   **May:** I co-authored a book chapter with Iris Howley and Darakhshan
     Mir for [The Ethics of Artificial Intelligence in Education: Practices, Challenges, and Debates](https://www.routledge.com/The-Ethics-of-Artificial-Intelligence-in-Education-Practices-Challenges/Holmes-Porayska-Pomsta/p/book/9780367349721) by Routledge - *Integrating AI Ethics
     Across the Computing Curriculum*. It\'s now off to the presses! 
