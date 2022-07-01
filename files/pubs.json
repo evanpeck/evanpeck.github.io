@@ -2,6 +2,20 @@
 
   "projects": [
     {
+      "key": "service_22_PUI",
+      "title": "Aspiring PUI Faculty Workshop",
+      "year": 2022,
+      "venue": "Bucknell University",
+      "thumbnail": "proj-teaching.png",
+      "type": "service",
+      "link": "https://bit.ly/bucknell-pui",
+      "description": "As the CS department liason, I am helping co-organize and pilot a new workshop at Bucknell that seeks to offers a professional development and networking opportunity for late-stage Ph.D.s and early postdocs in Natural Sciences and Mathematics who are interested in learning about, obtaining, and succeeding in a career at a primarily-undergraduate institution (PUI)",
+      "tags": ["undergrad"],
+      "supp": {
+        "workshop site": "https://bit.ly/bucknell-pui"
+      }
+    },
+    {
       "key": "service_19_CLIR",
       "title": "Bucknell's University Committee on Library and Information Resources (CLIR)",
       "year": 2019,
@@ -152,7 +166,8 @@
       "link": "https://cs-pui.github.io",
       "description": "I created and continue to curate a website that lists faculty CS positions from primarily-undergraduate institutions that offer a balance of both scholarship and teaching. In the 2021/22 hiring cycle, the website received over 10,000 hits and has been broadly been shared within the CS community.",
       "supp": {
-        "website": "https://cs-pui.github.io"
+        "website": "https://cs-pui.github.io",
+        "intro twitter thread": "https://twitter.com/EvanMPeck/status/1542652025208545280"
       },
       "tags": ["undergrad"]
     },
