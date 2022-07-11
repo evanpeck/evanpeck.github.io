@@ -2,6 +2,7 @@
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
+topImg: true
 ---
 
 {% include base_path %}
@@ -9,9 +10,12 @@ author_profile: true
 <script src="{{ base_path }}/assets/js/teachingSettings.js"></script>
 <script src="{{ base_path }}/assets/js/listpubs.js"></script>
 
-I believe that the most critical societal challenges in Computer Science are sociotechnical in nature, and that CS education needs to reprioritize its training, recruitement, and retention of students to meet these challenges. My pedagogy is informed by CS education research, my curricular development [integrates social responsibility directly into technical content](/projects/responsibleCS), and my courses look to amplify voices that have been historically muted within Computer Science. 
+## Teaching at Bucknell and Beyond
 
-Below, I've included both the [courses I've taught at Bucknell](#courses) and my [broader work in teaching and pedagogy](#engagement).
+Below, I've included both the [**courses I've taught at Bucknell**](#courses) and my [**broader work in teaching and pedagogy**](#engagement).
+{: .notice--info}
+
+I believe that the most critical societal challenges in Computer Science are sociotechnical in nature, and that CS education needs to reprioritize its training, recruitment, and retention of students to meet these challenges. My pedagogy is informed by CS education research, my curricular development [integrates social responsibility directly into technical content](/projects/responsibleCS), and my courses look to amplify voices that have been historically muted within Computer Science. 
 
 ### Courses at Bucknell
 {: #courses}

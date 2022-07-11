@@ -5,14 +5,12 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-
+topImg: true
 ---
-![an artistic image that contains blocks of colored squares vaguely resembling and overhead view of rural landscape](../images/personal-art-banner.jpg)
 
-⚠️ **This website is currently under construction!** ⚠️ You are likely to find typos, a few broken links, and some missing material. I'm just going to hope that nothing is too embarrassing. 🤷
-{: .notice--danger}
+### About me
 
-I am an Associate Professor of [Computer Science at Bucknell University](https://www.bucknell.edu/academics/college-engineering/majors-departments/computer-science), having received my [Ph.D. in Computer Science](https://engineering.tufts.edu/cs/) from Tufts University. During my sabbatical, I am working as a Visiting Scientist at [MIT](http://vis.csail.mit.edu/) with [Arvind Satyanarayan](https://arvindsatya.com/). My research draws on the fields of [Human-Computer Interaction](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/human-computer-interaction-brief-intro) and [Information Visualization](https://www.interaction-design.org/literature/topics/information-visualization). I believe in _student-centered everything_. 
+I am an Associate Professor of [Computer Science at Bucknell University](https://www.bucknell.edu/academics/college-engineering/majors-departments/computer-science), and previously received my [Ph.D. in Computer Science](https://engineering.tufts.edu/cs/) from Tufts University. During my sabbatical, I recently worked as a Visiting Scientist at [MIT](http://vis.csail.mit.edu/) with [Arvind Satyanarayan](https://arvindsatya.com/). My research draws on the fields of [Human-Computer Interaction](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/human-computer-interaction-brief-intro) and [Information Visualization](https://www.interaction-design.org/literature/topics/information-visualization). I believe in _student-centered everything_. 
 
 **Fall 2022:** I will be returning from sabbatical and teaching 1 section of [CSCI 358: Human-Computer Interaction](https://sites.google.com/bucknell.edu/csci358hci/home) (TR 1-2:20pm) and 2 sections of [CSCI 479: Computer Science Design Project](https://coursecatalog.bucknell.edu/search/?P=CSCI%20479) (MWF 1-1:50pm and 2-2:50pm)
 {: .notice--info}

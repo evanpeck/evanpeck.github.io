@@ -2,6 +2,7 @@
 title: "Advocating for Undergraduate Research & Institutions"
 permalink: /projects/undergrad
 author_profile: true
+topImg: true
 ---
 
 <link rel="stylesheet" href="{{ base_path }}/assets/css/pubstyle.css">
@@ -9,8 +10,7 @@ author_profile: true
 <script src="{{ base_path }}/assets/js/undergradSettings.js"></script>
 <script src="{{ base_path }}/assets/js/listpubs.js"></script>
 
-**Notice:** This page is **heavily** under construction, so stick with me while I work on it. Until then, visit my current homepage at [http://www.eg.bucknell.edu/~emp017/](http://www.eg.bucknell.edu/~emp017/)
-{: .notice--warning}
+## Advocating for Undergraduate Research & Institutions
 
 **I am an advocate for primarily-undergraduate institutions (PUI)** - both as environments that are positioned to confront society's most pressing sociotechnical problems, and also as institutions that offer a compelling balance of teaching and research for new faculty. I curate a [PUI job ad website](https://cs-pui.github.io/), [write/give talks about working at PUIs](https://medium.com/bucknell-hci/the-jobs-i-didnt-see-my-misconceptions-of-the-academic-job-market-9cb98b057422), and frequently mentor graduate students about the PUI hiring landscape.
 

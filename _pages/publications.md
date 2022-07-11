@@ -3,6 +3,7 @@
 title: "Peer-Reviewed Work"
 permalink: /publications/
 author_profile: true
+topImg: true
 ---
 
 <link rel="stylesheet" href="{{ base_path }}/assets/css/pubstyle.css">
@@ -12,10 +13,10 @@ author_profile: true
 <script src="{{ base_path }}/assets/js/pubSettings.js"></script>
 <script src="{{ base_path }}/assets/js/listpubs.js"></script>
 
-This page contains my peer-reviewed scholarship. However, since my work often extends beyond publications, I'd encourage you to visit my project pages to see my activity (both published and unpublished) on the topics I care most about: 
-- [Integrating Social Responsibility into Core CS](/projects/responsibleCS)
-- [Empowering People through Data](/projects/publicVis), 
-- [Advocating for Undergraduate Research & Institutions](/projects/undergrad)
+## Peer-Reviewed Work
+
+This page contains my peer-reviewed scholarship. Since my work often extends beyond publications, I'd _strongly_ encourage you to visit my project pages: (1) [**Integrating Social Responsibility into Core CS**](/projects/responsibleCS), (2) [**Empowering People through Data**](/projects/publicVis), and (3) [**Advocating for Undergraduate Research & Institutions**](/projects/undergrad)
+{: .notice--info}
 
 <div id="highlights"></div>
 <div id="publications"></div>
