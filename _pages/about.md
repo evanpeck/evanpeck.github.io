@@ -27,6 +27,7 @@ I am an Associate Professor of [Computer Science at Bucknell University](https:/
 ### Recent News ([see older news](/archive/news))
 
 <div markdown="1" class="news">
+- **Aug:** For a 3rd year, I am joining the Selection Committee for the [Computing Research Association's (CRA) _Outstanding Undergraduate Researchers_ award](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/). 
 - **July:** I am helping pilot a new workshop at Bucknell - [_Aspiring PUI Faculty Workshop_](https://bit.ly/bucknell-pui). This October, we'll host late-stage PhD students and post docs at Bucknell in order to help expose them to and prepare them for faculty positions at primarily-undergaduate instituions (PUIs). [Consider applying here!](https://bit.ly/bucknell-pui)
 - **July:** 📣 A new year and a new design for [https://cs-pui.github.io/](https://cs-pui.github.io/). CS-PUI is a website that I created to help advertise CS faculty positions at primarily-undergraduate institutions (PUIs) - it's now live for the 2022-2023 hiring cycle! We crossed 10,000 hits last year, and I'm excited to see it continue to grow this year!
 - **July:** A long overdue redesign of my website is finally complete (this one!): [https://evanpeck.github.io/](https://evanpeck.github.io/). I wrote plenty of custom javascript code to translate JSON publication-info to a prettier website format - feel free to ping me if you're interested in how it works. 
