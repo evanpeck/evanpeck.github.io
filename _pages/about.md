@@ -12,7 +12,7 @@ topImg: true
 
 I am an Associate Professor of [Computer Science at Bucknell University](https://www.bucknell.edu/academics/college-engineering/majors-departments/computer-science), and previously received my [Ph.D. in Computer Science](https://engineering.tufts.edu/cs/) from Tufts University. During my recent sabbatical, I worked as a Visiting Scientist at [MIT](http://vis.csail.mit.edu/) with [Arvind Satyanarayan](https://arvindsatya.com/). My research draws on the fields of [Human-Computer Interaction](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/human-computer-interaction-brief-intro) and [Information Visualization](https://www.interaction-design.org/literature/topics/information-visualization). I believe in _student-centered everything_. 
 
-**Students:** [Check out my student FAQ](/student-faq) if you have questions about meeting, about research, or about recommendation letters! This semester, I am teaching 1 section of [CSCI 358: Human-Computer Interaction](https://sites.google.com/bucknell.edu/csci358hci/home) (TR 1-2:20pm) and 2 sections of [CSCI 479: Computer Science Design Project](https://coursecatalog.bucknell.edu/search/?P=CSCI%20479) (MWF 1-1:50pm and 2-2:50pm). 
+**Students:** [Check out my student FAQ](/student-faq) if you have questions about meeting, about research, or about recommendation letters! This semester, I am teaching 1 section of [CSCI 358: Human-Computer Interaction](https://sites.google.com/bucknell.edu/hci-fa22/home) (TR 1-2:20pm) and 2 sections of [CSCI 479: Computer Science Design Project](https://csci479.github.io/) (MWF 1-1:50pm and 2-2:50pm). 
 {: .notice--info}
 
 ### Explore my work
@@ -27,6 +27,7 @@ I am an Associate Professor of [Computer Science at Bucknell University](https:/
 ### Recent News ([see older news](/archive/news))
 
 <div markdown="1" class="news">
+- **Aug:** I wrapped up a wonderful year-long sabbatical as a Visiting Scientist at MIT with Arvind Satyanarayan and the [MIT Visualization Group](http://vis.csail.mit.edu/). 
 - **Aug:** For a 3rd year, I am joining the Selection Committee for the [Computing Research Association's (CRA) _Outstanding Undergraduate Researchers_ award](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/). 
 - **July:** I am helping pilot a new workshop at Bucknell - [_Aspiring PUI Faculty Workshop_](https://bit.ly/bucknell-pui). This October, we'll host late-stage PhD students and post docs at Bucknell in order to help expose them to and prepare them for faculty positions at primarily-undergaduate instituions (PUIs). [Consider applying here!](https://bit.ly/bucknell-pui)
 - **July:** 📣 A new year and a new design for [https://cs-pui.github.io/](https://cs-pui.github.io/). CS-PUI is a website that I created to help advertise CS faculty positions at primarily-undergraduate institutions (PUIs) - it's now live for the 2022-2023 hiring cycle! We crossed 10,000 hits last year, and I'm excited to see it continue to grow this year!
