@@ -27,6 +27,7 @@ I am an Associate Professor of [Computer Science at Bucknell University](https:/
 ### Recent News ([see older news](/archive/news))
 
 <div markdown="1" class="news">
+- **Aug:** For the 2022-23 academic year, I am co-chairing Bucknell University's _Committee on Instruction (COI)_ - Bucknell's governance mechanism for recommending university-wide policies on instructional programs across the university's three colleges.
 - **Aug:** I wrapped up a wonderful year-long sabbatical as a Visiting Scientist at MIT with Arvind Satyanarayan and the [MIT Visualization Group](http://vis.csail.mit.edu/). 
 - **Aug:** For a 3rd year, I am joining the Selection Committee for the [Computing Research Association's (CRA) _Outstanding Undergraduate Researchers_ award](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/). 
 - **July:** I am helping pilot a new workshop at Bucknell - [_Aspiring PUI Faculty Workshop_](https://bit.ly/bucknell-pui). This October, we'll host late-stage PhD students and post docs at Bucknell in order to help expose them to and prepare them for faculty positions at primarily-undergaduate instituions (PUIs). [Consider applying here!](https://bit.ly/bucknell-pui)
