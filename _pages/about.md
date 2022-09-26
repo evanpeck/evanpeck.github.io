@@ -27,6 +27,8 @@ I am an Associate Professor of [Computer Science at Bucknell University](https:/
 ### Recent News ([see older news](/archive/news))
 
 <div markdown="1" class="news">
+- **Sep:** I survived another [ACM CHI submission deadline](https://chi2023.acm.org/), 🤞 on submitted work. 
+- **Sep:** I joined the Steering Commmittee of Bucknell's [Grand Challenges Scholars Program](https://www.bucknell.edu/academics/college-engineering/signature-engineering-programs/grand-challenges-scholars-program), which requires students to work on one or more grand societal challenges through a series of high-engagement activities (resaerch, service learning, etc.). 
 - **Aug:** For the 2022-23 academic year, I am co-chairing Bucknell University's _Committee on Instruction (COI)_ - Bucknell's governance mechanism for recommending university-wide policies on instructional programs across the university's three colleges.
 - **Aug:** I wrapped up a wonderful year-long sabbatical as a Visiting Scientist at MIT with Arvind Satyanarayan and the [MIT Visualization Group](http://vis.csail.mit.edu/). 
 - **Aug:** For a 3rd year, I am joining the Selection Committee for the [Computing Research Association's (CRA) _Outstanding Undergraduate Researchers_ award](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/). 
