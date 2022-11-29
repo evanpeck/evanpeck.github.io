@@ -3,7 +3,15 @@ title: "News Archive"
 permalink: /archive/news
 author_profile: true
 ---
+## 2022
 
+-  **May:** Our Bucknell learning community proposal - _STEM (In)Justice: Inside and Outside the Curriculum_ - was approved for 2022-23. I am co-facilitating bi-weekly meetings with Deepak Iyer (Physics + Astronomy), Amal Kabalan (Electrical + Comp Eng), Elif Miskioğlu (Chem Eng), Darakhshan Mir (CS), and Deborah Sills (Civil Eng) to critically examine STEM's courses, curricula, practices, and pedagogy. 
+-  **May:** My internal proposal with Eddy López (Art + Art History) was funded for Fall 2022 - _Parallel Courses for Interdisciplinary Engagement_. The grant will support engineering/art speakers + collaborations between my Human-Computer Interaction course and Eddy's Graphic Design course. 
+- **April:** Our workshop on [Visualization for Social Good](https://vis4good.github.io/) was accepted to [IEEE VIS 2022](http://ieeevis.org/year/2022/welcome) with a theme of _pedagogy, processs, and protest_. This year, I'll be stepping back from the organizing committee to a steering committee. 
+- **April:** I participated in a panel about social and ethical responsibilities in UI - hosted by the UI/UX@MIT student group. 
+- **April:** A successful submission to IEEE VIS + plenty of papers to review. 
+- **March:** Congratulations to my wonderful undergraduate researchers - past and present! Sami Wurm ('22) decided she will attend Stanford's _Music, Science, and Tech_ Masters program next year. Reva Sharma's ('25) successful [_Program for Undergraduate Research_](https://www.bucknell.edu/academics/undergraduate-research-opportunities/program-undergraduate-research) proposal and Jaehoon Pyon's ('23) successful _Costa Healthcare Research and Design Fund_ proposal means they will both work with me for summer research at Bucknell this year!
+- **March:** My [EngageCSEedu](https://www.engage-csedu.org/) paper - _1-Hour Collaborative Learning Activity for Responsible Human-AI Design_ - was presented at a special session at [SIGCSE 2022](https://sigcse2022.sigcse.org/). [See the talk here](https://youtu.be/etKzRgoIahY) 
 
 ## 2021
 
