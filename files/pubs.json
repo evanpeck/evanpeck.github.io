@@ -387,6 +387,17 @@
 
   "publications": [
     {
+      "key": "tvcg_22_meta",
+      "author": ["Alyxander Burns", "Christiana Lee", "Thai On", "Cindy Xiong", "Evan M. Peck", "Narges Mahyar"],
+      "title": "From Invisible to Visible: Impacts of Metadata in Communicative Data Visualization",
+      "venue": "To appear - IEEE TVCG: Transactions on Visualization and Computer Graphics",
+      "year": 2023,
+      "thumbnail": "metavis.png",
+      "alt": "Thumbnail image: two maps in an infographic with surrounding text",
+      "type": "journal",
+      "tags": ["publicVis"]
+    },
+    {
       "key": "aied_22_ethics",
       "author": ["Iris Howley", "Darakhshan J. Mir", "Evan M. Peck"],
       "title": "Chapter: Integrating AI Ethics Across the Computing Curriculum",
@@ -397,7 +408,7 @@
       "type": "chapter",
       "link": "https://www.routledge.com/The-Ethics-of-Artificial-Intelligence-in-Education-Practices-Challenges/Holmes-Porayska-Pomsta/p/book/9780367349721",
       "supp": {
-        "(forthcoming) book link": "https://www.routledge.com/The-Ethics-of-Artificial-Intelligence-in-Education-Practices-Challenges/Holmes-Porayska-Pomsta/p/book/9780367349721"
+        "book link": "https://www.routledge.com/The-Ethics-of-Artificial-Intelligence-in-Education-Practices-Challenges/Holmes-Porayska-Pomsta/p/book/9780367349721"
       },
       "tags": ["criticalCS", "teaching"]
     },
