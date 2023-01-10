@@ -395,6 +395,9 @@
       "thumbnail": "metavis.png",
       "alt": "Thumbnail image: two maps in an infographic with surrounding text",
       "type": "journal",
+      "supp": {
+        "ieee early access": "https://ieeexplore.ieee.org/abstract/document/9998319"
+      },
       "tags": ["publicVis"]
     },
     {
