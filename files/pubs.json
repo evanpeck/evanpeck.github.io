@@ -387,7 +387,18 @@
 
   "publications": [
     {
-      "key": "tvcg_22_meta",
+      "key": "chi_23_meta",
+      "author": ["Alyxander Burns", "Christiana Lee", "Ria Chawla", "Evan M. Peck", "Narges Mahyar"],
+      "title": "Who Do We Mean When We Talk About Visualization Novices?",
+      "venue": "(conditionally accepted) - CHI: ACM Conference on Human Factors in Computing Systems",
+      "year": 2023,
+      "thumbnail": "novice.png",
+      "alt": "Thumbnail image: silhouette of a person standing",
+      "type": "conference",
+      "tags": ["publicVis"]
+    },
+    {
+      "key": "tvcg_23_meta",
       "author": ["Alyxander Burns", "Christiana Lee", "Thai On", "Cindy Xiong", "Evan M. Peck", "Narges Mahyar"],
       "title": "From Invisible to Visible: Impacts of Metadata in Communicative Data Visualization",
       "venue": "To appear - IEEE TVCG: Transactions on Visualization and Computer Graphics",
