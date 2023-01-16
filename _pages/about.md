@@ -39,13 +39,5 @@ I am an Associate Professor of [Computer Science at Bucknell University](https:/
 - **Sep:** I joined the Steering Commmittee of Bucknell's [Grand Challenges Scholars Program](https://www.bucknell.edu/academics/college-engineering/signature-engineering-programs/grand-challenges-scholars-program), which requires students to work on one or more grand societal challenges through a series of high-engagement activities (resaerch, service learning, etc.). 
 - **Aug:** For the 2022-23 academic year, I am co-chairing Bucknell University's _Committee on Instruction (COI)_ - Bucknell's governance mechanism for recommending university-wide policies on instructional programs across the university's three colleges.
 - **Aug:** I wrapped up a wonderful year-long sabbatical as a Visiting Scientist at MIT with Arvind Satyanarayan and the [MIT Visualization Group](http://vis.csail.mit.edu/). 
-- **July:** I am helping pilot a new workshop at Bucknell - [_Aspiring PUI Faculty Workshop_](https://bit.ly/bucknell-pui). This October, we'll host late-stage PhD students and post docs at Bucknell in order to help expose them to and prepare them for faculty positions at primarily-undergaduate instituions (PUIs). [Consider applying here!](https://bit.ly/bucknell-pui)
-- **July:** 📣 A new year and a new design for [https://cs-pui.github.io/](https://cs-pui.github.io/). CS-PUI is a website that I created to help advertise CS faculty positions at primarily-undergraduate institutions (PUIs) - it's now live for the 2022-2023 hiring cycle! We crossed 10,000 hits last year, and I'm excited to see it continue to grow this year!
-- **July:** A long overdue redesign of my website is finally complete (this one!): [https://evanpeck.github.io/](https://evanpeck.github.io/). I wrote plenty of custom javascript code to translate JSON publication-info to a prettier website format - feel free to ping me if you're interested in how it works. 
-- **June:** I joined the [BELIV 2022](https://beliv-workshop.github.io/comittee.html) program committee. This year's workshop focuses on _Designing and Evaluating Visualizations for an Ethical, Inclusive, and Responsible Future_
--   **May:** I co-authored a book chapter with Iris Howley and Darakhshan
-    Mir for [The Ethics of Artificial Intelligence in Education: Practices, Challenges, and Debates](https://www.routledge.com/The-Ethics-of-Artificial-Intelligence-in-Education-Practices-Challenges/Holmes-Porayska-Pomsta/p/book/9780367349721) by Routledge - *Integrating AI Ethics
-    Across the Computing Curriculum*. It\'s now off to the presses! 
-
 
 </div>
