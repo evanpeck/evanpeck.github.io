@@ -8,9 +8,11 @@ redirect_from:
 topImg: true
 ---
 
-### About me
+📣 **I am moving this summer.** After 9 wonderful years at Bucknell, I am transitioning to the **[University of Colorado Boulder](https://www.colorado.edu/)** and joining the faculty in the **[Department of Information Science](https://www.colorado.edu/cmci/infoscience)**. More info to come about my new research lab + opportunities for Ph.D. students.
+{: .notice--cu}
 
-I am an Associate Professor of [Computer Science at Bucknell University](https://www.bucknell.edu/academics/college-engineering/majors-departments/computer-science), and previously received my [Ph.D. in Computer Science](https://engineering.tufts.edu/cs/) from Tufts University. During my recent sabbatical, I worked as a Visiting Scientist at [MIT](http://vis.csail.mit.edu/) with [Arvind Satyanarayan](https://arvindsatya.com/). My research draws on the fields of [Human-Computer Interaction](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/human-computer-interaction-brief-intro) and [Information Visualization](https://www.interaction-design.org/literature/topics/information-visualization). I believe in _student-centered everything_. 
+
+I am currently an Associate Professor of [Computer Science at Bucknell University](https://www.bucknell.edu/academics/college-engineering/majors-departments/computer-science). Previously, I  received my [Ph.D. in Computer Science](https://engineering.tufts.edu/cs/) from Tufts University with [Robert Jacob](http://www.cs.tufts.edu/~jacob/), and worked during my recent sabbatical as a Visiting Scientist at [MIT](http://vis.csail.mit.edu/) with [Arvind Satyanarayan](https://arvindsatya.com/). My research draws on the fields of [Human-Computer Interaction](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/human-computer-interaction-brief-intro) and [Information Visualization](https://www.interaction-design.org/literature/topics/information-visualization). I believe in _student-centered everything_. 
 
 **Students:** [Check out my student FAQ](/student-faq) if you have questions about meeting, about research, or about recommendation letters! This semester, I am teaching 2 sections of CSCI 203: Introduction to Computer Science - MWF 11am and 1pm. 
 {: .notice--info}

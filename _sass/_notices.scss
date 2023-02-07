@@ -74,6 +74,23 @@
   @include notice($primary-color);
 }
 
+
+.notice--cu {
+  @include notice($cu-color);
+  background-color: #000000f5; 
+  font-size: 0.85em !important; // Evan: I added this
+  color: #fff;
+  box-shadow: 0 4px 4px #00000068;
+}
+
+.notice--cu a{
+  color: $cu-color;
+}
+
+.notice--cu p{
+  color: #fff;
+}
+
 /* Info notice */
 
 .notice--info {

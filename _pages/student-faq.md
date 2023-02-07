@@ -19,6 +19,8 @@ If you're struggling in a class I teach, I _especially_ would love to chat. I'm 
 **How to schedule a time to chat:** The best way to meet with me is to [use this link and propose meeting times](https://go.oncehub.com//EvanMPeck). If you can't seem to find any times that work for both of us, you should [email me anyways](mailto:evan.peck@bucknell.edu) to see if we can work something out. 
 
 ### Can I get involved with your research? 
+**Bucknell students:** Unfortunately, since I am moving to a new position this summer at CU Boulder, I'm unable to take any students. If you would still like to chat with me about other opportunities that might be available to you at Bucknell, I'm happy to meet
+{: .notice--info}
 
 I love working on research with undergraduate students. My capacity to do research varies by semester and by year, but there are often opportunities. Some things to know:
 
