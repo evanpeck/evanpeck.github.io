@@ -29,7 +29,7 @@ I am currently an Associate Professor of [Computer Science at Bucknell Universit
 ### Recent News ([see older news](/archive/news))
 
 <div markdown="1" class="news">
-- **Mar:** I spoke as an invited panelist at [Stanford University's _2023 Embedded EthiCS Conference on Strategies for Teaching Responsible Computing within the Computer Science Curriculum_](https://hai.stanford.edu/events/embedded-ethics-conference-strategies-teaching-responsible-computing-within-computer-science). The recordings are live and there were _many_ wonderful speakers. Check it out!
+- **Mar:** I spoke at [Stanford University's _2023 Embedded EthiCS Conference on Strategies for Teaching Responsible Computing within the Computer Science Curriculum_](https://hai.stanford.edu/events/embedded-ethics-conference-strategies-teaching-responsible-computing-within-computer-science). The recordings are live and there were _many_ wonderful speakers. Check it out!
 - **Feb:** I'm gave a (virtual) talk at the [University of Calgary Interactions Lab](https://ilab.ucalgary.ca) - _"Reimagining data visualization to reflect who we already are"_
 - **Jan:** I joined the program committee for the 2023 [ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT)](https://facctconference.org/index.html)
 - **Jan:** 🎉 In collaboration with [Alyx Burns](https://www.alyxburns.com/), [Christiana Lee](https://www.linkedin.com/in/leec-eunji), [Ria Chawla](https://ria-chawla.com/), and [Narges Mahyar](https://groups.cs.umass.edu/nmahyar/), our paper _"Who do we mean when we talk about visualization novices?"_ was conditionally accepted to [ACM CHI 2023](https://chi2023.acm.org/). More details soon!
