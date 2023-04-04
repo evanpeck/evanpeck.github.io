@@ -390,11 +390,15 @@
       "key": "chi_23_meta",
       "author": ["Alyxander Burns", "Christiana Lee", "Ria Chawla", "Evan M. Peck", "Narges Mahyar"],
       "title": "Who Do We Mean When We Talk About Visualization Novices?",
-      "venue": "(conditionally accepted) - CHI: ACM Conference on Human Factors in Computing Systems",
+      "venue": "CHI: ACM Conference on Human Factors in Computing Systems",
       "year": 2023,
       "thumbnail": "novice.png",
+      "award": "Best Paper Award",
       "alt": "Thumbnail image: silhouette of a person standing",
       "type": "conference",
+      "supp": {
+        "pdf": "2023-chi-preprint-vis-novices.pdf"
+      },
       "tags": ["publicVis"]
     },
     {
