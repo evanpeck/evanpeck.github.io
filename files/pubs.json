@@ -392,12 +392,15 @@
       "title": "Who Do We Mean When We Talk About Visualization Novices?",
       "venue": "CHI: ACM Conference on Human Factors in Computing Systems",
       "year": 2023,
+      "description": "We analyzed 79 visualization papers that used “novice,” “non-expert,” “laypeople,” or “general public”. We found ambiguity in novice definitions between papers and a misalignment between the broad language describing novices vs. the population representing them in evaluations (young people, students, and US residents)",
       "thumbnail": "novice.png",
       "award": "Best Paper Award",
       "alt": "Thumbnail image: silhouette of a person standing",
       "type": "conference",
       "supp": {
-        "pdf": "2023-chi-preprint-vis-novices.pdf"
+        "pdf": "2023-chi-preprint-vis-novices.pdf",
+        "video": "https://www.youtube.com/watch?v=Fue3c8AmeEU",
+        "open data": "https://osf.io/rdcsf/?view_only=d638db5ca96945ed9765134ffa450d8a"
       },
       "tags": ["publicVis"]
     },
@@ -499,6 +502,7 @@
       "author": ["Evan M. Peck", "Sofia E Ayuso", "Omar El-Etr"],
       "title": "Data is Personal: Attitudes and Perceptions of Data Visualization in Rural Pennsylvania",
       "venue": "CHI: ACM Conference on Human Factors in Computing Systems",
+      "description": "Many of the guidelines that inform how designers create data visualizations originate in studies that unintentionally exclude different populations. In this paper, we explore which factors may drive attention and trust in rural groups with diverse economic and educational backgrounds. In 42 semistructured interviews in rural Pennsylvania (USA), we find that a complex set of factors inform attitudes and perceptions about data visualization - including educational background, political affiliation, and personal experience",
       "year": 2019,
       "thumbnail": "farmersmarket.jpg",
       "alt": "Thumbnail image: Lewisburg's Farmer's Market building",
@@ -701,7 +705,7 @@
       	"blog post": "https://medium.com/@jordansekky/why-sightline-b877670aad5b",
         "archived site": "https://web.archive.org/web/20170710204643/https://sightlinevis.com/"
       },
-      "tags": ["publicVis"]
+      =
     },
   	{
       "key": "infovis_16",

@@ -83,9 +83,11 @@ function filterPubs(pub_data) {
         highlights = pubs.filter(pub => {
             return SETTINGS.highlights.includes(pub.key)
         });
-        pubs = pubs.filter(pub => {
-            return !SETTINGS.highlights.includes(pub.key)
-        });
+        // Previously I excluded highlights from "all pubs"
+        // This is commented out because I want to include them. 
+        // pubs = pubs.filter(pub => {
+        //     return !SETTINGS.highlights.includes(pub.key)
+        // });
     }
 
     return { pubs, highlights }
