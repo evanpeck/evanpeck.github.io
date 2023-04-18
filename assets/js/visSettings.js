@@ -15,7 +15,7 @@ var SETTINGS = {
     highlight_heading: "Highlighted Activity",
     highlightsID: "highlights",
     // [] if no highlights, fill with keys if highlights
-    highlights: ["chi_19_data", "vis_22_vis4good", "chi_23_meta"],
+    highlights: ["chi_19_data", "vis_22_vis4good", "chi_23_novices"],
     
     // -- PUBS SECTION
     show_pubs: true,
