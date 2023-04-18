@@ -387,7 +387,7 @@
 
   "publications": [
     {
-      "key": "chi_23_meta",
+      "key": "chi_23_novices",
       "author": ["Alyxander Burns", "Christiana Lee", "Ria Chawla", "Evan M. Peck", "Narges Mahyar"],
       "title": "Who Do We Mean When We Talk About Visualization Novices?",
       "venue": "CHI: ACM Conference on Human Factors in Computing Systems",
