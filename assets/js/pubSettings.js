@@ -28,6 +28,6 @@ var SETTINGS = {
         "thumbnail": "../../images/thumbnails/",
         "icons": "../../images/thumbnails/icons/",
         "pdf": "../../files/papers/",
-        "slides": "https://eg.bucknell.edu/~emp017/slides/"
+        "slides": "../../files/slides/"
     }
 }

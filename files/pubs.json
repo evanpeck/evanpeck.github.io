@@ -611,8 +611,7 @@
       "type": "workshop",
       "supp": {
         "pdf":"chi18-sensemakingvis.pdf",
-      	"workshop": "https://sensemakingchi2018.com/",
-      	"slides": "sensemaking_vis_chi2018.pptx"
+      	"workshop": "https://sensemakingchi2018.com/"
       },
       "tags": ["publicVis"]
     },
