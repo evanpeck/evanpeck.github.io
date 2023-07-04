@@ -14,7 +14,7 @@
             }
         },
         {
-            "key": "publicVis_proj",
+            "key": "vis_proj",
             "title": "Empowering People through Data",
             "year": 2022,
             "thumbnail": "vis4good.jpg",
@@ -26,7 +26,7 @@
             }
         },
         {
-            "key": "publicVis_proj",
+            "key": "pui_proj",
             "title": "Advocating for Undergraduate Research & Institutions",
             "year": 2022,
             "thumbnail": "proj-computer-icon.png",

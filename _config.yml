@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Evan M. Peck, Ph.D."
   avatar           : "me.jpg"
-  bio              : "Associate Professor of Computer Science"
+  bio              : "Information Science"
   location         : 
-  employer         : "Bucknell University"
+  employer         : "University of Colorado Boulder"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=H4TdGyYAAAAJ&hl=en"
-  email            : "evan.peck@bucknell.edu"
+  email            : "evan.peck@colorado.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
