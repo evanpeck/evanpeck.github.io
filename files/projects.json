@@ -2,8 +2,20 @@
 
     "publications": [
         {
+            "key": "vis_proj",
+            "title": "Empowering People through Data",
+            "year": 2023,
+            "thumbnail": "vis4good.jpg",
+            "alt": "Thumbnail image: a simple bar graph with a flower growing out of the top bar",
+            "link": "/projects/publicVis",
+            "description": "I believe that improving the public's engagement, trust, and understanding of data is a critical societal challenge. My research focuses on the opportunities and barriers of both data representations and data tools when they are embedded within our public sphere.",
+            "supp": {
+              "visit my project website": "/projects/publicVis"
+            }
+        },
+        {
             "key": "responsibleCS_proj",
-            "title": "Integrating Social Responsibility into Core CS",
+            "title": "Integrating Social Responsibility into Computing",
             "year": 2022,
             "thumbnail": "proj-responsibleCS.png",
             "alt": "Thumbnail image: illustration of a computer withe a heart on the screen",
@@ -11,18 +23,6 @@
             "description": "I believe that Computer Science departments must interrogate their core curricular structures to develop more socially responsible students in tech. I have worked to tightly couple responsibility with technical programming assignments in CS 1.",
             "supp": {
                 "visit my project website": "/projects/responsibleCS"
-            }
-        },
-        {
-            "key": "vis_proj",
-            "title": "Empowering People through Data",
-            "year": 2022,
-            "thumbnail": "vis4good.jpg",
-            "alt": "Thumbnail image: a simple bar graph with a flower growing out of the top bar",
-            "link": "/projects/publicVis",
-            "description": "I believe that improving the public's engagement, trust, and understanding of data is a critical societal challenge. My research focuses on the opportunities and barriers of both data representations and data tools when they are embedded within our public sphere.",
-            "supp": {
-              "visit my project website": "/projects/publicVis"
             }
         },
         {

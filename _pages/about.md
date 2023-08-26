@@ -8,13 +8,16 @@ redirect_from:
 topImg: true
 ---
 
-📣 **I am moving this summer.** After 9 wonderful years at Bucknell, I am transitioning to the **[University of Colorado Boulder](https://www.colorado.edu/)** and joining the faculty in the **[Department of Information Science](https://www.colorado.edu/cmci/infoscience)**. More info to come about my new research lab + opportunities for Ph.D. students.
+📣  After 9 wonderful years at Bucknell, I moved to the **[Department of Information Science at CU Boulder](https://www.colorado.edu/cmci/infoscience)**. Please be patient as I transition my website over to my new context. If you are thinking about graduate school, **I am planning to accept 1 or more PhD students for Fall 2024** (_more info yet to come!_)
 {: .notice--cu}
 
+I am an Associate Professor of [Information Science at University of Colorado Boulder](https://www.colorado.edu/cmci/infoscience). My research draws on the fields of [Human-Computer Interaction](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/human-computer-interaction-brief-intro) and [Information Visualization](https://www.interaction-design.org/literature/topics/information-visualization). I believe that improving the public's engagement, trust, and understanding of data is a critical societal challenge. My research focuses on the opportunities and barriers of both data representations and data tools when they are embedded within our public sphere.
 
-I am currently an Associate Professor of [Computer Science at Bucknell University](https://www.bucknell.edu/academics/college-engineering/majors-departments/computer-science). Previously, I  received my [Ph.D. in Computer Science](https://engineering.tufts.edu/cs/) from Tufts University with [Robert Jacob](http://www.cs.tufts.edu/~jacob/), and worked during my recent sabbatical as a Visiting Scientist at [MIT](http://vis.csail.mit.edu/) with [Arvind Satyanarayan](https://arvindsatya.com/). My research draws on the fields of [Human-Computer Interaction](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/human-computer-interaction-brief-intro) and [Information Visualization](https://www.interaction-design.org/literature/topics/information-visualization). I believe in _student-centered everything_. 
+Before CU, I was an Associate Professor of [Computer Science at Bucknell University](https://www.bucknell.edu/academics/college-engineering/majors-departments/computer-science), I  received my [Ph.D. in Computer Science](https://engineering.tufts.edu/cs/) from Tufts University with [Robert Jacob](http://www.cs.tufts.edu/~jacob/), and worked (during a recent sabbatical) as a Visiting Scientist at [MIT](http://vis.csail.mit.edu/) with [Arvind Satyanarayan](https://arvindsatya.com/).  
 
-**Students:** [Check out my student FAQ](/student-faq) if you have questions about meeting, about research, or about recommendation letters! This semester, I am teaching 2 sections of CSCI 203: Introduction to Computer Science - MWF 11am and 1pm. 
+<!-- [Check out my student FAQ](/student-faq) if you have questions about meeting, about research, or about recommendation letters! -->
+
+**Students:**  This semester, I am teaching [INFO 4602: Information Visualization](https://canvas.colorado.edu/courses/95292). We will be meeting MWF at 10:00am in HUMN 1B90. 
 {: .notice--info}
 
 ### Explore my work
@@ -29,6 +32,7 @@ I am currently an Associate Professor of [Computer Science at Bucknell Universit
 ### Recent News ([see older news](/archive/news))
 
 <div markdown="1" class="news">
+- **Aug:** After completing my move to CU Boulder, I was [officially awarded tenure in the department of Information Science](https://connections.cu.edu/stories/tenure-list-august-2023)!
 - **Apr:** 🏆 _"Who do we mean when we talk about visualization novices?"_ (with [Alyx Burns](https://www.alyxburns.com/), [Christiana Lee](https://www.linkedin.com/in/leec-eunji), [Ria Chawla](https://ria-chawla.com/), and [Narges Mahyar](https://groups.cs.umass.edu/nmahyar/)) was given a **Best Paper award at [ACM CHI 2023](https://chi2023.acm.org/)**! You can [read the preprint here](../files/papers/2023-chi-preprint-vis-novices.pdf) or [watch a presentation video](https://www.youtube.com/watch?v=Fue3c8AmeEU).
 - **Mar:** I spoke at [Stanford University's _2023 Embedded EthiCS Conference on Strategies for Teaching Responsible Computing within the Computer Science Curriculum_](https://hai.stanford.edu/events/embedded-ethics-conference-strategies-teaching-responsible-computing-within-computer-science). The recordings are live and there were _many_ wonderful speakers. Check it out!
 - **Feb:** I gave a (virtual) talk at the [University of Calgary Interactions Lab](https://ilab.ucalgary.ca) - _"Reimagining data visualization to reflect who we already are"_
