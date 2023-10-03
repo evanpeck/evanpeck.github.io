@@ -1,5 +1,5 @@
 ---
-title: "Empowering People through Data"
+title: "PhD Recruitement"
 permalink: /group/new-phd
 author_profile: true
 topImg: true
