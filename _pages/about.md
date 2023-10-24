@@ -33,9 +33,10 @@ Before CU, I was an Associate Professor of [Computer Science at Bucknell Univers
 
 <div markdown="1" class="news">
 - **Oct:** 📣 **I am planning to accept 1 or more PhD students for Fall 2024** - [click this link for more info](https://evanpeck.github.io/group/new-phd)
-- **Oct:** Upcoming talk at NCAR (National Center for Atmospheric Research): _Good for Scientists, Bad for Society: What happens when our charts don’t change minds?_
-- **Oct:** Upcoming guest lecture at Colorado College on thinking about the sociopolitical role of visualization.
-- **Aug:** After completing my move to CU Boulder, I was [officially awarded tenure in the department of Information Science](https://connections.cu.edu/stories/tenure-list-august-2023)!
+- **Oct:** Attending Mozilla's Responsible Computing Summit at Harvard University. 
+- **Oct:** Gave talk at NCAR (National Center for Atmospheric Research): _Good for Scientists, Bad for Society: What happens when our charts don’t change minds?_
+- **Oct:** Gave guest lecture at Colorado College on thinking about the sociopolitical role of visualization.
+- **Aug:** After completing my move to CU Boulder, I was [officially awarded tenure in the department of Information Science](https://connections.cu.edu/stories/tenure-list-august-2023). And they give us a [tenure medal!](https://photos.app.goo.gl/xutsdx8VY6yTtpVGA)
 - **Apr:** 🏆 _"Who do we mean when we talk about visualization novices?"_ (with [Alyx Burns](https://www.alyxburns.com/), [Christiana Lee](https://www.linkedin.com/in/leec-eunji), [Ria Chawla](https://ria-chawla.com/), and [Narges Mahyar](https://groups.cs.umass.edu/nmahyar/)) was given a **Best Paper award at [ACM CHI 2023](https://chi2023.acm.org/)**! You can [read the preprint here](../files/papers/2023-chi-preprint-vis-novices.pdf) or [watch a presentation video](https://www.youtube.com/watch?v=Fue3c8AmeEU).
 - **Mar:** I spoke at [Stanford University's _2023 Embedded EthiCS Conference on Strategies for Teaching Responsible Computing within the Computer Science Curriculum_](https://hai.stanford.edu/events/embedded-ethics-conference-strategies-teaching-responsible-computing-within-computer-science). The recordings are live and there were _many_ wonderful speakers. Check it out!
 - **Feb:** I gave a (virtual) talk at the [University of Calgary Interactions Lab](https://ilab.ucalgary.ca) - _"Reimagining data visualization to reflect who we already are"_
