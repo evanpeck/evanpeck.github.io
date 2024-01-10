@@ -17,7 +17,7 @@ Before CU, I was an Associate Professor of [Computer Science at Bucknell Univers
 
 <!-- [Check out my student FAQ](/student-faq) if you have questions about meeting, about research, or about recommendation letters! -->
 
-**Students:**  This semester, I am teaching [INFO 4602: Information Visualization](https://canvas.colorado.edu/courses/95292). We will be meeting MWF at 10:00am in HUMN 1B90. 
+**Students:**  This semester (SP 2024), I am teaching [INFO 4602: Information Visualization](https://canvas.colorado.edu/courses/100054). We will be meeting MWF at 11:15am in [CASE W262](https://www.colorado.edu/map?id=336#!m/347439). 
 {: .notice--info}
 
 ### Explore my work
