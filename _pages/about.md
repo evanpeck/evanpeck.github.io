@@ -8,7 +8,7 @@ redirect_from:
 topImg: true
 ---
 
-📣  After 9 wonderful years at Bucknell, I moved to the **[Department of Information Science at CU Boulder](https://www.colorado.edu/cmci/infoscience)**. Please be patient as I transition my website over to my new context. If you are thinking about graduate school, **I am planning to accept 1 or more PhD students for Fall 2024 - [click this link for more info](https://evanpeck.github.io/group/new-phd)** 
+📣  After 9 years at Bucknell, I moved to the **[Department of Information Science at CU Boulder](https://www.colorado.edu/cmci/infoscience)**. Please be patient as I transition my website over to my new context. If you are thinking about grad school at CU Boulder, the 2024 application deadlines have passed. However, you can still see [my lab philosophy in this past year's call](https://evanpeck.github.io/group/new-phd).
 {: .notice--cu}
 
 I am an Associate Professor of [Information Science at University of Colorado Boulder](https://www.colorado.edu/cmci/infoscience). My research draws on the fields of [Human-Computer Interaction](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/human-computer-interaction-brief-intro) and [Information Visualization](https://www.interaction-design.org/literature/topics/information-visualization). I believe that improving the public's engagement, trust, and understanding of data is a critical societal challenge. My research focuses on the opportunities and barriers of both data representations and data tools when they are embedded within our public sphere.

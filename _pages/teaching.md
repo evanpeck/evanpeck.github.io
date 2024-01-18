@@ -12,13 +12,19 @@ topImg: true
 
 ## Teaching at Bucknell and Beyond
 
-Below, I've included both the [**courses I've taught at Bucknell**](#courses) and my [**broader work in teaching and pedagogy**](#engagement).
+Below, I've included both the [**courses I've taught at CU Boulder and Bucknell**](#courses) and my [**broader work in teaching and pedagogy**](#engagement).
 {: .notice--info}
 
 I believe that the most critical societal challenges in Computer Science are sociotechnical in nature, and that CS education needs to reprioritize its training, recruitment, and retention of students to meet these challenges. My pedagogy is informed by CS education research, my curricular development [integrates social responsibility directly into technical content](/projects/responsibleCS), and my courses look to amplify voices that have been historically muted within Computer Science. 
 
-### Courses at Bucknell
+### Courses at CU Boulder
 {: #courses}
+
+**INFO 4602:** Information Visualization
+: In Fall 2023, I redesigned the undergraduate information visualization course. INFO 4602 covers traditional information visualization topics, but with a particular emphasis on the public communication and social impact of visualization. [Spring 2024's syllabus can be seen here](https://docs.google.com/document/d/1mIWOGKqEz635-n5ZWlt6wT9VREi1Jxkz4qKHXdIdHFg/edit?usp=sharing). 
+
+### Courses at Bucknell
+{: #courses-bucknell}
 
 **CSCI 187:** Creative Computing and Society 
 : A course created by [Darakhshan Mir](http://eg.bucknell.edu/~djm056/), CSCI 187 introduces computing in the context of creativity and examining problems of social good. Students create visual artifacts (using the javascript library [p5js](https://p5js.org/)) that will empower them to investigate, and draw novel insights from, data that may be social, historical, or textual in nature. Supplemented with discussions on computing's impact on society.
