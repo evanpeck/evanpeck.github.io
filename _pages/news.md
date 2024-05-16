@@ -4,6 +4,13 @@ permalink: /archive/news
 author_profile: true
 ---
 
+## 2023
+- **Apr:** 🏆 _"Who do we mean when we talk about visualization novices?"_ (with [Alyx Burns](https://www.alyxburns.com/), [Christiana Lee](https://www.linkedin.com/in/leec-eunji), [Ria Chawla](https://ria-chawla.com/), and [Narges Mahyar](https://groups.cs.umass.edu/nmahyar/)) was given a **Best Paper award at [ACM CHI 2023](https://chi2023.acm.org/)**! You can [read the preprint here](../files/papers/2023-chi-preprint-vis-novices.pdf) or [watch a presentation video](https://www.youtube.com/watch?v=Fue3c8AmeEU).
+- **Mar:** I spoke at [Stanford University's _2023 Embedded EthiCS Conference on Strategies for Teaching Responsible Computing within the Computer Science Curriculum_](https://hai.stanford.edu/events/embedded-ethics-conference-strategies-teaching-responsible-computing-within-computer-science). The recordings are live and there were _many_ wonderful speakers. Check it out!
+- **Feb:** I gave a (virtual) talk at the [University of Calgary Interactions Lab](https://ilab.ucalgary.ca) - _"Reimagining data visualization to reflect who we already are"_
+- **Jan:** I joined the program committee for the 2023 [ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT)](https://facctconference.org/index.html)
+- **Jan:** 🎉 In collaboration with [Alyx Burns](https://www.alyxburns.com/), [Christiana Lee](https://www.linkedin.com/in/leec-eunji), [Ria Chawla](https://ria-chawla.com/), and [Narges Mahyar](https://groups.cs.umass.edu/nmahyar/), our paper _"Who do we mean when we talk about visualization novices?"_ was conditionally accepted to [ACM CHI 2023](https://chi2023.acm.org/). More details soon!
+- **Dec:** 🎉 In collaboration with [Alyx Burns](https://www.alyxburns.com/), [Cindy Xiong](https://cyxiong.com/), [Narges Mahyar](https://groups.cs.umass.edu/nmahyar/), and other wonderful folk at UMass Amherst, our paper [_"From Invisible to Visible: Impacts of Metadata in Communicative Data Visualization"_](https://ieeexplore.ieee.org/abstract/document/9998319) was accepted to [IEEE Transactions on Visualization and Computer Graphics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945)
 
 ## 2022
 - **Dec:** Using an internal grant to support interdisciplinary collaboration, I'm co-organizing a design exhibition and celebration day that spans courses in all 3 colleges at Bucknell - my [Human-Computer Interaction course](https://sites.google.com/bucknell.edu/hci-fa22/home) (in CS through Engineering), Prof. Eddy Lopez's Graphic Design course (in Art through Arts & Sciences), and Prof. Gabriela Diego's Design Realization course (in MIDE through Management)
