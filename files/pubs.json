@@ -387,6 +387,22 @@
 
   "publications": [
     {
+      "key": "chi_24_vislit",
+      "author": ["Lily W Ge", "Maryam Hedayati", "Yuan Cui", "Yiren Ding", "Karen Bonilla", "Alark Joshi", "Alvitta Ottley", "Benjamin Bach", "Bum Chul Kwon", "David N Rapp", "Evan M. Peck", "Lace M Padilla", "Michael Correll", "Michelle A Borkin", "Lane Harrison", "Matthew Kay"],
+      "title": "Toward a More Comprehensive Understanding of Visualization Literacy",
+      "venue": "CHI: ACM Conference on Human Factors in Computing Systems",
+      "year": 2024,
+      "description": "Co-organizer: This workshop aims to facilitate and deepen critical discussions about how to define, study, and improve visualization literacy",
+      "thumbnail": "vislit.png",
+      "alt": "Thumbnail image: silhouette of two people looking at a bar graph",
+      "type": "workshop",
+      "supp": {
+        "workshop": "https://visualization-literacy.github.io/CHI2024/",
+        "ACM": "https://dl.acm.org/doi/full/10.1145/3613905.3636289"
+      },
+      "tags": ["publicVis"]
+    },
+    {
       "key": "chi_23_novices",
       "author": ["Alyxander Burns", "Christiana Lee", "Ria Chawla", "Evan M. Peck", "Narges Mahyar"],
       "title": "Who Do We Mean When We Talk About Visualization Novices?",
