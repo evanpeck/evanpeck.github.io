@@ -387,6 +387,28 @@
 
   "publications": [
     {
+      "key": "vis_24_surprise",
+      "author": ["Akim Ndlovu", "Hilson Shrestha", "Evan M. Peck", "Lane Harrison"],
+      "title": "SurpriseSync: Visual Exploration for De-biased Choropleth Maps",
+      "venue": "To appear - IEEE VIS",
+      "year": 2024,
+      "thumbnail": "choropleth.png",
+      "alt": "Thumbnail image: metaphorical image of bar chart with spokes coming from the center",
+      "type": "poster",
+      "tags": ["publicVis"]
+    },
+    {
+      "key": "vis_24_eda",
+      "author": ["Dylan Wootton", "Amy Rae Fox", "Evan M. Peck", "Arvind Satyanarayan"],
+      "title": "Charting EDA: Characterizing Interactive Visualization Use in Computational Notebooks with a Mixed-Methods Formalism",
+      "venue": "To appear - IEEE VIS",
+      "year": 2024,
+      "thumbnail": "visInteract.png",
+      "alt": "Thumbnail image: metaphorical image of bar chart with spokes coming from the center",
+      "type": "journal",
+      "tags": ["publicVis"]
+    },
+    {
       "key": "chi_24_vislit",
       "author": ["Lily W Ge", "Maryam Hedayati", "Yuan Cui", "Yiren Ding", "Karen Bonilla", "Alark Joshi", "Alvitta Ottley", "Benjamin Bach", "Bum Chul Kwon", "David N Rapp", "Evan M. Peck", "Lace M Padilla", "Michael Correll", "Michelle A Borkin", "Lane Harrison", "Matthew Kay"],
       "title": "Toward a More Comprehensive Understanding of Visualization Literacy",
@@ -425,13 +447,13 @@
       "key": "tvcg_23_meta",
       "author": ["Alyxander Burns", "Christiana Lee", "Thai On", "Cindy Xiong", "Evan M. Peck", "Narges Mahyar"],
       "title": "From Invisible to Visible: Impacts of Metadata in Communicative Data Visualization",
-      "venue": "To appear - IEEE TVCG: Transactions on Visualization and Computer Graphics",
+      "venue": "IEEE TVCG: Transactions on Visualization and Computer Graphics",
       "year": 2023,
       "thumbnail": "metavis.png",
       "alt": "Thumbnail image: two maps in an infographic with surrounding text",
       "type": "journal",
       "supp": {
-        "ieee early access": "https://ieeexplore.ieee.org/abstract/document/9998319"
+        "ieee": "https://ieeexplore.ieee.org/abstract/document/9998319"
       },
       "tags": ["publicVis"]
     },
