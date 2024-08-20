@@ -35,7 +35,7 @@ Before CU, I was an Associate Professor of [Computer Science at Bucknell Univers
 ### Recent News ([see older news](/archive/news))
 
 <div markdown="1" class="news">
-- **Aug:** Big welcome to the first graduate students in the **Informatio Visions Lab**, my new research group - Frida Mudsam (Ph.D.) and Adam Illig (MS). More detail soon!
+- **Aug:** Big welcome to the first graduate students in the **Information Visions Lab**, my new research group - Frida Mudsam (Ph.D.) and Adam Illig (MS). More detail soon!
 - **Aug:** Started a new role as _Associate Chair of Undergraduate Studies_ in CU Boulder's Information Science Department. 
 - **Jul:** 🎉 Co-authored paper lead by Dylan Wootton (MIT) was accepted to [IEEE VIS](https://ieeevis.org/). _Charting EDA: How Visualizations and Interactions Shape Analysis in Computational Notebooks_. Co-authors: Dylan Wootton (MIT), Amy Rae Fox (MIT), and Arvind Satyanarayan (MIT)
 - **Jul:** 🎉 Co-authored poster lead by Akim Ndlovu (WPI) was accepted to [IEEE VIS](https://ieeevis.org/). _SurpiseSync: Visual Exploration for De-biased Choropleth Maps_. Co-authors: Akim Ndlovu (WPI), Hilson Shrestha (WPI), and Lane Harrison (WPI)
