@@ -406,7 +406,11 @@
       "thumbnail": "visInteract.png",
       "alt": "Thumbnail image: metaphorical image of bar chart with spokes coming from the center",
       "type": "journal",
-      "tags": ["publicVis"]
+      "tags": ["publicVis"],
+      "supp": {
+        "paper": "https://arxiv.org/pdf/2409.10450",
+        "data and material": "https://osf.io/bu7je/"
+      }
     },
     {
       "key": "chi_24_vislit",
