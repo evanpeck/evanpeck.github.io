@@ -1,5 +1,5 @@
 ---
-title: "PhD Recruitement"
+title: "PhD Recruitment"
 permalink: /group/new-phd
 author_profile: true
 topImg: true
