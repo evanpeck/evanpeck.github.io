@@ -22,12 +22,10 @@ My work explores how we can design visualizations to meet communities where they
 
 ### What does the _Information Visions Lab_ focus on? 
 
-The **Information Visions Lab** imagines a future of data communication that prioritizes equity and access. Our research draws on information visualization tools and techniques to empower the ways in which diverse communities can trust, create, and engage with data. 
+The **Information Visions Lab** imagines a future of data communication that prioritizes equity and access. Our research draws on information visualization tools and techniques to empower the ways in which diverse communities can trust, create, and engage with data. _We're still working on your website!_
 {: .notice--info}
 
-We are a new research lab that currently has 1 Ph.D. student, 1 Masters student, and 2 BAM students (bachelor + masters). 
-
-My goal is to bring together a group of researchers that engages with communities to understands our lived experiences with data (even if that isn't a chart or graph). I am interested in projects that have both short-term, and long-term impact - ensuring that the outcomes of our research directly benefit the communities we are working with (see [reciprocal research](https://dl.acm.org/doi/10.1145/3392561.3397585)). My hope is that your interests align with one of these high-level questions: 
+We are a new research lab that currently has 1 Ph.D. student, 1 Masters student, and 2 BAM students (bachelor + masters). My goal is to bring together a group of researchers that engages with communities to understands our lived experiences with data (even if that isn't a chart or graph). I am interested in projects that have both short-term, and long-term impact - ensuring that the outcomes of our research directly benefit the communities we are working with (see [reciprocal research](https://dl.acm.org/doi/10.1145/3392561.3397585)). My hope is that your interests align with one of these high-level questions: 
 
 - **How do we design data visualizations to serve more diverse communities of people?** I believe that most of the ways in which we have historically chosen to communicate data to communities have failed. What would it mean to rethink our visualization design processes? How can we form a group that not only _researches_ vis for communities, but works _alongside_ them in reimagining data visualization in the future? You can see [some of my work in this space here](https://evanpeck.github.io/projects/publicVis), but if you read just one paper, I'd encourage you to read the [_Data is Personal_ paper](https://evanpeck.github.io/publications/#chi_19_data). 
 
@@ -63,8 +61,6 @@ As a guiding principle, **I view you as a collaborator**. Practically, that mean
 
 I prefer to have weekly 1-on-1 meetings with Ph.D. students, and also a hold a weekly  lab meeting that I expect you to attend. Your first year experience will vary depending on your background! If you enter the program with a clear vision that aligns with the goals of the lab, we'll start right away on a project of your choosing. However, I find that most new graduate students benefit from being integrated into existing projects _first_, while you get a better sense of research norms + expectations in HCI/Visualization, and also gain a stronger intuition for impactful questions (both for the research field, and more broadly!). 
 
-I am also a big advocate of community. I will connect you with researchers in the field that I think will help you, and our lab will hold social events with other groups at CU. 
-
 Because I think there is a strong relationship between teaching philosophies and advising philosophies, it might also help you to read some old articles I've written in that space: 
 - While you'll help me develop the _Information Visions_ group, this isn't my first time advising research. I have publicized my philosophy for performing research alongside students for years, and you can read my [student-centered research manifesto](https://medium.com/bucknell-hci/a-student-centered-research-manifesto-bfb41072fdca). 
 
@@ -72,6 +68,8 @@ Because I think there is a strong relationship between teaching philosophies and
 
 
 You should also know that **I have am supportive of diverse careers in either industry or academia**. I have written about [aligning personal priorities with the jobs we seek in academia](https://medium.com/bucknell-hci/the-jobs-i-didnt-see-my-misconceptions-of-the-academic-job-market-9cb98b057422), and I curate a [job ad website](https://cs-pui.github.io/). My own story has been non-linear within academia, and I've considered positions as far ranging as R1s, to liberal arts colleges (where I've worked before), to teaching-track positions. 
+
+Finally, I am also a big advocate of community. I will connect you with researchers in the field that I think will help you, and our lab will hold social events with other groups at CU. 
 
 There is more to write about advising than space practically allows, but [feel free to email me](mailto:evan.peck@colorado.edu)
 

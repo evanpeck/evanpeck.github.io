@@ -8,7 +8,7 @@ redirect_from:
 topImg: true
 ---
 
-📣  I am recruiting PhD students for Fall 2025 (deadline is in December 2024). While I am updating material for this admissions cycle, you can view [my lab philosophy in this past year's call](https://evanpeck.github.io/group/new-phd).
+📣  I am recruiting PhD students to the _Information Visions Lab_ for Fall 2025 (deadline is  December 1, 2024). If you are interested [you can learn more about our lab and whether you should apply here](https://evanpeck.github.io/group/new-phd).
 {: .notice--cu}
 
 I am an Associate Professor of [Information Science at University of Colorado Boulder](https://www.colorado.edu/cmci/infoscience), Associate Chair for Undergraduate Studies, and director of the **CU Information Visions Lab** (_website soon!_).
