@@ -12,6 +12,9 @@ topImg: true
 
 ![a couple of colorful visualizations, with the following text: "How do we design visualizations to serve more diverse communities of people? How do we change visualization education to stop prioritizing such a narrow band of people?](../../images/group/research-overview-23.png)
 
+⚠️ **Before you contact me:** _Read this document carefully_. I have received many emails over the last week from applicants who are primarily interested in ML/AI or Computer Vision. While a subset of our work intersects with ML/AI _applications_ and communicating its impact to diverse populations, my group is **not** going to research on ML/AI methods or algorithms. You are better served in a CS department or a with an advisor who specializes in that area.. 
+{: .notice--info}
+
 
 ### What are you interested in? 
 
