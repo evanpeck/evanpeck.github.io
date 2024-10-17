@@ -93,7 +93,7 @@ They are a lovely group of people, and a large part of why I chose to make CU Bo
 ### What are the next steps? 
 
 - [Familiarize yourself more with the program](https://www.colorado.edu/cmci/infoscience/phd), the [FAQ](https://www.colorado.edu/cmci/infoscience/gd/faq), and [PhD requirements](https://www.colorado.edu/cmci/infoscience/phd#req) to make sure Information Science is right for you. **The deadline for PhD applications is December 1st, 2024**
-- Feel free to email me if you have any questions or want to chat more about the research group I'm hoping to build: `evan.peck@colorado.edu`
+- Feel free to email me if you have any questions about the lab or the program: `evan.peck@colorado.edu`
 
-I do my best to respond to all prospective PhD student emails, but the practical reality is that I do not have the ability to have 1-on-1 conversations with every student that emails me! If I don't respond immediately _don't interpret this as a signal that I'm not interested_. Please feel comfortable reminding me after a week or so. 
+**Emailing me is _not_ an application.** Like most institutions, applicants must go through an application process run by the university. [Use this link to learn about our requirement and to apply](https://www.colorado.edu/cmci/infoscience/phd#req). If you would like to work with me, talk about it in your application statement and enter my name in the application form (there is typically a spot in which you can identify potential faculty).
 {: .notice--info}
