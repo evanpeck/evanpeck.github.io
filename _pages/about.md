@@ -35,6 +35,8 @@ Before CU, I was an Associate Professor of [Computer Science at Bucknell Univers
 ### Recent News ([see older news](/archive/news))
 
 <div markdown="1" class="news">
+- **Nov:** Gave a [guest talk at the Colorado School of Mines CS Seminar](https://www.linkedin.com/posts/williamstome_have-you-already-voted-and-want-to-spend-activity-7259930665213730816-ZPED?utm_source=share&utm_medium=member_desktop): _Good for Scientists, Bad for Society: Why won't data change our minds?_
+- **Oct:** Travelled to Salt Lake City to [join the University of Utah for IEEE VIS](https://www.linkedin.com/posts/evanmpeck_ieee-vis-conference-wasnt-spent-in-fl-like-activity-7253908123587878912-WTNm?utm_source=share&utm_medium=member_desktop), and host a virtual [Visualization for Social Good](https://vis4good.github.io/) meetup. 
 - **Sep:** A quick trip to Washington, DC where I participated in the keynote panel about AI + Ethics + Engineering Education for the 2024 NSF EEC Grantees Conference. 
 - **Aug:** Big welcome to the first graduate students in the **Information Visions Lab**, my new research group - Frida Mudsam (Ph.D.) and Adam Illig (MS). More detail soon!
 - **Aug:** Started a new role as _Associate Chair of Undergraduate Studies_ in CU Boulder's Information Science Department. 
@@ -49,8 +51,8 @@ Before CU, I was an Associate Professor of [Computer Science at Bucknell Univers
 - **Nov:** Along with colleagues at Bucknell University, I am a co-PI for a new grant via [Mozilla's Responsible Computing Challenge](https://foundation.mozilla.org/en/blog/mozilla-announces-15-new-responsible-computing-challenge-awardees-in-the-us/). In this interdisciplinary, multi-institution collaboration, we'll create a _Just Computing Fellows_ program and look to reimagine data visualization education at CU Boulder. 
 - **Oct:** Attending Mozilla's Responsible Computing Summit at Harvard University. 
 - **Oct:** Gave talk at NCAR (National Center for Atmospheric Research): _Good for Scientists, Bad for Society: What happens when our charts don’t change minds?_
-- **Oct:** Gave guest lecture at Colorado College on thinking about the sociopolitical role of visualization.
-- **Aug:** After completing my move to CU Boulder, I was [officially awarded tenure in the department of Information Science](https://connections.cu.edu/stories/tenure-list-august-2023). And they give us a [tenure medal!](https://photos.app.goo.gl/xutsdx8VY6yTtpVGA)
+<!-- - **Oct:** Gave guest lecture at Colorado College on thinking about the sociopolitical role of visualization.
+- **Aug:** After completing my move to CU Boulder, I was [officially awarded tenure in the department of Information Science](https://connections.cu.edu/stories/tenure-list-august-2023). And they give us a [tenure medal!](https://photos.app.goo.gl/xutsdx8VY6yTtpVGA) -->
 
 
 </div>
