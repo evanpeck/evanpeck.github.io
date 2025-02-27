@@ -35,6 +35,9 @@ Before CU, I was an Associate Professor of [Computer Science at Bucknell Univers
 ### Recent News ([see older news](/archive/news))
 
 <div markdown="1" class="news">
+- **Feb:** Co-authored [2024 CRA (Computer Research Association) Quadrennial Paper](https://cra.org/cra-quadrennial-papers/) - [_Empowering the Future Workforce:
+Prioritizing Education for the AI-Accelerated Job Market_](https://cra.org/wp-content/uploads/2025/02/2024-2025-CRA-Quad-Paper_-Empowering-the-Future-Workforce-Prioritizing-Education-for-the-AI-Accelerated-Job-Market.pdf)
+- **Feb:** 🎉 Co-authored paper led by Jen Rogers (Tufts University) was accepted to [ACM CHI](https://chi2025.acm.org/) Late-Breaking Work: _House Advantage or House of Cards? Stacking the Deck for Data Videos Leads to Null Results_
 - **Dec:** Featured on the _Changing Academic Life_ podcast: [Evan Peck on considered choices and career moves: from liberal arts to a research uni](https://changingacademiclife.captivate.fm/episode/evan-peck)
 - **Dec:** Served on the selection committee for [CRA's Outstanding Undergraduate Research Awards](https://cra.org/crae/awards/cra-outstanding-undergraduate-researchers/)
 - **Nov:** Gave a [guest talk at the Colorado School of Mines CS Seminar](https://www.linkedin.com/posts/williamstome_have-you-already-voted-and-want-to-spend-activity-7259930665213730816-ZPED?utm_source=share&utm_medium=member_desktop): _Good for Scientists, Bad for Society: Why won't data change our minds?_
@@ -42,8 +45,8 @@ Before CU, I was an Associate Professor of [Computer Science at Bucknell Univers
 - **Sep:** A quick trip to Washington, DC where I participated in the keynote panel about AI + Ethics + Engineering Education for the 2024 NSF EEC Grantees Conference. 
 - **Aug:** Big welcome to the first graduate students in the **Information Visions Lab**, my new research group - Frida Mudsam (Ph.D.) and Adam Illig (MS). More detail soon!
 - **Aug:** Started a new role as _Associate Chair of Undergraduate Studies_ in CU Boulder's Information Science Department. 
-- **Jul:** 🎉 Co-authored paper lead by Dylan Wootton (MIT) was accepted to [IEEE VIS](https://ieeevis.org/). [_Charting EDA: Characterizing Interactive Visualization Use in Computational Notebooks with a Mixed-Methods Formalism_](https://arxiv.org/pdf/2409.10450). Co-authors: Dylan Wootton (MIT), Amy Rae Fox (MIT), and Arvind Satyanarayan (MIT)
-- **Jul:** 🎉 Co-authored poster lead by Akim Ndlovu (WPI) was accepted to [IEEE VIS](https://ieeevis.org/). _SurpiseSync: Visual Exploration for De-biased Choropleth Maps_. Co-authors: Akim Ndlovu (WPI), Hilson Shrestha (WPI), and Lane Harrison (WPI)
+- **Jul:** 🎉 Co-authored paper led by Dylan Wootton (MIT) was accepted to [IEEE VIS](https://ieeevis.org/). [_Charting EDA: Characterizing Interactive Visualization Use in Computational Notebooks with a Mixed-Methods Formalism_](https://arxiv.org/pdf/2409.10450). Co-authors: Dylan Wootton (MIT), Amy Rae Fox (MIT), and Arvind Satyanarayan (MIT)
+- **Jul:** 🎉 Co-authored poster led by Akim Ndlovu (WPI) was accepted to [IEEE VIS](https://ieeevis.org/). _SurpiseSync: Visual Exploration for De-biased Choropleth Maps_. Co-authors: Akim Ndlovu (WPI), Hilson Shrestha (WPI), and Lane Harrison (WPI)
 - **May/June:** Joined the Board of Directors for [CRA-E (Computing Research Association - Education)](https://cra.org/crae/). Traveled to Chicago for annual Board meeting. 
 - **Apr:** Joined the [Journal of Visualization and Interaction (JoVI)](https://www.journalovi.org/) as an Associate Editor. 
 - **Apr:** Visited Harvey Mudd College and Pomona College to give [a seminar talk on public data visualization and commmunication](https://www.hmc.edu/calendar/events/cs-colloquium-evan-peck/). 
