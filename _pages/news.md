@@ -4,9 +4,13 @@ permalink: /archive/news
 author_profile: true
 ---
 
-
+## 2024
+- **Mar:** CU's _CMCI Now Magazine_ wrote a feature on my work: [#TechEthics](https://www.colorado.edu/cmcinow/2024/02/02/techethics)
+- **Jan:** Launched the _Just Tech Fellows_ program at CU for SP24 - a multi-disciplinary + mult-institution collection of undergraduate students + faculty that work at the intersection of tech + society. 
 
 ## 2023
+- **Dec:** Our ACM CHI 2024 workshop proposal [Toward a More Comprehensive Understanding of Visualization Literacy](https://visualization-literacy.github.io/CHI2024/) was accepted! I'm excited to co-organize with an outstanding group of faculty. 
+- **Nov:** Along with colleagues at Bucknell University, I am a co-PI for a new grant via [Mozilla's Responsible Computing Challenge](https://foundation.mozilla.org/en/blog/mozilla-announces-15-new-responsible-computing-challenge-awardees-in-the-us/). In this interdisciplinary, multi-institution collaboration, we'll create a _Just Computing Fellows_ program and look to reimagine data visualization education at CU Boulder. 
 - **Oct:** Attending Mozilla's Responsible Computing Summit at Harvard University. 
 - **Oct:** Gave talk at NCAR (National Center for Atmospheric Research): _Good for Scientists, Bad for Society: What happens when our charts don’t change minds?_
 - **Oct:** Gave guest lecture at Colorado College on thinking about the sociopolitical role of visualization.

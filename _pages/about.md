@@ -5,13 +5,13 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-topImg: true
+# topImg: true
 ---
 
-📣  I am recruiting PhD students to the _Information Visions Lab_ for Fall 2025 (deadline is  December 1, 2024). If you are interested [you can learn more about our lab and whether you should apply here](https://evanpeck.github.io/group/new-phd).
-{: .notice--cu}
+<!-- 📣  I am recruiting PhD students to the _Information Visions Lab_ for Fall 2025 (deadline is  December 1, 2024). If you are interested [you can learn more about our lab and whether you should apply here](https://evanpeck.github.io/group/new-phd).
+{: .notice--cu} -->
 
-I am an Associate Professor of [Information Science at University of Colorado Boulder](https://www.colorado.edu/cmci/infoscience), Associate Chair for Undergraduate Studies, and director of the **CU Information Visions Lab** (_website soon!_).
+I am an Associate Professor of [Information Science at University of Colorado Boulder](https://www.colorado.edu/cmci/infoscience), Associate Chair for Undergraduate Studies, and director of the **[CU Information Visions Lab](https://infovisions.github.io/)** (_under construction!_).
 
 - 📊 [My research group focuses on the opportunities and barriers of public data communication](/projects/publicVis), believing that our engagement, trust, and understanding of data is a critical societal challenge. My work is situated within the fields of [Human-Computer Interaction](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/human-computer-interaction-brief-intro) and [Information Visualization](https://www.interaction-design.org/literature/topics/information-visualization). 
 - 🧑‍💻 As [an advocate for undergraduate computing education](/projects/undergrad), I also publish pedagogical interventions that [integrate social responsibility into core computing curriculum](/projects/responsibleCS), and serve on the [Computer Research Association’s Education (CRA-E)](https://cra.org/crae/) Board of Directors.
@@ -35,6 +35,7 @@ Before CU, I was an Associate Professor of [Computer Science at Bucknell Univers
 ### Recent News ([see older news](/archive/news))
 
 <div markdown="1" class="news">
+- **Mar:** 🎉 Co-authored paper led by Akim Ndlovu (WPI) accepted to [EuroVis 2025](https://www.eurovis2025.lu/), and will be presented in Luxembourg in June - _SurpriseExplora: Tuning and Contextualizing Model-derived Maps with Interactive Visualizations_.
 - **Feb:** Co-authored [2024 CRA (Computer Research Association) Quadrennial Paper](https://cra.org/cra-quadrennial-papers/) - [_Empowering the Future Workforce:
 Prioritizing Education for the AI-Accelerated Job Market_](https://cra.org/wp-content/uploads/2025/02/2024-2025-CRA-Quad-Paper_-Empowering-the-Future-Workforce-Prioritizing-Education-for-the-AI-Accelerated-Job-Market.pdf)
 - **Feb:** 🎉 Co-authored paper led by Jen Rogers (Tufts University) was accepted to [ACM CHI](https://chi2025.acm.org/) Late-Breaking Work: _House Advantage or House of Cards? Stacking the Deck for Data Videos Leads to Null Results_
@@ -50,9 +51,5 @@ Prioritizing Education for the AI-Accelerated Job Market_](https://cra.org/wp-co
 - **May/June:** Joined the Board of Directors for [CRA-E (Computing Research Association - Education)](https://cra.org/crae/). Traveled to Chicago for annual Board meeting. 
 - **Apr:** Joined the [Journal of Visualization and Interaction (JoVI)](https://www.journalovi.org/) as an Associate Editor. 
 - **Apr:** Visited Harvey Mudd College and Pomona College to give [a seminar talk on public data visualization and commmunication](https://www.hmc.edu/calendar/events/cs-colloquium-evan-peck/). 
-- **Mar:** CU's _CMCI Now Magazine_ wrote a feature on my work: [#TechEthics](https://www.colorado.edu/cmcinow/2024/02/02/techethics)
-- **Jan:** Launched the _Just Tech Fellows_ program at CU for SP24 - a multi-disciplinary + mult-institution collection of undergraduate students + faculty that work at the intersection of tech + society. 
-- **Dec:** Our ACM CHI 2024 workshop proposal [Toward a More Comprehensive Understanding of Visualization Literacy](https://visualization-literacy.github.io/CHI2024/) was accepted! I'm excited to co-organize with an outstanding group of faculty. 
-- **Nov:** Along with colleagues at Bucknell University, I am a co-PI for a new grant via [Mozilla's Responsible Computing Challenge](https://foundation.mozilla.org/en/blog/mozilla-announces-15-new-responsible-computing-challenge-awardees-in-the-us/). In this interdisciplinary, multi-institution collaboration, we'll create a _Just Computing Fellows_ program and look to reimagine data visualization education at CU Boulder. 
 
 </div>

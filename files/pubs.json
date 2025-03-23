@@ -390,18 +390,22 @@
       "key": "vis_24_surprise",
       "author": ["Akim Ndlovu", "Hilson Shrestha", "Evan M. Peck", "Lane Harrison"],
       "title": "SurpriseSync: Visual Exploration for De-biased Choropleth Maps",
-      "venue": "To appear - IEEE VIS",
+      "venue": "IEEE VIS Posters",
       "year": 2024,
       "thumbnail": "choropleth.png",
       "alt": "Thumbnail image: metaphorical image of bar chart with spokes coming from the center",
       "type": "poster",
-      "tags": ["publicVis"]
+      "tags": ["publicVis"],
+      "supp": {
+        "pdf": "2024-visposter-surpriseSync.pdf",
+        "data and material": "https://osf.io/62c5u/"
+      }
     },
     {
       "key": "vis_24_eda",
       "author": ["Dylan Wootton", "Amy Rae Fox", "Evan M. Peck", "Arvind Satyanarayan"],
       "title": "Charting EDA: Characterizing Interactive Visualization Use in Computational Notebooks with a Mixed-Methods Formalism",
-      "venue": "To appear - IEEE VIS",
+      "venue": "IEEE TVCG: Transactions on Visualization and Computer Graphics (VIS 2024)",
       "year": 2024,
       "thumbnail": "visInteract.png",
       "alt": "Thumbnail image: metaphorical image of bar chart with spokes coming from the center",
@@ -409,6 +413,7 @@
       "tags": ["publicVis"],
       "supp": {
         "paper": "https://arxiv.org/pdf/2409.10450",
+        "ACM Library": "https://dl.acm.org/doi/10.1109/TVCG.2024.3456217",
         "data and material": "https://osf.io/bu7je/"
       }
     },
