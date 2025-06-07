@@ -35,6 +35,10 @@ Before CU, I was an Associate Professor of [Computer Science at Bucknell Univers
 ### Recent News ([see older news](/archive/news))
 
 <div markdown="1" class="news">
+- _July (Upcoming): Invited talk + participant at [Gordon Research Conference: Visualization in Science and Education](https://www.grc.org/_visualization-in-science-and-education-conference/2025/)_
+- _June (Upcoming): Attending Board of Directors Meeting for [CRA-E](https://cra.org/crae/)_
+- **May:** Awarded a Stage 2 grant from [Mozilla's Responsible Computing](https://www.mozillafoundation.org/en/responsible-computing-challenge/) Initiative.
+- **May:** Attended 4-Corners Vis PI meeting: A gathering for visualization researchers in the 4-corner states (Utah, Colorado, Arizona, New Mexico)
 - **Mar:** 🎉 Co-authored paper led by Akim Ndlovu (WPI) accepted to [EuroVis 2025](https://www.eurovis2025.lu/), and will be presented in Luxembourg in June - _SurpriseExplora: Tuning and Contextualizing Model-derived Maps with Interactive Visualizations_.
 - **Feb:** Co-authored [2024 CRA (Computer Research Association) Quadrennial Paper](https://cra.org/cra-quadrennial-papers/) - [_Empowering the Future Workforce:
 Prioritizing Education for the AI-Accelerated Job Market_](https://cra.org/wp-content/uploads/2025/02/2024-2025-CRA-Quad-Paper_-Empowering-the-Future-Workforce-Prioritizing-Education-for-the-AI-Accelerated-Job-Market.pdf)
@@ -48,8 +52,6 @@ Prioritizing Education for the AI-Accelerated Job Market_](https://cra.org/wp-co
 - **Aug:** Started a new role as _Associate Chair of Undergraduate Studies_ in CU Boulder's Information Science Department. 
 - **Jul:** 🎉 Co-authored paper led by Dylan Wootton (MIT) was accepted to [IEEE VIS](https://ieeevis.org/). [_Charting EDA: Characterizing Interactive Visualization Use in Computational Notebooks with a Mixed-Methods Formalism_](https://arxiv.org/pdf/2409.10450). Co-authors: Dylan Wootton (MIT), Amy Rae Fox (MIT), and Arvind Satyanarayan (MIT)
 - **Jul:** 🎉 Co-authored poster led by Akim Ndlovu (WPI) was accepted to [IEEE VIS](https://ieeevis.org/). _SurpiseSync: Visual Exploration for De-biased Choropleth Maps_. Co-authors: Akim Ndlovu (WPI), Hilson Shrestha (WPI), and Lane Harrison (WPI)
-- **May/June:** Joined the Board of Directors for [CRA-E (Computing Research Association - Education)](https://cra.org/crae/). Traveled to Chicago for annual Board meeting. 
-- **Apr:** Joined the [Journal of Visualization and Interaction (JoVI)](https://www.journalovi.org/) as an Associate Editor. 
-- **Apr:** Visited Harvey Mudd College and Pomona College to give [a seminar talk on public data visualization and commmunication](https://www.hmc.edu/calendar/events/cs-colloquium-evan-peck/). 
+
 
 </div>

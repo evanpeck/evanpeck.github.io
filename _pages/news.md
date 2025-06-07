@@ -5,6 +5,11 @@ author_profile: true
 ---
 
 ## 2024
+- **Jul:** 🎉 Co-authored paper led by Dylan Wootton (MIT) was accepted to [IEEE VIS](https://ieeevis.org/). [_Charting EDA: Characterizing Interactive Visualization Use in Computational Notebooks with a Mixed-Methods Formalism_](https://arxiv.org/pdf/2409.10450). Co-authors: Dylan Wootton (MIT), Amy Rae Fox (MIT), and Arvind Satyanarayan (MIT)
+- **Jul:** 🎉 Co-authored poster led by Akim Ndlovu (WPI) was accepted to [IEEE VIS](https://ieeevis.org/). _SurpiseSync: Visual Exploration for De-biased Choropleth Maps_. Co-authors: Akim Ndlovu (WPI), Hilson Shrestha (WPI), and Lane Harrison (WPI)
+- **May/June:** Joined the Board of Directors for [CRA-E (Computing Research Association - Education)](https://cra.org/crae/). Traveled to Chicago for annual Board meeting. 
+- **Apr:** Joined the [Journal of Visualization and Interaction (JoVI)](https://www.journalovi.org/) as an Associate Editor. 
+- **Apr:** Visited Harvey Mudd College and Pomona College to give [a seminar talk on public data visualization and commmunication](https://www.hmc.edu/calendar/events/cs-colloquium-evan-peck/). 
 - **Mar:** CU's _CMCI Now Magazine_ wrote a feature on my work: [#TechEthics](https://www.colorado.edu/cmcinow/2024/02/02/techethics)
 - **Jan:** Launched the _Just Tech Fellows_ program at CU for SP24 - a multi-disciplinary + mult-institution collection of undergraduate students + faculty that work at the intersection of tech + society. 
 
