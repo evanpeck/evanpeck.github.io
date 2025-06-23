@@ -2,6 +2,38 @@
 
   "projects": [
     {
+      "key": "crae_teaching_landscape",
+      "title": "Co-Organizer: CRA-E Career Landscape Workshop",
+      "year": 2025,
+      "venue": "Computing Research Association",
+      "thumbnail": "cra.png",
+      "type": "service",
+      "description": "I co-organized the 2025 CRA-E Career Landscape Workshop, which 'provides a forum for PhD students and postdocs to learn about career opportunities in computing research and education, including faculty positions at primarily undergraduate institutions (PUIs), teaching-focused faculty positions at research universities, and careers in industry and government labs that combine research and education'",
+      "link": "https://cra.org/crae/career-landscape-workshop/2025-workshop/",
+      "tags": ["undergrad", "teaching"]
+    },
+    {
+      "key": "crae_24",
+      "title": "CRA-E (Computing Research Association - Education) - Board of Directors",
+      "year": 2024,
+      "venue": "Computing Research Association",
+      "thumbnail": "cra.png",
+      "type": "service",
+      "description": "I am currently serving on the Board of Directors for CRA-E, which 'advances computing education at all levels, from K-12 to undergraduate to graduate education and beyond. CRA-E works to increase the number and diversity of students who pursue computing research careers, and to improve the quality and effectiveness of computing education research and teaching'",
+      "link": "https://cra.org/crae/",
+      "tags": ["undergrad", "teaching"]
+    },
+    {
+      "key": "assoc_chair_24",
+      "title": "Associate Chair of Undergraduate Studies - Information Science",
+      "year": 2024,
+      "venue": "University of Colorado Boulder",
+      "thumbnail": "cu.png",
+      "type": "service",
+      "description": "I am currently serving as the Associate Chair of Undergraduate Studies for CU Boulder's Information Science department (equivalent to Director of Undergraduate Studies in other programs)",
+      "tags": ["undergrad", "teaching"]
+    },
+    {
       "key": "service_22_PUI",
       "title": "Aspiring PUI Faculty Workshop",
       "year": 2022,
@@ -10,9 +42,9 @@
       "type": "service",
       "link": "https://bit.ly/bucknell-pui",
       "description": "I helped co-organize and pilot a new workshop at Bucknell that offered a professional development and networking opportunity for late-stage Ph.D.s and early postdocs in Natural Sciences and Mathematics who are interested in learning about, obtaining, and succeeding in a career at a primarily-undergraduate institution (PUI)",
-      "tags": ["undergrad"],
+      "tags": ["undergrad", "teaching"],
       "supp": {
-        "workshop site": "https://bit.ly/bucknell-pui"
+        "workshop site": "https://docs.google.com/document/d/1NZrqUdRI_ovW7Gmmhzqnj4a6cbD_DHBNpjoTMQnLY_Y/edit?usp=sharing"
       }
     },
     {
@@ -127,7 +159,7 @@
       "key": "service_21_cra",
       "title": "CRA Outstanding Research Award Selection Committee",
       "author": ["Evan M. Peck"],
-      "year": 2021,
+      "year": 2024,
       "thumbnail": "cra.png",
       "alt": "Thumbnail image: the CRA logo - a circular swirl of colors",
       "type": "service",
@@ -387,13 +419,59 @@
 
   "publications": [
     {
+      "key": "cra_24_quadpaper",
+      "author": ["Lisa Amini", "Henry F Korth", "Nita Patel", "Evan M. Peck", "Ben Zorn"],
+      "title": "Empowering the Future Workforce: Prioritizing Education for the AI-Accelerated Job Market",
+      "venue": "CRA Quadrennial Paper",
+      "year": 2024,
+      "thumbnail": "cra.png",
+      "alt": "Thumbnail image: the CRA logo - a circular swirl of colors",
+      "type": "white paper",
+      "tags": ["teaching", "criticalCS"],
+      "supp": {
+        "pdf": "https://cra.org/wp-content/uploads/2025/02/2024-2025-CRA-Quad-Paper_-Empowering-the-Future-Workforce-Prioritizing-Education-for-the-AI-Accelerated-Job-Market.pdf",
+        "CRA Quad Papers": "https://cra.org/cra-quadrennial-papers/",
+        "arxiv": "https://arxiv.org/abs/2503.09613"
+      }
+    },
+    {
+      "key": "chi_25_datavideo",
+      "author": ["Jen Rogers", "Leixian Shen", "Ab Mosca", "Evan M. Peck", "Mingwei Li", "Anzu Hakone", "Kristi Potter", "Remco Chang"],
+      "title": "House Advantage or House of Cards? Stacking the Deck for Data Videos Leads to Null Results",
+      "venue": "CHI: ACM Conference on Human Factors in Computing Systems - Late-Breaking Work",
+      "year": 2025,
+      "thumbnail": "video.png",
+      "alt": "Thumbnail image: video icon",
+      "type": "late-breaking work",
+      "tags": ["publicVis"],
+      "supp": {
+        "pdf": "2025-chi-datavideos.pdf",
+        "ACM library": "https://dl.acm.org/doi/10.1145/3706599.3720256"
+      }
+    },
+    {
+      "key": "eurovis_25_surpriseExplora",
+      "author": ["Akim Ndlovu", "Hilson Shrestha", "Evan M. Peck", "Lane Harrison"],
+      "title": "SurpriseExplora: Tuning and Contextualizing Model-derived Maps with Interactive Visualizations",
+      "venue": "Computer Graphics Forum (EuroVis 2025)",
+      "year": 2025,
+      "thumbnail": "choropleth.png",
+      "alt": "Thumbnail image: choropleth of the US with sketch style",
+      "type": "conference",
+      "tags": ["publicVis"],
+      "supp": {
+        "paper": "https://onlinelibrary.wiley.com/doi/10.1111/cgf.70114",
+        "data and material": "https://osf.io/7m89w/"
+      }
+    },
+    {
       "key": "vis_24_surprise",
       "author": ["Akim Ndlovu", "Hilson Shrestha", "Evan M. Peck", "Lane Harrison"],
       "title": "SurpriseSync: Visual Exploration for De-biased Choropleth Maps",
       "venue": "IEEE VIS Posters",
       "year": 2024,
       "thumbnail": "choropleth.png",
-      "alt": "Thumbnail image: metaphorical image of bar chart with spokes coming from the center",
+      "alt": "Thumbnail image: choropleth of the US with sketch style",
       "type": "poster",
       "tags": ["publicVis"],
       "supp": {

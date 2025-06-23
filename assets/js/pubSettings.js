@@ -16,7 +16,7 @@ var SETTINGS = {
     highlight_heading: "Selected Work",
     highlightsID: "highlights",
     // [] if no highlights, fill with keys if highlights
-    highlights: ["chi_23_novices", "sigcse_20_ethics", "chi_19_data", "chi_16"],
+    highlights: ["chi_23_novices", "sigcse_20_ethics", "chi_19_data"],
     
     // -- PUBS SECTION
     show_pubs: true,

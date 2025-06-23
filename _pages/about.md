@@ -8,20 +8,18 @@ redirect_from:
 # topImg: true
 ---
 
-<!-- 📣  I am recruiting PhD students to the _Information Visions Lab_ for Fall 2025 (deadline is  December 1, 2024). If you are interested [you can learn more about our lab and whether you should apply here](https://evanpeck.github.io/group/new-phd).
-{: .notice--cu} -->
-
 I am an Associate Professor of [Information Science at University of Colorado Boulder](https://www.colorado.edu/cmci/infoscience), Associate Chair for Undergraduate Studies, and director of the **[CU Information Visions Lab](https://infovisions.github.io/)** (_under construction!_).
 
 - 📊 [My research group focuses on the opportunities and barriers of public data communication](/projects/publicVis), believing that our engagement, trust, and understanding of data is a critical societal challenge. My work is situated within the fields of [Human-Computer Interaction](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/human-computer-interaction-brief-intro) and [Information Visualization](https://www.interaction-design.org/literature/topics/information-visualization). 
-- 🧑‍💻 As [an advocate for undergraduate computing education](/projects/undergrad), I also publish pedagogical interventions that [integrate social responsibility into core computing curriculum](/projects/responsibleCS), and serve on the [Computer Research Association’s Education (CRA-E)](https://cra.org/crae/) Board of Directors.
+- 🧑‍💻 As [an advocate for undergraduate computing education](/projects/undergrad), I also publish pedagogical interventions that [integrate social responsibility into core computing curriculum](/projects/responsibleCS), and serve on the [Computer Research Association’s Education (CRA-E)](https://cra.org/crae/) Board of Directors. See my [teaching page](/teaching/) for a broader perspective on my educational involvement. 
 
 Before CU, I was an Associate Professor of [Computer Science at Bucknell University](https://www.bucknell.edu/academics/college-engineering/majors-departments/computer-science), I received my [Ph.D. in Computer Science](https://engineering.tufts.edu/cs/) from Tufts University with [Robert Jacob](http://www.cs.tufts.edu/~jacob/), and worked (during a recent sabbatical) as a Visiting Scientist at [MIT](http://vis.csail.mit.edu/) with [Arvind Satyanarayan](https://arvindsatya.com/).  
 
 <!-- [Check out my student FAQ](/student-faq) if you have questions about meeting, about research, or about recommendation letters! -->
 
-**Students:**  In Spring 2025, I will be teaching INFO 4602: Information Visualization. We will meet MWF at 10:10am in the Continuing Education Center. 
-{: .notice--info}
+📣  **Prospective Ph.D. Students:** I do _not_ plan on offering new funded positions in my lab for the Fall 2026 application cycle. I encourage you to look at [my wonderful colleagues](https://www.colorado.edu/cmci/infoscience/labs) for other potential opportunities.
+{: .notice--cu}
+
 
 ### Explore my work
 
@@ -36,7 +34,7 @@ Before CU, I was an Associate Professor of [Computer Science at Bucknell Univers
 
 <div markdown="1" class="news">
 - _July (Upcoming): Invited talk + participant at [Gordon Research Conference: Visualization in Science and Education](https://www.grc.org/_visualization-in-science-and-education-conference/2025/)_
-- _June (Upcoming): Attending Board of Directors Meeting for [CRA-E](https://cra.org/crae/)_
+- **June:** Attending Board of Directors Meeting for [CRA-E](https://cra.org/crae/)
 - **May:** Awarded a Stage 2 grant from [Mozilla's Responsible Computing](https://www.mozillafoundation.org/en/responsible-computing-challenge/) Initiative.
 - **May:** Attended 4-Corners Vis PI meeting: A gathering for visualization researchers in the 4-corner states (Utah, Colorado, Arizona, New Mexico)
 - **Mar:** 🎉 Co-authored paper led by Akim Ndlovu (WPI) accepted to [EuroVis 2025](https://www.eurovis2025.lu/), and will be presented in Luxembourg in June - _SurpriseExplora: Tuning and Contextualizing Model-derived Maps with Interactive Visualizations_.

@@ -10,7 +10,10 @@ topImg: true
 <script src="{{ base_path }}/assets/js/teachingSettings.js"></script>
 <script src="{{ base_path }}/assets/js/listpubs.js"></script>
 
-## Teaching at Bucknell and Beyond
+**Students:**  In Fall 2025, I will be teaching INFO 4602: Information Visualization. We will meet MWF at 10:10am in CASE. 
+{: .notice--info}
+
+## Teaching at CU Boulder and Bucknell
 
 Below, I've included both the [**courses I've taught at CU Boulder and Bucknell**](#courses) and my [**broader work in teaching and pedagogy**](#engagement).
 {: .notice--info}
