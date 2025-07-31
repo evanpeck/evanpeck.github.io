@@ -17,7 +17,7 @@ Before CU, I was an Associate Professor of [Computer Science at Bucknell Univers
 
 <!-- [Check out my student FAQ](/student-faq) if you have questions about meeting, about research, or about recommendation letters! -->
 
-📣  **Prospective Ph.D. Students:** I do _not_ plan on offering new funded positions in my lab for the Fall 2026 application cycle. I encourage you to look at [my wonderful colleagues](https://www.colorado.edu/cmci/infoscience/labs) for other potential opportunities.
+📣  **Prospective Ph.D. Students:** Due to uncertainties in the federal funding landscape, I do not currently plan on offering new funded positions in my lab for the Fall 2026 application cycle. I encourage you to look at [my wonderful colleagues](https://www.colorado.edu/cmci/infoscience/labs) for other potential opportunities.
 {: .notice--cu}
 
 
@@ -33,7 +33,7 @@ Before CU, I was an Associate Professor of [Computer Science at Bucknell Univers
 ### Recent News ([see older news](/archive/news))
 
 <div markdown="1" class="news">
-- _July (Upcoming): Invited talk + participant at [Gordon Research Conference: Visualization in Science and Education](https://www.grc.org/_visualization-in-science-and-education-conference/2025/)_
+- **July:** Invited talk + participant at [Gordon Research Conference: Visualization in Science and Education](https://www.grc.org/_visualization-in-science-and-education-conference/2025/)
 - **June:** Attending Board of Directors Meeting for [CRA-E](https://cra.org/crae/)
 - **May:** Awarded a Stage 2 grant from [Mozilla's Responsible Computing](https://www.mozillafoundation.org/en/responsible-computing-challenge/) Initiative.
 - **May:** Attended 4-Corners Vis PI meeting: A gathering for visualization researchers in the 4-corner states (Utah, Colorado, Arizona, New Mexico)
