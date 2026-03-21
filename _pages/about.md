@@ -15,12 +15,6 @@ I am an Associate Professor of [Information Science at University of Colorado Bo
 
 Before CU, I was an Associate Professor of [Computer Science at Bucknell University](https://www.bucknell.edu/academics/college-engineering/majors-departments/computer-science), I received my [Ph.D. in Computer Science](https://engineering.tufts.edu/cs/) from Tufts University with [Robert Jacob](http://www.cs.tufts.edu/~jacob/), and worked (during a recent sabbatical) as a Visiting Scientist at [MIT](http://vis.csail.mit.edu/) with [Arvind Satyanarayan](https://arvindsatya.com/).  
 
-<!-- [Check out my student FAQ](/student-faq) if you have questions about meeting, about research, or about recommendation letters! -->
-
-📣  **Prospective Ph.D. Students:** Due to uncertainties in the federal funding landscape, I do not currently plan on offering new funded positions in my lab for the Fall 2026 application cycle. I encourage you to look at [my wonderful colleagues](https://www.colorado.edu/cmci/infoscience/labs) for other potential opportunities.
-{: .notice--cu}
-
-
 ### Explore my work
 
 <link rel="stylesheet" href="{{ base_path }}/assets/css/pubstyle.css">
@@ -33,9 +27,11 @@ Before CU, I was an Associate Professor of [Computer Science at Bucknell Univers
 ### Recent News ([see older news](/archive/news))
 
 <div markdown="1" class="news">
-- **Aug:** Classroom activity accepted to [EduVis 2025](https://ieee-eduvis.github.io/) -  _Seeing Speed: A Classroom Challenge in Color Mapping and Meaning_ (more resources soon!)
+- **Aug:** Co-Chairing [CRA Outstanding Undergraduate Researcher Awards](https://cra.org/crae/awards/cra-outstanding-undergraduate-researchers/) Selection Committee. Nominate your undergrads!
+- **Aug:** 🎉 Educator report accepted to [EduVis](https://ieee-eduvis.github.io/) @ IEEE VIS 2025-  _Seeing Speed: A Classroom Challenge in Color Mapping and Meaning_ (more resources soon!)
+- **Aug:** Serving on the committee for [Input Visualization Workshop](https://inputvisualization.github.io/vis2025/) @ IEEE VIS 2025
 - **July:** Invited talk + participant at [Gordon Research Conference: Visualization in Science and Education](https://www.grc.org/_visualization-in-science-and-education-conference/2025/)
-- **June:** Attending Board of Directors Meeting for [CRA-E](https://cra.org/crae/)
+- **June:** Attended Board of Directors Meeting for [CRA-E](https://cra.org/crae/)
 - **May:** Awarded a Stage 2 grant from [Mozilla's Responsible Computing](https://www.mozillafoundation.org/en/responsible-computing-challenge/) Initiative.
 - **May:** Attended 4-Corners Vis PI meeting: A gathering for visualization researchers in the 4-corner states (Utah, Colorado, Arizona, New Mexico)
 - **Mar:** 🎉 Co-authored paper led by Akim Ndlovu (WPI) accepted to [EuroVis 2025](https://www.eurovis2025.lu/), and will be presented in Luxembourg in June - _SurpriseExplora: Tuning and Contextualizing Model-derived Maps with Interactive Visualizations_.
@@ -45,12 +41,11 @@ Prioritizing Education for the AI-Accelerated Job Market_](https://cra.org/wp-co
 - **Dec:** Featured on the _Changing Academic Life_ podcast: [Evan Peck on considered choices and career moves: from liberal arts to a research uni](https://changingacademiclife.captivate.fm/episode/evan-peck)
 - **Dec:** Served on the selection committee for [CRA's Outstanding Undergraduate Research Awards](https://cra.org/crae/awards/cra-outstanding-undergraduate-researchers/)
 - **Nov:** Gave a [guest talk at the Colorado School of Mines CS Seminar](https://www.linkedin.com/posts/williamstome_have-you-already-voted-and-want-to-spend-activity-7259930665213730816-ZPED?utm_source=share&utm_medium=member_desktop): _Good for Scientists, Bad for Society: Why won't data change our minds?_
-- **Oct:** Travelled to Salt Lake City to [join the University of Utah for IEEE VIS](https://www.linkedin.com/posts/evanmpeck_ieee-vis-conference-wasnt-spent-in-fl-like-activity-7253908123587878912-WTNm?utm_source=share&utm_medium=member_desktop), and host a virtual [Visualization for Social Good](https://vis4good.github.io/) meetup. 
+- **Oct:** Traveled to Salt Lake City to [join the University of Utah for IEEE VIS](https://www.linkedin.com/posts/evanmpeck_ieee-vis-conference-wasnt-spent-in-fl-like-activity-7253908123587878912-WTNm?utm_source=share&utm_medium=member_desktop), and host a virtual [Visualization for Social Good](https://vis4good.github.io/) meetup. 
 - **Sep:** A quick trip to Washington, DC where I participated in the keynote panel about AI + Ethics + Engineering Education for the 2024 NSF EEC Grantees Conference. 
 - **Aug:** Big welcome to the first graduate students in the **Information Visions Lab**, my new research group - Frida Mudsam (Ph.D.) and Adam Illig (MS). More detail soon!
 - **Aug:** Started a new role as _Associate Chair of Undergraduate Studies_ in CU Boulder's Information Science Department. 
-- **Jul:** 🎉 Co-authored paper led by Dylan Wootton (MIT) was accepted to [IEEE VIS](https://ieeevis.org/). [_Charting EDA: Characterizing Interactive Visualization Use in Computational Notebooks with a Mixed-Methods Formalism_](https://arxiv.org/pdf/2409.10450). Co-authors: Dylan Wootton (MIT), Amy Rae Fox (MIT), and Arvind Satyanarayan (MIT)
-- **Jul:** 🎉 Co-authored poster led by Akim Ndlovu (WPI) was accepted to [IEEE VIS](https://ieeevis.org/). _SurpiseSync: Visual Exploration for De-biased Choropleth Maps_. Co-authors: Akim Ndlovu (WPI), Hilson Shrestha (WPI), and Lane Harrison (WPI)
+
 
 
 </div>
